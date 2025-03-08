@@ -43,6 +43,31 @@ jobs:
       - name: Clean up.
         run: rm -rf community
 
+      - name: Record versions.
+        run: |
+          multiverse.internals::record_versions(
+            versions = "versions.json",
+            repo = "https://staging.r-multiverse.org"
+          )
+        shell: Rscript {0}
+
+      - name: Record issues.
+        run: |
+          multiverse.internals::record_issues(
+            repo = "https://staging.r-multiverse.org",
+            versions = "versions.json",
+            output = "issues.json"
+          )
+        shell: Rscript {0}
+
+      - name: Record non-standard licenses.
+        run: |
+          multiverse.internals::record_nonstandard_licenses(
+            repo = "https://staging.r-multiverse.org",
+            path = "nonstandard_licenses.json"
+          )
+        shell: Rscript {0}
+
       - name: Commit and push changes.
         run: |
           git add *.json
