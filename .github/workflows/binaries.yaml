@@ -10,7 +10,7 @@ on:
     - cron: '0 0 22 12 *' # 12:00 AM on December 22
 
 jobs:
-  snapshot:
+  binaries:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
 
