@@ -41,7 +41,6 @@ on:
 jobs:
   snapshot:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
 
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
