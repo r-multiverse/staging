@@ -44,5 +44,5 @@ jobs:
             while read -r DATE
             do
               echo "Removing old binaries from $DATE/bin"
-              rclone delete --rmdirs production:${{ secrets.CLOUDFLARE_BUCKET }}/$DATE/bin
+              rclone delete --rmdirs production:${{ secrets.CLOUDFLARE_BUCKET }}/$DATE/bin $RCLONE_FLAGS
             done
