@@ -12,7 +12,6 @@ on:
 jobs:
   binaries:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
 
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -25,15 +24,6 @@ jobs:
 
       - name: Install Rclone.
         run: sudo -v; curl https://rclone.org/install.sh | sudo bash
-
-      - name: Store snapshot date as environment variable.
-        run: echo "DATE=$(Rscript -e 'cat(multiverse.internals::meta_snapshot()$snapshot)')" >> $GITHUB_ENV
-
-      - name: Print target snapshot date.
-        run: echo $DATE
-
-      - name: Check out the staging universe.
-        uses: actions/checkout@v4
 
       - name: Configure Rclone with R2.
         run: |
