@@ -1,4 +1,6 @@
 name: candidate_freeze
+permissions:
+  contents: write
 
 on:
   workflow_dispatch:
