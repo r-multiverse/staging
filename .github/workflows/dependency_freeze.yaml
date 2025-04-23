@@ -1,4 +1,6 @@
 name: dependency_freeze
+permissions:
+  contents: write
 
 on:
   workflow_dispatch:
