@@ -1,5 +1,7 @@
 # Removes old binaries from the R2 bucket.
 name: binaries
+# No need for GITHUB_TOKEN:
+permissions: {}
 
 on:
   workflow_dispatch:
