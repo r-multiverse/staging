@@ -237,7 +237,7 @@
   },
   "INLA": {
     "success": [false],
-    "published": ["2025-04-10 02:53:29.329 UTC"],
+    "published": ["2025-04-23 09:22:43.637 UTC"],
     "version": ["19.09.03"],
     "remote_hash": ["0fa332471d2e19548cc0f63e36873e31dbd685be"],
     "r_cmd_check": {
@@ -247,7 +247,7 @@
         "win": ["MISSING"],
         "source": ["FAILURE"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14323961052"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14614470300"]
     }
   },
   "jagstargets": {
@@ -350,7 +350,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2025-04-17 02:51:22.920 UTC"],
+    "published": ["2025-04-23 09:19:06.174 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": {
@@ -360,7 +360,7 @@
         "win": ["MISSING"],
         "source": ["FAILURE"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14459263415"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14614464145"]
     }
   },
   "rwasm": {
