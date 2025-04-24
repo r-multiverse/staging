@@ -237,7 +237,7 @@
   },
   "INLA": {
     "success": [false],
-    "published": ["2025-04-23 09:22:43.637 UTC"],
+    "published": ["2025-04-24 03:01:39.568 UTC"],
     "version": ["19.09.03"],
     "remote_hash": ["0fa332471d2e19548cc0f63e36873e31dbd685be"],
     "r_cmd_check": {
@@ -344,13 +344,13 @@
   },
   "rlang": {
     "success": [true],
-    "published": ["2025-04-16 03:13:17.818 UTC"],
+    "published": ["2025-04-24 06:28:41.967 UTC"],
     "version": ["1.1.6"],
     "remote_hash": ["830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0"]
   },
   "Rvision": {
     "success": [false],
-    "published": ["2025-04-23 09:19:06.174 UTC"],
+    "published": ["2025-04-24 02:58:15.803 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": {
