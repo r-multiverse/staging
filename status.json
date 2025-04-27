@@ -62,7 +62,7 @@
   },
   "asylum": {
     "success": [false],
-    "published": ["2025-04-02 06:25:22.963 UTC"],
+    "published": ["2025-04-27 12:02:43.953 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
     "cran": ["1.1.2"]
@@ -169,7 +169,7 @@
   },
   "geographr": {
     "success": [false],
-    "published": ["2025-04-02 06:48:21.326 UTC"],
+    "published": ["2025-04-27 12:44:20.007 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"],
     "r_cmd_check": {
@@ -178,7 +178,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14213106072"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14691973153"]
     }
   },
   "glaredb": {
@@ -270,7 +270,7 @@
   },
   "loneliness": {
     "success": [false],
-    "published": ["2025-04-02 06:24:44.164 UTC"],
+    "published": ["2025-04-27 12:01:49.671 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["330d200bf9de4a76ca1e82e3d84a3c5aba946707"],
     "r_cmd_check": {
@@ -279,7 +279,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14212879867"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14691779855"]
     }
   },
   "milRex": {
@@ -308,7 +308,7 @@
   },
   "nanoarrow": {
     "success": [true],
-    "published": ["2025-04-02 06:29:54.959 UTC"],
+    "published": ["2025-04-27 12:10:16.786 UTC"],
     "version": ["0.6.0"],
     "remote_hash": ["33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd"]
   },
@@ -326,7 +326,7 @@
   },
   "prophet": {
     "success": [true],
-    "published": ["2025-04-02 07:09:19.755 UTC"],
+    "published": ["2025-04-27 12:42:10.818 UTC"],
     "version": ["1.1.6"],
     "remote_hash": ["2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02"]
   },
@@ -385,7 +385,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2025-04-02 06:47:20.213 UTC"],
+    "published": ["2025-04-27 12:46:03.888 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": {
@@ -394,7 +394,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14213106037"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14691893933"]
     },
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
   },
@@ -418,13 +418,13 @@
   },
   "targetsketch": {
     "success": [true],
-    "published": ["2025-04-02 07:02:16.561 UTC"],
+    "published": ["2025-04-27 12:43:28.230 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
   "taxizedb": {
     "success": [true],
-    "published": ["2025-04-02 06:45:48.789 UTC"],
+    "published": ["2025-04-27 12:47:15.114 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"]
   },
@@ -496,7 +496,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2025-04-02 06:33:23.676 UTC"],
+    "published": ["2025-04-27 12:09:04.818 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
