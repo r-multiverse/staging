@@ -46,19 +46,10 @@
     }
   },
   "arrow": {
-    "success": [false],
-    "published": ["2025-04-02 06:57:39.553 UTC"],
-    "version": ["19.0.1"],
-    "remote_hash": ["272715f6df2a042d69881ffa03d5078c58e4b345"],
-    "r_cmd_check": {
-      "issues": {
-        "mac aarch64 R-4.5.0": ["WARNING"],
-        "mac x86_64 R-4.5.0": ["WARNING"],
-        "win x86_64 R-4.5.0": ["WARNING"]
-      },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14213106390"]
-    },
-    "cran": ["19.0.1.1"]
+    "success": [true],
+    "published": ["2025-04-27 13:58:52.740 UTC"],
+    "version": ["20.0.0"],
+    "remote_hash": ["3ad0370a04ccdae638755b94c3c31c8760a11193"]
   },
   "asylum": {
     "success": [false],
@@ -183,7 +174,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2025-04-02 06:47:59.713 UTC"],
+    "published": ["2025-04-27 13:48:23.619 UTC"],
     "version": ["0.0.4"],
     "remote_hash": ["349c5bb3a1fca6a8cefae381094b046c8ce028b2"],
     "r_cmd_check": {
@@ -192,7 +183,7 @@
         "mac x86_64 R-4.5.0": ["WARNING"],
         "win": ["MISSING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14213106209"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14692625850"]
     }
   },
   "healthyr": {
@@ -296,7 +287,7 @@
   },
   "multitools": {
     "success": [true],
-    "published": ["2025-04-02 06:55:33.236 UTC"],
+    "published": ["2025-04-27 13:39:38.954 UTC"],
     "version": ["0.1.1"],
     "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
@@ -371,7 +362,7 @@
   },
   "SBC": {
     "success": [false],
-    "published": ["2025-04-02 07:33:25.904 UTC"],
+    "published": ["2025-04-27 13:55:59.278 UTC"],
     "version": ["0.3.0.9000"],
     "remote_hash": ["9ddc803105f5350dae6efb4ae2657e89d2a54aa8"],
     "r_cmd_check": {
@@ -380,7 +371,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14213106611"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14692199536"]
     }
   },
   "stantargets": {
@@ -442,7 +433,7 @@
   },
   "tidytensor": {
     "success": [false],
-    "published": ["2025-04-02 06:29:54.351 UTC"],
+    "published": ["2025-04-27 13:43:14.503 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["14f5b87d2dfae20eb35cfd974adf660a4fd89980"],
     "r_cmd_check": {
@@ -451,7 +442,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14212880609"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14692548436"]
     }
   },
   "unigd": {
