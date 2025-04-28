@@ -1,7 +1,7 @@
 {
   "adbcbigquery": {
     "success": [false],
-    "published": ["2025-04-08 06:46:39.058 UTC"],
+    "published": ["2025-04-28 00:04:47.742 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"],
     "r_cmd_check": {
@@ -9,18 +9,18 @@
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14326744855"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14697352667"]
     }
   },
   "adbcdrivermanager": {
     "success": [true],
-    "published": ["2025-04-08 06:42:40.474 UTC"],
+    "published": ["2025-04-28 00:07:01.769 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2025-04-08 06:48:45.944 UTC"],
+    "published": ["2025-04-28 00:03:17.733 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"],
     "r_cmd_check": {
@@ -28,12 +28,12 @@
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14326744764"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14697353573"]
     }
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-04-10 02:51:15.571 UTC"],
+    "published": ["2025-04-28 00:04:15.081 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"],
     "r_cmd_check": {
@@ -42,7 +42,7 @@
         "mac x86_64 R-4.5.0": ["WARNING"],
         "win x86_64 R-4.5.0": ["ERROR"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14326744804"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14697354147"]
     }
   },
   "arrow": {
@@ -255,7 +255,7 @@
   },
   "litedown": {
     "success": [true],
-    "published": ["2025-04-08 07:26:21.052 UTC"],
+    "published": ["2025-04-28 00:00:39.470 UTC"],
     "version": ["0.7"],
     "remote_hash": ["637bdf024a413116174f09c25f7d366c4bd43a94"]
   },
