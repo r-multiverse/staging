@@ -20,7 +20,7 @@
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2025-04-28 00:03:17.733 UTC"],
+    "published": ["2025-05-04 04:43:40.489 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"],
     "r_cmd_check": {
@@ -28,7 +28,7 @@
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14697353573"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14817543582"]
     }
   },
   "adbcsnowflake": {
