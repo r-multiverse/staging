@@ -154,7 +154,7 @@
   },
   "duckdb": {
     "success": [true],
-    "published": ["2025-05-05 16:02:38.894 UTC"],
+    "published": ["2025-05-05 16:57:52.391 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["73d731fb8b71bc33e93c2ea91fe402e34c1d699c"]
   },
@@ -305,7 +305,7 @@
   },
   "nanonext": {
     "success": [true],
-    "published": ["2025-04-16 03:01:02.332 UTC"],
+    "published": ["2025-05-05 17:20:57.148 UTC"],
     "version": ["1.5.2"],
     "remote_hash": ["08b1ace5e45fe84152ed7413708ffa6f667b11a8"]
   },
@@ -317,7 +317,7 @@
   },
   "prophet": {
     "success": [true],
-    "published": ["2025-04-27 12:42:10.818 UTC"],
+    "published": ["2025-05-05 17:03:20.729 UTC"],
     "version": ["1.1.6"],
     "remote_hash": ["2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02"]
   },
