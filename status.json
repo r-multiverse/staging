@@ -60,7 +60,7 @@
   },
   "audio.vadwebrtc": {
     "success": [true],
-    "published": ["2025-04-27 13:30:08.315 UTC"],
+    "published": ["2025-05-06 04:54:53.592 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
   },
@@ -433,7 +433,7 @@
   },
   "tidytensor": {
     "success": [false],
-    "published": ["2025-04-27 13:43:14.503 UTC"],
+    "published": ["2025-05-06 05:11:29.091 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["14f5b87d2dfae20eb35cfd974adf660a4fd89980"],
     "r_cmd_check": {
@@ -442,7 +442,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14692548436"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14851926883"]
     }
   },
   "unigd": {
