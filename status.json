@@ -33,7 +33,7 @@
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-05-06 09:42:13.388 UTC"],
+    "published": ["2025-05-06 20:02:14.661 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": {
@@ -82,7 +82,7 @@
   },
   "autometric": {
     "success": [true],
-    "published": ["2025-05-06 19:14:03.868 UTC"],
+    "published": ["2025-05-06 20:36:58.974 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
@@ -493,7 +493,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2025-04-27 12:09:04.818 UTC"],
+    "published": ["2025-05-06 19:48:54.891 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
