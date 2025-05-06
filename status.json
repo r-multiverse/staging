@@ -322,16 +322,10 @@
     "remote_hash": ["2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02"]
   },
   "prqlr": {
-    "success": [false],
-    "published": ["2025-04-16 03:16:42.621 UTC"],
+    "success": [true],
+    "published": ["2025-05-06 20:44:06.960 UTC"],
     "version": ["0.10.1"],
-    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
-    "r_cmd_check": {
-      "issues": {
-        "mac aarch64 R-4.5.0": ["ERROR"]
-      },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14459260718"]
-    }
+    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
   },
   "rJavaEnv": {
     "success": [true],
