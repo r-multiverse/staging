@@ -160,7 +160,7 @@
   },
   "geographr": {
     "success": [false],
-    "published": ["2025-04-27 12:44:20.007 UTC"],
+    "published": ["2025-05-06 04:07:58.821 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"],
     "r_cmd_check": {
@@ -169,7 +169,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14691973153"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14851128621"]
     }
   },
   "glaredb": {
