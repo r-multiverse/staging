@@ -82,7 +82,7 @@
   },
   "autometric": {
     "success": [true],
-    "published": ["2025-04-16 02:57:55.859 UTC"],
+    "published": ["2025-05-06 19:14:03.868 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
@@ -322,10 +322,16 @@
     "remote_hash": ["2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02"]
   },
   "prqlr": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-04-16 03:16:42.621 UTC"],
     "version": ["0.10.1"],
-    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
+    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
+    "r_cmd_check": {
+      "issues": {
+        "mac aarch64 R-4.5.0": ["ERROR"]
+      },
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14459260718"]
+    }
   },
   "rJavaEnv": {
     "success": [true],
