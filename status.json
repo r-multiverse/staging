@@ -1,7 +1,7 @@
 {
   "adbcbigquery": {
     "success": [false],
-    "published": ["2025-05-06 01:23:09.451 UTC"],
+    "published": ["2025-05-07 05:11:42.571 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": {
@@ -9,7 +9,7 @@
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14849535850"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14875486122"]
     }
   },
   "adbcdrivermanager": {
