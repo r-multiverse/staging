@@ -261,7 +261,7 @@
   },
   "loneliness": {
     "success": [false],
-    "published": ["2025-04-27 12:01:49.671 UTC"],
+    "published": ["2025-05-09 03:15:44.461 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["330d200bf9de4a76ca1e82e3d84a3c5aba946707"],
     "r_cmd_check": {
@@ -270,7 +270,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14691779855"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14920581924"]
     }
   },
   "milRex": {
