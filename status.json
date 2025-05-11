@@ -474,7 +474,7 @@
   },
   "wildfires": {
     "success": [false],
-    "published": ["2025-04-27 13:03:50.210 UTC"],
+    "published": ["2025-05-11 05:38:45.073 UTC"],
     "version": ["0.9.0"],
     "remote_hash": ["228c24be602b16073ff2bc8096d5df9d42dc6ea1"],
     "r_cmd_check": {
@@ -483,7 +483,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14692194565"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14952665652"]
     }
   },
   "zstdlite": {
