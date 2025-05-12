@@ -47,7 +47,7 @@
   },
   "arrow": {
     "success": [true],
-    "published": ["2025-05-12 07:55:13.059 UTC"],
+    "published": ["2025-05-12 12:36:43.779 UTC"],
     "version": ["20.0.0"],
     "remote_hash": ["3ad0370a04ccdae638755b94c3c31c8760a11193"]
   },
@@ -448,7 +448,7 @@
   },
   "unigd": {
     "success": [true],
-    "published": ["2025-05-12 08:04:04.857 UTC"],
+    "published": ["2025-05-12 12:07:41.282 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
   },
