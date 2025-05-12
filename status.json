@@ -103,7 +103,7 @@
   },
   "cmdstanr": {
     "success": [true],
-    "published": ["2025-04-16 03:21:34.779 UTC"],
+    "published": ["2025-05-12 20:11:31.785 UTC"],
     "version": ["0.9.0"],
     "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"]
   },
@@ -129,13 +129,13 @@
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2025-04-16 03:12:44.197 UTC"],
+    "published": ["2025-05-12 20:06:01.200 UTC"],
     "version": ["0.0.10"],
     "remote_hash": ["bc77f5f669e805efbd3dd595264841f73a48207a"]
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2025-04-17 02:50:27.838 UTC"],
+    "published": ["2025-05-12 20:12:11.829 UTC"],
     "version": ["0.3.7"],
     "remote_hash": ["0999b6ebdaa89606d63115998cd373313b4d3f40"]
   },
@@ -210,7 +210,7 @@
   },
   "ichimoku": {
     "success": [true],
-    "published": ["2025-04-16 03:18:17.535 UTC"],
+    "published": ["2025-05-12 19:53:52.414 UTC"],
     "version": ["1.5.6"],
     "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"]
   },
@@ -330,7 +330,7 @@
   },
   "rJavaEnv": {
     "success": [true],
-    "published": ["2025-04-16 03:07:10.757 UTC"],
+    "published": ["2025-05-12 20:17:13.091 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
   },
@@ -357,7 +357,7 @@
   },
   "rwasm": {
     "success": [true],
-    "published": ["2025-04-16 03:12:07.891 UTC"],
+    "published": ["2025-05-12 20:06:19.864 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["a7079cbfd10428e18486578d3c309c9fd69f6d97"]
   },
@@ -392,7 +392,7 @@
   },
   "string2path": {
     "success": [true],
-    "published": ["2025-04-16 03:05:40.371 UTC"],
+    "published": ["2025-05-12 20:17:23.553 UTC"],
     "version": ["0.2.2"],
     "remote_hash": ["64be930c5bbef7e1cc491ccc52c115991113d2ac"]
   },
@@ -422,14 +422,14 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2025-04-17 02:53:41.802 UTC"],
+    "published": ["2025-05-12 20:21:41.591 UTC"],
     "version": ["0.13.0"],
     "remote_hash": ["4e08e45d2ef7deb254caf0a2bce945cc445b1d88"],
     "r_cmd_check": {
       "issues": {
         "win R-4.5.0": ["ERROR"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14459266379"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14981435760"]
     }
   },
   "tidytensor": {
