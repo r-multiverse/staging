@@ -434,7 +434,7 @@
   },
   "tidytensor": {
     "success": [false],
-    "published": ["2025-05-06 05:11:29.091 UTC"],
+    "published": ["2025-05-13 09:23:46.154 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["14f5b87d2dfae20eb35cfd974adf660a4fd89980"],
     "r_cmd_check": {
@@ -443,7 +443,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14851926883"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14991895535"]
     }
   },
   "unigd": {
