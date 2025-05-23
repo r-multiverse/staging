@@ -49,7 +49,8 @@ jobs:
           multiverse.internals::record_status(
             repo = "https://staging.r-multiverse.org",
             versions = "versions.json",
-            output = "status.json"
+            output = "status.json",
+            staging = "packages.json"
           )
         shell: Rscript {0}
 
