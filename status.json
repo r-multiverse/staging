@@ -464,7 +464,7 @@
   },
   "webseq": {
     "success": [false],
-    "published": ["2025-05-13 14:51:22.078 UTC"],
+    "published": ["2025-05-24 03:57:09.565 UTC"],
     "version": ["0.1"],
     "remote_hash": ["b710f93da5b8dd8a30fa170cdf3da8da943fbae1"],
     "r_cmd_check": {
@@ -473,7 +473,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/14692435362"]
+      "url": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/15223071540"]
     }
   },
   "wildfires": {
