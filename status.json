@@ -33,7 +33,7 @@
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-05-23 06:13:41.434 UTC"],
+    "published": ["2025-05-24 02:55:57.316 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": {
@@ -297,7 +297,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-05-23 03:26:55.838 UTC"],
+    "published": ["2025-05-24 02:50:34.094 UTC"],
     "version": ["1.0.10"],
     "remote_hash": ["a05cff7f40006968b805deb052915a76ac38bf22"]
   },
