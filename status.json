@@ -53,7 +53,7 @@
   },
   "asylum": {
     "success": [false],
-    "published": ["2025-05-14 01:15:31.686 UTC"],
+    "published": ["2025-05-25 06:22:49.436 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
     "cran": ["1.1.2"]
