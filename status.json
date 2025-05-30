@@ -300,7 +300,7 @@
   },
   "httpgd": {
     "success": [false],
-    "published": ["2025-05-14 01:00:22.170 UTC"],
+    "published": ["2025-05-30 05:30:40.361 UTC"],
     "version": ["2.0.3"],
     "remote_hash": ["7181a6fb9c863b710ebcf718f0585070aab5c194"],
     "cran": ["2.0.4"]
