@@ -318,7 +318,7 @@
   },
   "igraph": {
     "success": [true],
-    "published": ["2025-05-14 00:29:42.871 UTC"],
+    "published": ["2025-06-04 05:47:40.423 UTC"],
     "version": ["2.1.4"],
     "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"]
   },
@@ -352,7 +352,7 @@
   },
   "later": {
     "success": [true],
-    "published": ["2025-05-14 00:37:58.328 UTC"],
+    "published": ["2025-06-04 06:44:01.161 UTC"],
     "version": ["1.4.2"],
     "remote_hash": ["78933e3dc32bc171a4dea25d77fb27abbd726f8d"]
   },
