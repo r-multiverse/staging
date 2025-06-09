@@ -304,11 +304,10 @@
     ]
   },
   "httpgd": {
-    "success": [false],
-    "published": ["2025-05-30 05:30:40.361 UTC"],
-    "version": ["2.0.3"],
-    "remote_hash": ["7181a6fb9c863b710ebcf718f0585070aab5c194"],
-    "cran": ["2.0.4"]
+    "success": [true],
+    "published": ["2025-06-09 03:43:24.326 UTC"],
+    "version": ["2.0.4"],
+    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
   "ichimoku": {
     "success": [true],
@@ -560,7 +559,7 @@
   },
   "targetsketch": {
     "success": [true],
-    "published": ["2025-05-14 01:29:25.246 UTC"],
+    "published": ["2025-06-09 04:37:39.286 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
