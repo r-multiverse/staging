@@ -259,7 +259,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2025-06-09 03:38:31.555 UTC"],
+    "published": ["2025-06-10 03:19:04.335 UTC"],
     "version": ["0.0.4"],
     "remote_hash": ["349c5bb3a1fca6a8cefae381094b046c8ce028b2"],
     "r_cmd_check": [
@@ -267,13 +267,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15525981319/job/43705869339"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15525981319/job/43777331943"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15525981319/job/43705868750"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15525981319/job/43777331201"
       }
     ]
   },
