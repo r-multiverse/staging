@@ -67,7 +67,7 @@
   },
   "arrow": {
     "success": [true],
-    "published": ["2025-05-13 18:50:29.638 UTC"],
+    "published": ["2025-06-11 04:41:15.128 UTC"],
     "version": ["20.0.0"],
     "remote_hash": ["3ad0370a04ccdae638755b94c3c31c8760a11193"]
   },
@@ -157,7 +157,7 @@
   },
   "cmdstanr": {
     "success": [true],
-    "published": ["2025-05-13 18:30:56.934 UTC"],
+    "published": ["2025-06-11 04:01:15.707 UTC"],
     "version": ["0.9.0"],
     "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"]
   },
@@ -189,7 +189,7 @@
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2025-05-13 18:32:26.144 UTC"],
+    "published": ["2025-06-11 03:57:19.256 UTC"],
     "version": ["0.0.10"],
     "remote_hash": ["bc77f5f669e805efbd3dd595264841f73a48207a"]
   },
