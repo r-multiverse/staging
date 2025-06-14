@@ -125,7 +125,7 @@
   },
   "autometric": {
     "success": [true],
-    "published": ["2025-06-05 03:41:58.253 UTC"],
+    "published": ["2025-06-14 04:34:37.003 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
@@ -389,7 +389,7 @@
   },
   "milRex": {
     "success": [true],
-    "published": ["2025-05-27 07:15:11.681 UTC"],
+    "published": ["2025-06-14 04:01:25.448 UTC"],
     "version": ["1.1.0"],
     "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
   },
