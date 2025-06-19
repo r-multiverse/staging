@@ -330,7 +330,7 @@
   },
   "INLA": {
     "success": [false],
-    "published": ["2025-05-18 14:07:18.437 UTC"],
+    "published": ["2025-06-19 03:13:09.931 UTC"],
     "version": ["19.09.03"],
     "remote_hash": ["0fa332471d2e19548cc0f63e36873e31dbd685be"],
     "license": ["NOT FOUND"],
@@ -339,7 +339,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15014468432/job/42432242712"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15697830209/job/44388785660"
       }
     ]
   },
@@ -455,7 +455,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2025-05-18 13:58:39.085 UTC"],
+    "published": ["2025-06-19 03:04:11.693 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "license": ["NOT FOUND"],
@@ -464,13 +464,13 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15014470122/job/42432230717"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15697703223/job/44388771702"
       }
     ]
   },
   "rwasm": {
     "success": [true],
-    "published": ["2025-05-20 04:55:00.269 UTC"],
+    "published": ["2025-06-19 04:56:28.684 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["a7079cbfd10428e18486578d3c309c9fd69f6d97"]
   },
