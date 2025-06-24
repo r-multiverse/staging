@@ -571,15 +571,15 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2025-05-25 05:21:36.306 UTC"],
+    "published": ["2025-06-24 05:10:56.059 UTC"],
     "version": ["0.13.0"],
     "remote_hash": ["4e08e45d2ef7deb254caf0a2bce945cc445b1d88"],
     "r_cmd_check": [
       {
         "check": "ERROR",
         "config": "windows-release",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15234412917/job/42846431653"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15841681271/job/44655581676"
       }
     ]
   },
