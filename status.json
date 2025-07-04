@@ -413,13 +413,13 @@
   },
   "nanoarrow": {
     "success": [true],
-    "published": ["2025-06-04 03:55:54.174 UTC"],
+    "published": ["2025-07-04 03:46:12.088 UTC"],
     "version": ["0.6.0"],
     "remote_hash": ["33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd"]
   },
   "nanonext": {
     "success": [true],
-    "published": ["2025-06-04 04:02:47.913 UTC"],
+    "published": ["2025-07-04 03:53:54.437 UTC"],
     "version": ["1.5.2"],
     "remote_hash": ["08b1ace5e45fe84152ed7413708ffa6f667b11a8"]
   },
@@ -431,7 +431,7 @@
   },
   "prophet": {
     "success": [true],
-    "published": ["2025-06-04 04:31:15.096 UTC"],
+    "published": ["2025-07-04 04:14:56.585 UTC"],
     "version": ["1.1.6"],
     "remote_hash": ["2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02"]
   },
