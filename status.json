@@ -351,13 +351,13 @@
   },
   "later": {
     "success": [true],
-    "published": ["2025-06-04 06:44:01.161 UTC"],
+    "published": ["2025-07-04 05:48:44.259 UTC"],
     "version": ["1.4.2"],
     "remote_hash": ["78933e3dc32bc171a4dea25d77fb27abbd726f8d"]
   },
   "litedown": {
     "success": [true],
-    "published": ["2025-06-04 06:56:29.117 UTC"],
+    "published": ["2025-07-04 06:03:54.529 UTC"],
     "version": ["0.7"],
     "remote_hash": ["637bdf024a413116174f09c25f7d366c4bd43a94"]
   },
