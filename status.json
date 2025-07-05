@@ -233,27 +233,27 @@
   },
   "geographr": {
     "success": [false],
-    "published": ["2025-06-05 04:31:12.039 UTC"],
+    "published": ["2025-07-05 03:45:44.055 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "linux-release-x86_64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15458183921/job/43514409410"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16084137809/job/45393141600"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15458183921/job/43514409415"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16084137809/job/45393141594"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15458183921/job/43514409413"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16084137809/job/45393141589"
       }
     ]
   },
