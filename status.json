@@ -21,27 +21,27 @@
   },
   "adbcdrivermanager": {
     "success": [true],
-    "published": ["2025-06-05 06:49:34.858 UTC"],
+    "published": ["2025-07-05 05:35:23.888 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"]
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2025-06-05 06:46:41.023 UTC"],
+    "published": ["2025-07-05 05:33:22.519 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15459369165/job/43517546966"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16084939156/job/45394926372"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15459369165/job/43517546954"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16084939156/job/45394926376"
       }
     ]
   },
@@ -80,7 +80,7 @@
   },
   "audio.vadwebrtc": {
     "success": [true],
-    "published": ["2025-06-05 06:36:21.420 UTC"],
+    "published": ["2025-07-05 05:17:29.312 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
   },
