@@ -323,7 +323,7 @@
   },
   "IMD": {
     "success": [false],
-    "published": ["2025-06-07 05:47:52.489 UTC"],
+    "published": ["2025-07-07 05:24:44.387 UTC"],
     "version": ["1.2.1"],
     "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
     "cran": ["1.2.2"]
@@ -547,13 +547,13 @@
   },
   "tarchetypes": {
     "success": [true],
-    "published": ["2025-06-07 05:24:15.230 UTC"],
+    "published": ["2025-07-07 05:08:44.711 UTC"],
     "version": ["0.13.1"],
     "remote_hash": ["ef15320481cfa9cce782237153aad38eac31a3b2"]
   },
   "targets": {
     "success": [true],
-    "published": ["2025-06-07 05:50:04.822 UTC"],
+    "published": ["2025-07-07 05:32:29.964 UTC"],
     "version": ["1.11.3"],
     "remote_hash": ["38e43681e0d5c8a589b41fdc80807d432ec4eb74"]
   },
