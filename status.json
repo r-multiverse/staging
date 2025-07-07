@@ -1,23 +1,9 @@
 {
   "adbcbigquery": {
-    "success": [false],
-    "published": ["2025-07-06 06:10:18.900 UTC"],
-    "version": ["0.18.0"],
-    "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
-    "r_cmd_check": [
-      {
-        "check": "WARNING",
-        "config": "macos-release-arm64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16095941916/job/45418852270"
-      },
-      {
-        "check": "WARNING",
-        "config": "macos-release-x86_64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16095941916/job/45418852265"
-      }
-    ]
+    "success": [true],
+    "published": ["2025-07-07 06:56:01.670 UTC"],
+    "version": ["0.19.0"],
+    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
   "adbcdrivermanager": {
     "success": [true],
@@ -26,44 +12,16 @@
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"]
   },
   "adbcflightsql": {
-    "success": [false],
-    "published": ["2025-07-05 05:33:22.519 UTC"],
-    "version": ["0.18.0"],
-    "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
-    "r_cmd_check": [
-      {
-        "check": "WARNING",
-        "config": "macos-release-arm64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16084939156/job/45394926372"
-      },
-      {
-        "check": "WARNING",
-        "config": "macos-release-x86_64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16084939156/job/45394926376"
-      }
-    ]
+    "success": [true],
+    "published": ["2025-07-07 06:55:37.467 UTC"],
+    "version": ["0.19.0"],
+    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
   "adbcsnowflake": {
-    "success": [false],
-    "published": ["2025-06-24 03:06:54.506 UTC"],
-    "version": ["0.18.0"],
-    "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
-    "r_cmd_check": [
-      {
-        "check": "WARNING",
-        "config": "macos-release-arm64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15804256557/job/44570363137"
-      },
-      {
-        "check": "WARNING",
-        "config": "macos-release-x86_64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15804256557/job/44570363189"
-      }
-    ]
+    "success": [true],
+    "published": ["2025-07-07 06:58:08.016 UTC"],
+    "version": ["0.19.0"],
+    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
   "arrow": {
     "success": [true],
