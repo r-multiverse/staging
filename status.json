@@ -44,39 +44,39 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2025-06-09 05:17:13.700 UTC"],
+    "published": ["2025-07-09 05:11:24.415 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["4b5c6a288c0f46a4cdc47f50d2d35395d3e32194"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "linux-release-arm64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15527216632/job/43709214388"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16160705339/job/45611900593"
       },
       {
         "check": "WARNING",
         "config": "linux-release-x86_64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15527216632/job/43709213851"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16160705339/job/45611900607"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15527216632/job/43709214221"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16160705339/job/45611900613"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15527216632/job/43709213452"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16160705339/job/45611900598"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/15527216632/job/43709213988"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16160705339/job/45611900508"
       }
     ],
     "remotes": ["bnosac/audio.vadwebrtc"]
@@ -517,7 +517,7 @@
   },
   "targetsketch": {
     "success": [true],
-    "published": ["2025-06-09 04:37:39.286 UTC"],
+    "published": ["2025-07-09 05:14:40.920 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
