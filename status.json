@@ -352,10 +352,30 @@
     "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
   },
   "mirai": {
-    "success": [true],
-    "published": ["2025-06-13 06:40:14.473 UTC"],
+    "success": [false],
+    "published": ["2025-07-13 06:07:25.875 UTC"],
     "version": ["2.2.0"],
-    "remote_hash": ["06c062f0bc239da1a3781560a65c230f0ef7805f"]
+    "remote_hash": ["06c062f0bc239da1a3781560a65c230f0ef7805f"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16246031809/job/45869084097"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16246031809/job/45869084098"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16246031809/job/45869084100"
+      }
+    ]
   },
   "multitools": {
     "success": [true],
