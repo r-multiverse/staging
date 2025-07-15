@@ -252,6 +252,13 @@
     "hash_highest": "2b5b485fb178e47934c8041f03d4382f79a205f6"
   },
   {
+    "package": "polars0",
+    "version_current": "1.0.0",
+    "hash_current": "8972f0106e87e1f02da005613855fe99628d66db",
+    "version_highest": "1.0.0",
+    "hash_highest": "8972f0106e87e1f02da005613855fe99628d66db"
+  },
+  {
     "package": "prophet",
     "version_current": "1.1.6",
     "hash_current": "2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02",
