@@ -419,7 +419,7 @@
   },
   "polars0": {
     "success": [false],
-    "published": ["2025-07-15 01:55:39.651 UTC"],
+    "published": ["2025-07-15 03:16:20.273 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["8972f0106e87e1f02da005613855fe99628d66db"],
     "license": ["NOT FOUND"],
@@ -428,7 +428,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16282106367/job/45973647623"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16282106367/job/45976555765"
       }
     ]
   },
