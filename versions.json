@@ -8,10 +8,10 @@
   },
   {
     "package": "adbcdrivermanager",
-    "version_current": "0.18.0",
-    "hash_current": "b093c15341a00af954c4954696cab910fa794f6e",
-    "version_highest": "0.18.0",
-    "hash_highest": "b093c15341a00af954c4954696cab910fa794f6e"
+    "version_current": "0.19.0",
+    "hash_current": "c18f54a033651ed435c28161f1beaf062eca0720",
+    "version_highest": "0.19.0",
+    "hash_highest": "c18f54a033651ed435c28161f1beaf062eca0720"
   },
   {
     "package": "adbcflightsql",
@@ -85,24 +85,24 @@
   },
   {
     "package": "crew",
-    "version_current": "1.1.2",
-    "hash_current": "c9d86b6126741b1a3586633594624b0a3347dc82",
-    "version_highest": "1.1.2",
-    "hash_highest": "c9d86b6126741b1a3586633594624b0a3347dc82"
+    "version_current": "1.2.1",
+    "hash_current": "c03b80222289c9c94b096f4883d9121ffb8673ca",
+    "version_highest": "1.2.1",
+    "hash_highest": "c03b80222289c9c94b096f4883d9121ffb8673ca"
   },
   {
     "package": "crew.aws.batch",
-    "version_current": "0.0.10",
-    "hash_current": "bc77f5f669e805efbd3dd595264841f73a48207a",
-    "version_highest": "0.0.10",
-    "hash_highest": "bc77f5f669e805efbd3dd595264841f73a48207a"
+    "version_current": "0.0.12",
+    "hash_current": "51370ab9e1d1c11a0ee1be0c91a67bbad8db78d3",
+    "version_highest": "0.0.12",
+    "hash_highest": "51370ab9e1d1c11a0ee1be0c91a67bbad8db78d3"
   },
   {
     "package": "crew.cluster",
-    "version_current": "0.3.7",
-    "hash_current": "0999b6ebdaa89606d63115998cd373313b4d3f40",
-    "version_highest": "0.3.7",
-    "hash_highest": "0999b6ebdaa89606d63115998cd373313b4d3f40"
+    "version_current": "0.3.8",
+    "hash_current": "f5bb1d39d60f5b6204f4b1ca3090f2b11a5246b9",
+    "version_highest": "0.3.8",
+    "hash_highest": "f5bb1d39d60f5b6204f4b1ca3090f2b11a5246b9"
   },
   {
     "package": "demographr",
@@ -168,13 +168,6 @@
     "hash_highest": "8cc26c4f70bf6e07c47bab089c7bad18c864223c"
   },
   {
-    "package": "INLA",
-    "version_current": "19.09.03",
-    "hash_current": "0fa332471d2e19548cc0f63e36873e31dbd685be",
-    "version_highest": "19.09.03",
-    "hash_highest": "0fa332471d2e19548cc0f63e36873e31dbd685be"
-  },
-  {
     "package": "jagstargets",
     "version_current": "1.2.3",
     "hash_current": "fef92d0d74f6e9832459ce4bee69396bca21fd3f",
@@ -211,10 +204,10 @@
   },
   {
     "package": "mirai",
-    "version_current": "2.2.0",
-    "hash_current": "06c062f0bc239da1a3781560a65c230f0ef7805f",
-    "version_highest": "2.2.0",
-    "hash_highest": "06c062f0bc239da1a3781560a65c230f0ef7805f"
+    "version_current": "2.4.1",
+    "hash_current": "170d0216836878ea501710046f0859b9b33006f2",
+    "version_highest": "2.4.1",
+    "hash_highest": "170d0216836878ea501710046f0859b9b33006f2"
   },
   {
     "package": "multitools",
@@ -225,24 +218,24 @@
   },
   {
     "package": "multiverse.internals",
-    "version_current": "1.0.10",
-    "hash_current": "a05cff7f40006968b805deb052915a76ac38bf22",
-    "version_highest": "1.0.10",
-    "hash_highest": "a05cff7f40006968b805deb052915a76ac38bf22"
+    "version_current": "1.0.15",
+    "hash_current": "e35da5520b2635dd61fad8c1082bf2f0ef2861a7",
+    "version_highest": "1.0.15",
+    "hash_highest": "e35da5520b2635dd61fad8c1082bf2f0ef2861a7"
   },
   {
     "package": "nanoarrow",
-    "version_current": "0.6.0",
-    "hash_current": "33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd",
-    "version_highest": "0.6.0",
-    "hash_highest": "33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd"
+    "version_current": "0.7.0",
+    "hash_current": "2cfba631b40886f1418a463f3b7c4552c8ae0dc7",
+    "version_highest": "0.7.0",
+    "hash_highest": "2cfba631b40886f1418a463f3b7c4552c8ae0dc7"
   },
   {
     "package": "nanonext",
-    "version_current": "1.5.2",
-    "hash_current": "08b1ace5e45fe84152ed7413708ffa6f667b11a8",
-    "version_highest": "1.5.2",
-    "hash_highest": "08b1ace5e45fe84152ed7413708ffa6f667b11a8"
+    "version_current": "1.6.2",
+    "hash_current": "68eb478e6151f2fd72e3c397edfd98bdd6768be8",
+    "version_highest": "1.6.2",
+    "hash_highest": "68eb478e6151f2fd72e3c397edfd98bdd6768be8"
   },
   {
     "package": "polars",
@@ -261,7 +254,7 @@
   {
     "package": "prophet",
     "version_current": "1.1.6",
-    "hash_current": "2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02",
+    "hash_current": "a0d1ddf27572ae9e16d6ecac1e5c485a9f9aabe2",
     "version_highest": "1.1.6",
     "hash_highest": "2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02"
   },

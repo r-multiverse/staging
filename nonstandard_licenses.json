@@ -1,13 +1,5 @@
 [
   {
-    "package": "INLA",
-    "license": "NOT FOUND"
-  },
-  {
-    "package": "polars0",
-    "license": "NOT FOUND"
-  },
-  {
     "package": "Rvision",
     "license": "NOT FOUND"
   }
