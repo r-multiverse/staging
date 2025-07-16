@@ -185,11 +185,10 @@
     ]
   },
   "duckdb": {
-    "success": [false],
-    "published": ["2025-07-04 05:44:12.648 UTC"],
-    "version": ["1.2.2"],
-    "remote_hash": ["73d731fb8b71bc33e93c2ea91fe402e34c1d699c"],
-    "cran": ["1.3.2"]
+    "success": [true],
+    "published": ["2025-07-16 04:34:09.796 UTC"],
+    "version": ["1.3.2"],
+    "remote_hash": ["76b95a4536054187cb3605da248f94fe5f4383a2"]
   },
   "geographr": {
     "success": [false],
@@ -219,7 +218,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2025-07-16 03:49:33.944 UTC"],
+    "published": ["2025-07-16 04:28:07.197 UTC"],
     "version": ["0.0.4"],
     "remote_hash": ["349c5bb3a1fca6a8cefae381094b046c8ce028b2"],
     "r_cmd_check": [
@@ -227,13 +226,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16283164426/job/46062145353"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16309756789/job/46063619458"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16283164426/job/46062145346"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16309756789/job/46063619444"
       }
     ]
   },
@@ -277,7 +276,7 @@
   },
   "igraph": {
     "success": [true],
-    "published": ["2025-06-16 04:40:41.401 UTC"],
+    "published": ["2025-07-16 04:40:23.111 UTC"],
     "version": ["2.1.4"],
     "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"]
   },
