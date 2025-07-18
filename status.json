@@ -217,7 +217,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2025-07-17 03:46:53.013 UTC"],
+    "published": ["2025-07-18 03:30:37.546 UTC"],
     "version": ["0.0.4"],
     "remote_hash": ["349c5bb3a1fca6a8cefae381094b046c8ce028b2"],
     "r_cmd_check": [
@@ -350,7 +350,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-07-17 03:16:23.944 UTC"],
+    "published": ["2025-07-18 03:18:41.335 UTC"],
     "version": ["1.0.15"],
     "remote_hash": ["e35da5520b2635dd61fad8c1082bf2f0ef2861a7"]
   },
