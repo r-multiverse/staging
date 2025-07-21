@@ -216,24 +216,10 @@
     ]
   },
   "glaredb": {
-    "success": [false],
-    "published": ["2025-07-18 03:30:37.546 UTC"],
-    "version": ["0.0.4"],
-    "remote_hash": ["349c5bb3a1fca6a8cefae381094b046c8ce028b2"],
-    "r_cmd_check": [
-      {
-        "check": "WARNING",
-        "config": "macos-release-arm64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16309756789/job/46146045795"
-      },
-      {
-        "check": "WARNING",
-        "config": "macos-release-x86_64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16309756789/job/46146045802"
-      }
-    ]
+    "success": [true],
+    "published": ["2025-07-21 05:08:19.058 UTC"],
+    "version": ["0.0.5"],
+    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
   "healthyr": {
     "success": [false],
@@ -368,9 +354,9 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2025-07-05 05:43:12.552 UTC"],
-    "version": ["0.22.4"],
-    "remote_hash": ["2b5b485fb178e47934c8041f03d4382f79a205f6"]
+    "published": ["2025-07-21 05:50:18.482 UTC"],
+    "version": ["1.0.0"],
+    "remote_hash": ["da79eacf5c13c6d8d8b85c1e631bbce120d6ce94"]
   },
   "polars0": {
     "success": [true],
@@ -410,7 +396,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2025-07-20 04:06:57.910 UTC"],
+    "published": ["2025-07-21 03:23:52.375 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "license": ["NOT FOUND"],
@@ -419,7 +405,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16395872807/job/46328295023"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16395872807/job/46356463500"
       }
     ]
   },
