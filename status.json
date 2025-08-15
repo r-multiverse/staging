@@ -7,13 +7,13 @@
   },
   "adbcdrivermanager": {
     "success": [true],
-    "published": ["2025-07-16 03:45:15.766 UTC"],
+    "published": ["2025-08-15 03:39:40.539 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
   "adbcflightsql": {
     "success": [true],
-    "published": ["2025-07-16 03:38:48.709 UTC"],
+    "published": ["2025-08-15 03:35:27.884 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
@@ -141,19 +141,19 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2025-07-16 03:39:37.191 UTC"],
+    "published": ["2025-08-15 03:37:51.657 UTC"],
     "version": ["1.2.1"],
     "remote_hash": ["c03b80222289c9c94b096f4883d9121ffb8673ca"]
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2025-07-16 03:41:24.694 UTC"],
+    "published": ["2025-08-15 03:40:50.253 UTC"],
     "version": ["0.0.12"],
     "remote_hash": ["51370ab9e1d1c11a0ee1be0c91a67bbad8db78d3"]
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2025-07-16 03:38:52.161 UTC"],
+    "published": ["2025-08-15 03:36:39.101 UTC"],
     "version": ["0.3.8"],
     "remote_hash": ["f5bb1d39d60f5b6204f4b1ca3090f2b11a5246b9"]
   },
@@ -324,7 +324,7 @@
   },
   "mirai": {
     "success": [true],
-    "published": ["2025-07-16 03:34:25.138 UTC"],
+    "published": ["2025-08-15 03:27:50.697 UTC"],
     "version": ["2.4.1"],
     "remote_hash": ["170d0216836878ea501710046f0859b9b33006f2"]
   },
@@ -342,13 +342,13 @@
   },
   "nanoarrow": {
     "success": [true],
-    "published": ["2025-07-16 03:37:08.694 UTC"],
+    "published": ["2025-08-15 03:32:20.158 UTC"],
     "version": ["0.7.0"],
     "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"]
   },
   "nanonext": {
     "success": [true],
-    "published": ["2025-07-16 03:25:18.674 UTC"],
+    "published": ["2025-08-15 03:21:34.568 UTC"],
     "version": ["1.6.2"],
     "remote_hash": ["68eb478e6151f2fd72e3c397edfd98bdd6768be8"]
   },
@@ -378,7 +378,7 @@
   },
   "prqlr": {
     "success": [true],
-    "published": ["2025-07-16 03:30:54.085 UTC"],
+    "published": ["2025-08-15 03:35:06.253 UTC"],
     "version": ["0.10.1"],
     "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
   },
