@@ -3,31 +3,31 @@
     "package": "adbcbigquery",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcbigquery",
-    "branch": "*release"
+    "branch": "c18f54a033651ed435c28161f1beaf062eca0720"
   },
   {
     "package": "adbcdrivermanager",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcdrivermanager",
-    "branch": "*release"
+    "branch": "c18f54a033651ed435c28161f1beaf062eca0720"
   },
   {
     "package": "adbcflightsql",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcflightsql",
-    "branch": "*release"
+    "branch": "c18f54a033651ed435c28161f1beaf062eca0720"
   },
   {
     "package": "adbcsnowflake",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcsnowflake",
-    "branch": "*release"
+    "branch": "c18f54a033651ed435c28161f1beaf062eca0720"
   },
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
     "subdir": "r",
-    "branch": "*release"
+    "branch": "ee4d09ebef61c663c1efbfa4c18e518a03b798be"
   },
   {
     "package": "asylum",
@@ -37,7 +37,7 @@
   {
     "package": "audio.vadwebrtc",
     "url": "https://github.com/bnosac/audio.vadwebrtc",
-    "branch": "*release"
+    "branch": "c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"
   },
   {
     "package": "audio.whisper",
@@ -47,7 +47,7 @@
   {
     "package": "autometric",
     "url": "https://github.com/wlandau/autometric",
-    "branch": "*release"
+    "branch": "36e98ae76feb34de0783d6505f7f2a17e972fe23"
   },
   {
     "package": "bridgestan",
@@ -58,7 +58,7 @@
   {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
-    "branch": "*release"
+    "branch": "da99e2ba954658bdad63bffb738c4444c33a4e0e"
   },
   {
     "package": "colorout",
@@ -68,17 +68,17 @@
   {
     "package": "crew",
     "url": "https://github.com/wlandau/crew",
-    "branch": "*release"
+    "branch": "c03b80222289c9c94b096f4883d9121ffb8673ca"
   },
   {
     "package": "crew.aws.batch",
     "url": "https://github.com/wlandau/crew.aws.batch",
-    "branch": "*release"
+    "branch": "51370ab9e1d1c11a0ee1be0c91a67bbad8db78d3"
   },
   {
     "package": "crew.cluster",
     "url": "https://github.com/wlandau/crew.cluster",
-    "branch": "*release"
+    "branch": "f5bb1d39d60f5b6204f4b1ca3090f2b11a5246b9"
   },
   {
     "package": "demographr",
@@ -88,7 +88,7 @@
   {
     "package": "duckdb",
     "url": "https://github.com/duckdb/duckdb-r",
-    "branch": "*release"
+    "branch": "76b95a4536054187cb3605da248f94fe5f4383a2"
   },
   {
     "package": "geographr",
@@ -98,7 +98,7 @@
   {
     "package": "glaredb",
     "url": "https://github.com/eitsupi/r-glaredb",
-    "branch": "*release"
+    "branch": "ff810e8c5a1b7050d84b375b9ef33210102213f0"
   },
   {
     "package": "healthyr",
@@ -108,17 +108,17 @@
   {
     "package": "httpgd",
     "url": "https://github.com/nx10/httpgd",
-    "branch": "*release"
+    "branch": "dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"
   },
   {
     "package": "ichimoku",
     "url": "https://github.com/shikokuchuo/ichimoku",
-    "branch": "*release"
+    "branch": "43f02878819ca3a868cfa74513117b9dfc141755"
   },
   {
     "package": "igraph",
     "url": "https://github.com/igraph/rigraph",
-    "branch": "*release"
+    "branch": "affdf8c714ace2e3b66dbcaee24ca2211633f964"
   },
   {
     "package": "IMD",
@@ -128,17 +128,17 @@
   {
     "package": "jagstargets",
     "url": "https://github.com/ropensci/jagstargets",
-    "branch": "*release"
+    "branch": "fef92d0d74f6e9832459ce4bee69396bca21fd3f"
   },
   {
     "package": "later",
     "url": "https://github.com/r-lib/later",
-    "branch": "*release"
+    "branch": "78933e3dc32bc171a4dea25d77fb27abbd726f8d"
   },
   {
     "package": "litedown",
     "url": "https://github.com/yihui/litedown",
-    "branch": "*release"
+    "branch": "637bdf024a413116174f09c25f7d366c4bd43a94"
   },
   {
     "package": "loneliness",
@@ -148,43 +148,43 @@
   {
     "package": "milRex",
     "url": "https://github.com/datapumpernickel/milRex",
-    "branch": "*release"
+    "branch": "3a8c6096b0e162445f119fc2dfc46ff41d0089ba"
   },
   {
     "package": "mirai",
     "url": "https://github.com/shikokuchuo/mirai",
-    "branch": "*release"
+    "branch": "170d0216836878ea501710046f0859b9b33006f2"
   },
   {
     "package": "multitools",
     "url": "https://github.com/r-multiverse/multitools",
-    "branch": "*release"
+    "branch": "c73b933868d8c6884df4220c25779cd0874ec7de"
   },
   {
     "package": "multiverse.internals",
     "url": "https://github.com/r-multiverse/multiverse.internals",
-    "branch": "*release"
+    "branch": "e35da5520b2635dd61fad8c1082bf2f0ef2861a7"
   },
   {
     "package": "nanoarrow",
     "url": "https://github.com/apache/arrow-nanoarrow",
     "subdir": "r",
-    "branch": "*release"
+    "branch": "2cfba631b40886f1418a463f3b7c4552c8ae0dc7"
   },
   {
     "package": "nanonext",
     "url": "https://github.com/shikokuchuo/nanonext",
-    "branch": "*release"
+    "branch": "68eb478e6151f2fd72e3c397edfd98bdd6768be8"
   },
   {
     "package": "polars",
     "url": "https://github.com/pola-rs/r-polars",
-    "branch": "*release"
+    "branch": "458e0998cdb9ada5ad3528edcb59722cf30c77fa"
   },
   {
     "package": "polars0",
     "url": "https://github.com/rpolars/r-polars0",
-    "branch": "*release"
+    "branch": "8972f0106e87e1f02da005613855fe99628d66db"
   },
   {
     "package": "prophet",
@@ -195,17 +195,17 @@
   {
     "package": "prqlr",
     "url": "https://github.com/PRQL/prqlc-r",
-    "branch": "*release"
+    "branch": "85d9fa32cf35a189942953a873a5351b1fae2516"
   },
   {
     "package": "rJavaEnv",
     "url": "https://github.com/e-kotov/rJavaEnv",
-    "branch": "*release"
+    "branch": "cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"
   },
   {
     "package": "rlang",
     "url": "https://github.com/r-lib/rlang",
-    "branch": "*release"
+    "branch": "830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0"
   },
   {
     "package": "Rvision",
@@ -215,7 +215,7 @@
   {
     "package": "rwasm",
     "url": "https://github.com/r-wasm/rwasm",
-    "branch": "*release"
+    "branch": "005588296e03080357c7140c1eaf8b47ccabe0bc"
   },
   {
     "package": "SBC",
@@ -230,22 +230,22 @@
   {
     "package": "string2path",
     "url": "https://github.com/yutannihilation/string2path",
-    "branch": "*release"
+    "branch": "64be930c5bbef7e1cc491ccc52c115991113d2ac"
   },
   {
     "package": "tarchetypes",
     "url": "https://github.com/ropensci/tarchetypes",
-    "branch": "*release"
+    "branch": "ef15320481cfa9cce782237153aad38eac31a3b2"
   },
   {
     "package": "targets",
     "url": "https://github.com/ropensci/targets",
-    "branch": "*release"
+    "branch": "38e43681e0d5c8a589b41fdc80807d432ec4eb74"
   },
   {
     "package": "targetsketch",
     "url": "https://github.com/wlandau/targetsketch",
-    "branch": "*release"
+    "branch": "a199a734b16f91726698a19e5f147f57f79cb2b6"
   },
   {
     "package": "taxizedb",
@@ -255,7 +255,7 @@
   {
     "package": "tidypolars",
     "url": "https://github.com/etiennebacher/tidypolars/",
-    "branch": "*release"
+    "branch": "5acc4a512a1d81cf3187ff14f4718f55d2105b44"
   },
   {
     "package": "tidytensor",
@@ -265,12 +265,12 @@
   {
     "package": "unigd",
     "url": "https://github.com/nx10/unigd",
-    "branch": "*release"
+    "branch": "b6c5181aa1c7c0888b923663b7fe903c6759d86d"
   },
   {
     "package": "webchem",
     "url": "https://github.com/ropensci/webchem",
-    "branch": "*release"
+    "branch": "2131a4e718996f16467be458fd7378116523414d"
   },
   {
     "package": "webseq",
@@ -285,6 +285,6 @@
   {
     "package": "zstdlite",
     "url": "https://github.com/coolbutuseless/zstdlite",
-    "branch": "*release"
+    "branch": "585458ccbe36eaa179d8b30f04f1e3a91dc6b993"
   }
 ]
