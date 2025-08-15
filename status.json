@@ -1,7 +1,7 @@
 {
   "adbcbigquery": {
     "success": [true],
-    "published": ["2025-07-16 03:42:11.242 UTC"],
+    "published": ["2025-08-15 03:42:18.878 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
@@ -19,7 +19,7 @@
   },
   "adbcsnowflake": {
     "success": [true],
-    "published": ["2025-07-16 03:43:16.523 UTC"],
+    "published": ["2025-08-15 03:45:32.292 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
@@ -255,13 +255,13 @@
   },
   "ichimoku": {
     "success": [true],
-    "published": ["2025-07-16 03:41:28.332 UTC"],
+    "published": ["2025-08-15 03:41:47.959 UTC"],
     "version": ["1.5.6"],
     "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"]
   },
   "igraph": {
     "success": [true],
-    "published": ["2025-07-16 04:40:23.111 UTC"],
+    "published": ["2025-08-15 04:46:36.341 UTC"],
     "version": ["2.1.4"],
     "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"]
   },
@@ -360,13 +360,13 @@
   },
   "polars0": {
     "success": [true],
-    "published": ["2025-07-16 03:45:52.559 UTC"],
+    "published": ["2025-08-15 03:54:28.792 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["8972f0106e87e1f02da005613855fe99628d66db"]
   },
   "prophet": {
     "success": [false],
-    "published": ["2025-07-16 03:43:23.282 UTC"],
+    "published": ["2025-08-15 04:02:13.352 UTC"],
     "version": ["1.1.6"],
     "remote_hash": ["a0d1ddf27572ae9e16d6ecac1e5c485a9f9aabe2"],
     "versions": {
