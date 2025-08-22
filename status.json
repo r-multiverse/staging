@@ -217,7 +217,7 @@
   },
   "glaredb": {
     "success": [true],
-    "published": ["2025-08-22 03:07:58.052 UTC"],
+    "published": ["2025-08-22 15:49:17.650 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
@@ -396,7 +396,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2025-07-23 03:19:09.217 UTC"],
+    "published": ["2025-08-22 16:09:46.898 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "license": ["NOT FOUND"],
@@ -405,7 +405,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16395872807/job/46527108932"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17160193755/job/48687250074"
       }
     ]
   },
