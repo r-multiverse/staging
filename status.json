@@ -31,7 +31,7 @@
   },
   "asylum": {
     "success": [false],
-    "published": ["2025-07-24 06:11:47.733 UTC"],
+    "published": ["2025-08-23 05:27:41.019 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
     "cran": ["1.1.2"]
@@ -396,7 +396,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2025-08-22 16:09:46.898 UTC"],
+    "published": ["2025-08-23 02:48:51.832 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "license": ["NOT FOUND"],
@@ -405,7 +405,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17160193755/job/48687250074"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17160193755/job/48718308763"
       }
     ]
   },
