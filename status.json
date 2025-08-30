@@ -273,11 +273,10 @@
     "cran": ["1.2.2"]
   },
   "jagstargets": {
-    "success": [false],
-    "published": ["2025-07-31 07:35:52.986 UTC"],
+    "success": [true],
+    "published": ["2025-08-30 06:51:29.052 UTC"],
     "version": ["1.2.3"],
-    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17340493117"]
+    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
   "later": {
     "success": [true],
