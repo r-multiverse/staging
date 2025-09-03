@@ -37,11 +37,10 @@
     "cran": ["1.1.2"]
   },
   "audio.vadwebrtc": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-09-03 04:40:37.723 UTC"],
     "version": ["0.2"],
-    "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
-    "synchronization": ["recent"]
+    "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
   },
   "audio.whisper": {
     "success": [false],
