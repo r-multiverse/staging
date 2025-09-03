@@ -213,7 +213,8 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16713714555/job/47303339578"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17422059473"]
   },
   "glaredb": {
     "success": [true],
