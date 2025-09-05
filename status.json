@@ -487,10 +487,11 @@
     "remote_hash": ["64be930c5bbef7e1cc491ccc52c115991113d2ac"]
   },
   "tarchetypes": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-08-06 05:18:47.311 UTC"],
     "version": ["0.13.1"],
-    "remote_hash": ["ef15320481cfa9cce782237153aad38eac31a3b2"]
+    "remote_hash": ["ef15320481cfa9cce782237153aad38eac31a3b2"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17483686971"]
   },
   "targets": {
     "success": [true],
