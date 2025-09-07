@@ -44,7 +44,7 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2025-08-08 05:14:39.690 UTC"],
+    "published": ["2025-09-07 04:37:10.790 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["4b5c6a288c0f46a4cdc47f50d2d35395d3e32194"],
     "r_cmd_check": [
@@ -52,31 +52,31 @@
         "check": "WARNING",
         "config": "linux-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16822334152/job/47651780544"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17523792959/job/49771680360"
       },
       {
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16822334152/job/47651780553"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17523792959/job/49771680332"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16822334152/job/47651780542"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17523792959/job/49771680323"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16822334152/job/47651780539"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17523792959/job/49771680322"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/16822334152/job/47651780576"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17523792959/job/49771680313"
       }
     ],
     "remotes": ["bnosac/audio.vadwebrtc"]
@@ -499,10 +499,11 @@
     "remote_hash": ["38e43681e0d5c8a589b41fdc80807d432ec4eb74"]
   },
   "targetsketch": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-08-08 05:19:18.213 UTC"],
     "version": ["0.0.1"],
-    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
+    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17523823511"]
   },
   "taxizedb": {
     "success": [false],
@@ -615,7 +616,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2025-08-08 04:51:37.217 UTC"],
+    "published": ["2025-09-07 04:16:58.130 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
