@@ -248,10 +248,11 @@
     ]
   },
   "httpgd": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-08-08 03:53:18.930 UTC"],
     "version": ["2.0.4"],
-    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
+    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17523087201"]
   },
   "ichimoku": {
     "success": [true],
