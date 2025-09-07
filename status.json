@@ -499,11 +499,10 @@
     "remote_hash": ["38e43681e0d5c8a589b41fdc80807d432ec4eb74"]
   },
   "targetsketch": {
-    "success": [false],
-    "published": ["2025-08-08 05:19:18.213 UTC"],
+    "success": [true],
+    "published": ["2025-09-07 04:43:00.552 UTC"],
     "version": ["0.0.1"],
-    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17523823511"]
+    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
   "taxizedb": {
     "success": [false],
