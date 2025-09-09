@@ -89,27 +89,27 @@
   },
   "bridgestan": {
     "success": [false],
-    "published": ["2025-08-26 05:48:37.138 UTC"],
-    "version": ["2.6.2"],
-    "remote_hash": ["2fc25219645f7b465efdd66bbd8f7d9ceaa47cb1"],
+    "published": ["2025-09-09 15:58:13.398 UTC"],
+    "version": ["2.7.0"],
+    "remote_hash": ["ec1d4d319f434d85b07193df2d81736568c42920"],
     "r_cmd_check": [
       {
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17229047563/job/48879272072"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17588177816/job/49962189003"
       },
       {
         "check": "ERROR",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17229047563/job/48879272059"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17588177816/job/49962189061"
       },
       {
         "check": "ERROR",
         "config": "windows-release",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17229047563/job/48879272071"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17588177816/job/49962189052"
       }
     ]
   },
