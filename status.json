@@ -410,11 +410,10 @@
     ]
   },
   "rwasm": {
-    "success": [false],
-    "published": ["2025-08-13 10:38:36.375 UTC"],
+    "success": [true],
+    "published": ["2025-09-12 06:54:43.223 UTC"],
     "version": ["0.3.0"],
-    "remote_hash": ["005588296e03080357c7140c1eaf8b47ccabe0bc"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17666711552"]
+    "remote_hash": ["005588296e03080357c7140c1eaf8b47ccabe0bc"]
   },
   "SBC": {
     "success": [false],
