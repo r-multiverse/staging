@@ -82,10 +82,11 @@
     "remotes": ["bnosac/audio.vadwebrtc"]
   },
   "autometric": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-08-13 04:16:11.118 UTC"],
     "version": ["0.1.2"],
-    "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
+    "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17663847623"]
   },
   "bridgestan": {
     "success": [false],
@@ -317,10 +318,11 @@
     ]
   },
   "milRex": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-08-13 04:01:01.447 UTC"],
     "version": ["1.1.0"],
-    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
+    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17663624201"]
   },
   "mirai": {
     "success": [true],
