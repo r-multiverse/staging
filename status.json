@@ -24,11 +24,10 @@
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
   "arrow": {
-    "success": [false],
-    "published": ["2025-08-16 07:33:35.582 UTC"],
+    "success": [true],
+    "published": ["2025-09-15 07:14:36.581 UTC"],
     "version": ["21.0.0"],
-    "remote_hash": ["ee4d09ebef61c663c1efbfa4c18e518a03b798be"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17724292478"]
+    "remote_hash": ["ee4d09ebef61c663c1efbfa4c18e518a03b798be"]
   },
   "asylum": {
     "success": [false],
@@ -185,10 +184,11 @@
     ]
   },
   "duckdb": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-09-14 06:08:42.335 UTC"],
     "version": ["1.3.2"],
-    "remote_hash": ["76b95a4536054187cb3605da248f94fe5f4383a2"]
+    "remote_hash": ["76b95a4536054187cb3605da248f94fe5f4383a2"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17725127116"]
   },
   "geographr": {
     "success": [false],
@@ -551,11 +551,10 @@
     ]
   },
   "unigd": {
-    "success": [false],
-    "published": ["2025-08-19 04:32:02.246 UTC"],
+    "success": [true],
+    "published": ["2025-09-15 07:04:50.801 UTC"],
     "version": ["0.1.3"],
-    "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17724491516"]
+    "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
   },
   "webchem": {
     "success": [true],
