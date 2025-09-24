@@ -407,7 +407,8 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17160193755/job/48782754514"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17965117108"]
   },
   "rwasm": {
     "success": [true],
