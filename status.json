@@ -223,7 +223,7 @@
   },
   "healthyr": {
     "success": [false],
-    "published": ["2025-08-25 03:16:28.924 UTC"],
+    "published": ["2025-09-24 03:32:11.134 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["37a8c7844582bf6dbbc80bf960aa176e2c3e9435"],
     "r_cmd_check": [
@@ -231,19 +231,19 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17198002119/job/48783284778"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17965390535/job/51097135259"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17198002119/job/48783284817"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17965390535/job/51097135273"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17198002119/job/48783284811"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17965390535/job/51097135276"
       }
     ]
   },
@@ -396,7 +396,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2025-08-25 03:02:31.917 UTC"],
+    "published": ["2025-09-24 03:14:53.674 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "license": ["NOT FOUND"],
@@ -405,10 +405,9 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17160193755/job/48782754514"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17965117108/job/51096257437"
       }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/17965117108"]
+    ]
   },
   "rwasm": {
     "success": [true],
