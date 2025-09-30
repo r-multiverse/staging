@@ -506,7 +506,7 @@
   },
   "taxizedb": {
     "success": [false],
-    "published": ["2025-08-31 04:21:55.234 UTC"],
+    "published": ["2025-09-30 04:10:08.141 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"],
     "cran": ["0.3.2"]
