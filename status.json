@@ -399,7 +399,6 @@
     "published": ["2025-09-27 02:39:47.500 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
-    "license": ["NOT FOUND"],
     "r_cmd_check": [
       {
         "check": "ERROR",
