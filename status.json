@@ -191,7 +191,7 @@
   },
   "geographr": {
     "success": [false],
-    "published": ["2025-09-03 03:45:16.408 UTC"],
+    "published": ["2025-10-03 03:28:06.417 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"],
     "r_cmd_check": [
@@ -213,7 +213,8 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/17422059473/job/49462414803"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18212011195"]
   },
   "glaredb": {
     "success": [true],
