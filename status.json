@@ -613,9 +613,10 @@
     ]
   },
   "zstdlite": {
-    "success": [true],
-    "published": ["2025-09-07 04:16:58.130 UTC"],
+    "success": [false],
+    "published": ["2025-10-07 03:03:50.936 UTC"],
     "version": ["0.2.6"],
-    "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
+    "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18300744921"]
   }
 }
