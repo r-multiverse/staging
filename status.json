@@ -353,11 +353,10 @@
     "remote_hash": ["68eb478e6151f2fd72e3c397edfd98bdd6768be8"]
   },
   "polars": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-10-13 07:39:28.753 UTC"],
     "version": ["1.2.0"],
-    "remote_hash": ["458e0998cdb9ada5ad3528edcb59722cf30c77fa"],
-    "synchronization": ["recent"]
+    "remote_hash": ["458e0998cdb9ada5ad3528edcb59722cf30c77fa"]
   },
   "polars0": {
     "success": [true],
