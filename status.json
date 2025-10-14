@@ -1,21 +1,24 @@
 {
   "adbcbigquery": {
-    "success": [true],
-    "published": ["2025-09-14 03:22:05.470 UTC"],
+    "success": [false],
+    "published": ["2025-10-14 03:11:56.473 UTC"],
     "version": ["0.19.0"],
-    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
+    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18484284872"]
   },
   "adbcdrivermanager": {
-    "success": [true],
-    "published": ["2025-09-14 03:14:59.773 UTC"],
+    "success": [false],
+    "published": ["2025-10-14 03:12:38.151 UTC"],
     "version": ["0.19.0"],
-    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
+    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"],
+    "synchronization": ["recent"]
   },
   "adbcflightsql": {
-    "success": [true],
-    "published": ["2025-09-14 03:16:38.828 UTC"],
+    "success": [false],
+    "published": ["2025-10-14 03:05:46.755 UTC"],
     "version": ["0.19.0"],
-    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
+    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18484188265"]
   },
   "adbcsnowflake": {
     "success": [true],
@@ -140,16 +143,32 @@
     ]
   },
   "crew": {
-    "success": [true],
-    "published": ["2025-09-14 03:16:49.476 UTC"],
+    "success": [false],
+    "published": ["2025-10-14 03:14:01.463 UTC"],
     "version": ["1.2.1"],
-    "remote_hash": ["c03b80222289c9c94b096f4883d9121ffb8673ca"]
+    "remote_hash": ["c03b80222289c9c94b096f4883d9121ffb8673ca"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18484197328/job/52664828702"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18484197328/job/52664828731"
+      }
+    ],
+    "synchronization": ["recent"]
   },
   "crew.aws.batch": {
-    "success": [true],
-    "published": ["2025-09-14 03:23:02.976 UTC"],
+    "success": [false],
+    "published": ["2025-10-14 03:13:35.543 UTC"],
     "version": ["0.0.12"],
-    "remote_hash": ["51370ab9e1d1c11a0ee1be0c91a67bbad8db78d3"]
+    "remote_hash": ["51370ab9e1d1c11a0ee1be0c91a67bbad8db78d3"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18484312960"]
   },
   "crew.cluster": {
     "success": [true],
@@ -254,10 +273,11 @@
     "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
   "ichimoku": {
-    "success": [true],
-    "published": ["2025-09-14 03:21:07.595 UTC"],
+    "success": [false],
+    "published": ["2025-10-14 03:11:14.039 UTC"],
     "version": ["1.5.6"],
-    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"]
+    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18484274447"]
   },
   "igraph": {
     "success": [true],
@@ -324,7 +344,7 @@
   },
   "mirai": {
     "success": [true],
-    "published": ["2025-09-14 03:02:40.407 UTC"],
+    "published": ["2025-10-14 02:53:53.621 UTC"],
     "version": ["2.4.1"],
     "remote_hash": ["170d0216836878ea501710046f0859b9b33006f2"]
   },
@@ -341,14 +361,15 @@
     "remote_hash": ["e35da5520b2635dd61fad8c1082bf2f0ef2861a7"]
   },
   "nanoarrow": {
-    "success": [true],
-    "published": ["2025-09-14 03:10:30.815 UTC"],
+    "success": [false],
+    "published": ["2025-10-14 03:00:19.069 UTC"],
     "version": ["0.7.0"],
-    "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"]
+    "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18484096254"]
   },
   "nanonext": {
     "success": [true],
-    "published": ["2025-09-14 03:02:14.673 UTC"],
+    "published": ["2025-10-14 03:03:04.493 UTC"],
     "version": ["1.6.2"],
     "remote_hash": ["68eb478e6151f2fd72e3c397edfd98bdd6768be8"]
   },
