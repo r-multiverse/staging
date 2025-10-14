@@ -274,11 +274,10 @@
     "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"]
   },
   "igraph": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-10-14 04:41:37.461 UTC"],
     "version": ["2.1.4"],
-    "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"],
-    "synchronization": ["recent"]
+    "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"]
   },
   "IMD": {
     "success": [false],
