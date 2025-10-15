@@ -569,6 +569,7 @@
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18515040667/job/52766821136"
       }
     ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18544249794"],
     "cran": ["1.6.1"]
   },
   "posteriordb": {
