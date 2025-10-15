@@ -177,7 +177,7 @@
   },
   "crew.aws.batch": {
     "success": [false],
-    "published": ["2025-10-15 02:59:01.904 UTC"],
+    "published": ["2025-10-15 11:03:02.970 UTC"],
     "version": ["0.0.12"],
     "remote_hash": ["51370ab9e1d1c11a0ee1be0c91a67bbad8db78d3"],
     "dependencies": {
