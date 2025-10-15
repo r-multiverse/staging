@@ -63,6 +63,13 @@
     "hash_highest": "36e98ae76feb34de0783d6505f7f2a17e972fe23"
   },
   {
+    "package": "bayesplot",
+    "version_current": "1.14.0",
+    "hash_current": "6240b33a3d2d9afc88d925c9e91dc1f7e7413655",
+    "version_highest": "1.14.0",
+    "hash_highest": "6240b33a3d2d9afc88d925c9e91dc1f7e7413655"
+  },
+  {
     "package": "bridgestan",
     "version_current": "2.7.0",
     "hash_current": "ec1d4d319f434d85b07193df2d81736568c42920",
@@ -105,6 +112,20 @@
     "hash_highest": "f5bb1d39d60f5b6204f4b1ca3090f2b11a5246b9"
   },
   {
+    "package": "deeptime",
+    "version_current": "2.2.0",
+    "hash_current": "ff7912effea574bc4f5836707ce84cc80dcef1e6",
+    "version_highest": "2.2.0",
+    "hash_highest": "ff7912effea574bc4f5836707ce84cc80dcef1e6"
+  },
+  {
+    "package": "deeptimedata",
+    "version_current": "1.0.0",
+    "hash_current": "7f1d9e301bac0d580f93c168328ef2aaad490aca",
+    "version_highest": "1.0.0",
+    "hash_highest": "7f1d9e301bac0d580f93c168328ef2aaad490aca"
+  },
+  {
     "package": "demographr",
     "version_current": "0.0.1",
     "hash_current": "5d73b83f4bd70048d39b6b9c4bffaf02c8aab321",
@@ -119,11 +140,32 @@
     "hash_highest": "76b95a4536054187cb3605da248f94fe5f4383a2"
   },
   {
+    "package": "ExpBites",
+    "version_current": "0.1.0",
+    "hash_current": "1a67ea385f2780efaf17a35f92f505c3fe689aac",
+    "version_highest": "0.1.0",
+    "hash_highest": "1a67ea385f2780efaf17a35f92f505c3fe689aac"
+  },
+  {
     "package": "geographr",
     "version_current": "1.0.1",
     "hash_current": "ed416a6735f7c4d8da0b866260369e84c27319a2",
     "version_highest": "1.0.1",
     "hash_highest": "ed416a6735f7c4d8da0b866260369e84c27319a2"
+  },
+  {
+    "package": "geotargets",
+    "version_current": "0.3.1",
+    "hash_current": "719c095fac40cf13466ffbe147664f7d19a84352",
+    "version_highest": "0.3.1",
+    "hash_highest": "719c095fac40cf13466ffbe147664f7d19a84352"
+  },
+  {
+    "package": "ggsurveillance",
+    "version_current": "0.5.1",
+    "hash_current": "c3bd91cca84f21b55bc990ade592afc2a36a7b0d",
+    "version_highest": "0.5.1",
+    "hash_highest": "c3bd91cca84f21b55bc990ade592afc2a36a7b0d"
   },
   {
     "package": "glaredb",
@@ -196,6 +238,13 @@
     "hash_highest": "330d200bf9de4a76ca1e82e3d84a3c5aba946707"
   },
   {
+    "package": "loo",
+    "version_current": "2.8.0",
+    "hash_current": "23e68bf5fb8aa9d000358f3bbbf52cf7ee92a99c",
+    "version_highest": "2.8.0",
+    "hash_highest": "23e68bf5fb8aa9d000358f3bbbf52cf7ee92a99c"
+  },
+  {
     "package": "milRex",
     "version_current": "1.1.0",
     "hash_current": "3a8c6096b0e162445f119fc2dfc46ff41d0089ba",
@@ -222,6 +271,13 @@
     "hash_current": "e35da5520b2635dd61fad8c1082bf2f0ef2861a7",
     "version_highest": "1.0.15",
     "hash_highest": "e35da5520b2635dd61fad8c1082bf2f0ef2861a7"
+  },
+  {
+    "package": "mutagen",
+    "version_current": "0.1.0",
+    "hash_current": "2f5b5f43845e26db9aabdf7dc1c7d0c965ca1405",
+    "version_highest": "0.1.0",
+    "hash_highest": "2f5b5f43845e26db9aabdf7dc1c7d0c965ca1405"
   },
   {
     "package": "nanoarrow",
@@ -252,6 +308,27 @@
     "hash_highest": "8972f0106e87e1f02da005613855fe99628d66db"
   },
   {
+    "package": "posterior",
+    "version_current": "1.6.0",
+    "hash_current": "90a07cce51fdde484e97596cdd186adf265d8f5e",
+    "version_highest": "1.6.0",
+    "hash_highest": "90a07cce51fdde484e97596cdd186adf265d8f5e"
+  },
+  {
+    "package": "posteriordb",
+    "version_current": "0.3.4",
+    "hash_current": "dfd1de915900e77affa65ed1da2149a211a54b5b",
+    "version_highest": "0.3.4",
+    "hash_highest": "dfd1de915900e77affa65ed1da2149a211a54b5b"
+  },
+  {
+    "package": "projpred",
+    "version_current": "2.9.0",
+    "hash_current": "b14ecf10701f481710ea5f61133cbfa8b5b4811b",
+    "version_highest": "2.9.0",
+    "hash_highest": "b14ecf10701f481710ea5f61133cbfa8b5b4811b"
+  },
+  {
     "package": "prophet",
     "version_current": "1.1.6",
     "hash_current": "a0d1ddf27572ae9e16d6ecac1e5c485a9f9aabe2",
@@ -264,6 +341,13 @@
     "hash_current": "85d9fa32cf35a189942953a873a5351b1fae2516",
     "version_highest": "0.10.1",
     "hash_highest": "85d9fa32cf35a189942953a873a5351b1fae2516"
+  },
+  {
+    "package": "riem",
+    "version_current": "1.0.0",
+    "hash_current": "5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33",
+    "version_highest": "1.0.0",
+    "hash_highest": "5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33"
   },
   {
     "package": "rJavaEnv",
@@ -280,6 +364,20 @@
     "hash_highest": "830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0"
   },
   {
+    "package": "rredlist",
+    "version_current": "1.1.1",
+    "hash_current": "f09b449f960607542d7fc1db39156fa6b3ccf81e",
+    "version_highest": "1.1.1",
+    "hash_highest": "f09b449f960607542d7fc1db39156fa6b3ccf81e"
+  },
+  {
+    "package": "rstanarm",
+    "version_current": "2.32.2",
+    "hash_current": "aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242",
+    "version_highest": "2.32.2",
+    "hash_highest": "aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"
+  },
+  {
     "package": "Rvision",
     "version_current": "0.8.0",
     "hash_current": "972627f8aac8a0eb95f8b166e316cb9b0ee5930c",
@@ -294,11 +392,25 @@
     "hash_highest": "005588296e03080357c7140c1eaf8b47ccabe0bc"
   },
   {
+    "package": "saperlipopette",
+    "version_current": "0.1.0",
+    "hash_current": "d128c542b9e967d21a94ac99a815482c30cd4d08",
+    "version_highest": "0.1.0",
+    "hash_highest": "d128c542b9e967d21a94ac99a815482c30cd4d08"
+  },
+  {
     "package": "SBC",
     "version_current": "0.3.0.9000",
     "hash_current": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8",
     "version_highest": "0.3.0.9000",
     "hash_highest": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8"
+  },
+  {
+    "package": "shinystan",
+    "version_current": "2.6.0",
+    "hash_current": "05519b20ddcbf5ac6082a5933937627d4847b778",
+    "version_highest": "2.6.0",
+    "hash_highest": "05519b20ddcbf5ac6082a5933937627d4847b778"
   },
   {
     "package": "stantargets",
@@ -350,6 +462,13 @@
     "hash_highest": "5acc4a512a1d81cf3187ff14f4718f55d2105b44"
   },
   {
+    "package": "tidytab",
+    "version_current": "0.0.0.9000",
+    "hash_current": "0f5bed6c628d5e26be00058a1b7aaf0953620e2f",
+    "version_highest": "0.0.0.9000",
+    "hash_highest": "0f5bed6c628d5e26be00058a1b7aaf0953620e2f"
+  },
+  {
     "package": "tidytensor",
     "version_current": "1.0.0",
     "hash_current": "14f5b87d2dfae20eb35cfd974adf660a4fd89980",
@@ -362,6 +481,13 @@
     "hash_current": "b6c5181aa1c7c0888b923663b7fe903c6759d86d",
     "version_highest": "0.1.3",
     "hash_highest": "b6c5181aa1c7c0888b923663b7fe903c6759d86d"
+  },
+  {
+    "package": "weathercan",
+    "version_current": "0.7.5",
+    "hash_current": "410e0de215ab8eaf04f81bc16ad65d549f47762e",
+    "version_highest": "0.7.5",
+    "hash_highest": "410e0de215ab8eaf04f81bc16ad65d549f47762e"
   },
   {
     "package": "webchem",
