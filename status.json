@@ -145,13 +145,10 @@
     ]
   },
   "cmdstanr": {
-    "success": [false],
-    "published": ["2025-10-15 02:51:19.211 UTC"],
+    "success": [true],
+    "published": ["2025-10-15 23:06:39.489 UTC"],
     "version": ["0.9.0"],
-    "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"],
-    "dependencies": {
-      "posterior": []
-    }
+    "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"]
   },
   "colorout": {
     "success": [false],
@@ -421,12 +418,11 @@
   },
   "jagstargets": {
     "success": [false],
-    "published": ["2025-10-15 03:20:03.296 UTC"],
+    "published": ["2025-10-15 23:07:12.377 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
     "dependencies": {
       "igraph": ["targets", "tarchetypes"],
-      "posterior": [],
       "tarchetypes": [],
       "targets": ["tarchetypes"]
     }
@@ -557,20 +553,10 @@
     "remote_hash": ["8972f0106e87e1f02da005613855fe99628d66db"]
   },
   "posterior": {
-    "success": [false],
-    "published": ["2025-10-15 02:50:51.529 UTC"],
-    "version": ["1.6.0"],
-    "remote_hash": ["90a07cce51fdde484e97596cdd186adf265d8f5e"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "source",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18515040667/job/52766821136"
-      }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18544249794"],
-    "cran": ["1.6.1"]
+    "success": [true],
+    "published": ["2025-10-15 22:43:17.115 UTC"],
+    "version": ["1.6.1"],
+    "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"]
   },
   "posteriordb": {
     "success": [false],
@@ -708,7 +694,7 @@
   },
   "SBC": {
     "success": [false],
-    "published": ["2025-10-15 02:51:14.431 UTC"],
+    "published": ["2025-10-15 22:43:44.240 UTC"],
     "version": ["0.3.0.9000"],
     "remote_hash": ["9ddc803105f5350dae6efb4ae2657e89d2a54aa8"],
     "r_cmd_check": [
@@ -737,9 +723,7 @@
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18488037153/job/52678579718"
       }
     ],
-    "dependencies": {
-      "posterior": []
-    }
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18544682978"]
   },
   "shinystan": {
     "success": [false],
@@ -757,7 +741,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2025-10-15 03:20:00.667 UTC"],
+    "published": ["2025-10-15 23:10:58.617 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": [
@@ -765,31 +749,30 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18397850572/job/52420936420"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18544683231/job/52860435306"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18397850572/job/52420936435"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18544683231/job/52860435293"
       },
       {
         "check": "ERROR",
         "config": "source",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18397850572/job/52420596670"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18544683231/job/52860094504"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18397850572/job/52420936442"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18544683231/job/52860435302"
       }
     ],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
     "dependencies": {
       "igraph": ["targets", "tarchetypes"],
-      "posterior": ["cmdstanr"],
       "tarchetypes": [],
       "targets": ["tarchetypes"]
     }
