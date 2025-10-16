@@ -435,10 +435,10 @@
   },
   {
     "package": "targets",
-    "version_current": "1.11.3",
-    "hash_current": "38e43681e0d5c8a589b41fdc80807d432ec4eb74",
-    "version_highest": "1.11.3",
-    "hash_highest": "38e43681e0d5c8a589b41fdc80807d432ec4eb74"
+    "version_current": "1.11.4",
+    "hash_current": "3e00d3e0abc1675b2bc891a9fa33bbf305576a0b",
+    "version_highest": "1.11.4",
+    "hash_highest": "3e00d3e0abc1675b2bc891a9fa33bbf305576a0b"
   },
   {
     "package": "targetsketch",
