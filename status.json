@@ -421,30 +421,10 @@
     "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
   "multiverse.internals": {
-    "success": [false],
-    "published": ["2025-10-16 15:36:27.742 UTC"],
+    "success": [true],
+    "published": ["2025-10-17 02:48:40.362 UTC"],
     "version": ["1.1.6"],
-    "remote_hash": ["a35a1baa96d79f0c559ef87042aefbaf4c29537a"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "linux-release-x86_64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18566361656/job/52928868364"
-      },
-      {
-        "check": "ERROR",
-        "config": "macos-release-arm64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18566361656/job/52928868340"
-      },
-      {
-        "check": "ERROR",
-        "config": "windows-release",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18566361656/job/52928868307"
-      }
-    ]
+    "remote_hash": ["a35a1baa96d79f0c559ef87042aefbaf4c29537a"]
   },
   "mutagen": {
     "success": [true],
