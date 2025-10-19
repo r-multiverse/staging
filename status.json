@@ -294,9 +294,10 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2025-09-21 03:08:21.897 UTC"],
+    "published": ["2025-10-19 06:42:10.118 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18626730932"],
     "dependencies": {
       "nanoarrow": []
     }
