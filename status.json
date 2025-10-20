@@ -708,11 +708,10 @@
     "remote_hash": ["410e0de215ab8eaf04f81bc16ad65d549f47762e"]
   },
   "webchem": {
-    "success": [false],
-    "published": ["2025-10-20 04:43:21.221 UTC"],
+    "success": [true],
+    "published": ["2025-10-20 05:02:42.177 UTC"],
     "version": ["1.3.1"],
-    "remote_hash": ["2131a4e718996f16467be458fd7378116523414d"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18642369854"]
+    "remote_hash": ["2131a4e718996f16467be458fd7378116523414d"]
   },
   "webseq": {
     "success": [false],
