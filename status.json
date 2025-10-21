@@ -477,9 +477,10 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2025-10-19 23:59:16.421 UTC"],
+    "published": ["2025-10-21 21:23:12.552 UTC"],
     "version": ["1.1.6"],
     "remote_hash": ["4bffc21ee4eba4ec4a093231363505ec3475af1a"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18698039475"],
     "versions": {
       "version_current": ["1.1.6"],
       "hash_current": ["4bffc21ee4eba4ec4a093231363505ec3475af1a"],
