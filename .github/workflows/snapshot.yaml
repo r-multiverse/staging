@@ -105,7 +105,9 @@ jobs:
         shell: Rscript {0}
         run: multiverse.internals::rclone_includes(path_staging = getwd())
 
-      # Needs to use `rclone copy` instead of `rclone sync` because of
+      # Need to use `rclone copy` instead of `rclone sync` because
+      # a package could be unexpectedly removed from the staging universe
+      # during the dependency freeze:
       # https://github.com/r-multiverse/help/discussions/155
       - name: Upload packages.
         run: |
