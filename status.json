@@ -421,9 +421,9 @@
   },
   "mutagen": {
     "success": [true],
-    "published": ["2025-10-16 03:00:53.582 UTC"],
-    "version": ["0.1.0"],
-    "remote_hash": ["2f5b5f43845e26db9aabdf7dc1c7d0c965ca1405"]
+    "published": ["2025-10-26 01:45:40.150 UTC"],
+    "version": ["0.2.0"],
+    "remote_hash": ["5311fdf1641a1f99bad90ada408b413e74ced7b3"]
   },
   "nanoarrow": {
     "success": [false],
