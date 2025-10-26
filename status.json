@@ -695,8 +695,10 @@
     ]
   },
   "tidyterra": {
-    "success": [false],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18817172635"]
+    "success": [true],
+    "published": ["2025-10-26 11:51:47.565 UTC"],
+    "version": ["0.7.2"],
+    "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
   },
   "unigd": {
     "success": [true],
