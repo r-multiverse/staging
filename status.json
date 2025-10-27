@@ -56,39 +56,39 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2025-10-07 03:36:28.854 UTC"],
-    "version": ["0.4.1"],
-    "remote_hash": ["4b5c6a288c0f46a4cdc47f50d2d35395d3e32194"],
+    "published": ["2025-10-27 13:01:12.898 UTC"],
+    "version": ["0.4.2"],
+    "remote_hash": ["ca36a0714ea70b4c6e1b4adf79b6b24e345e5972"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "linux-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18301039027/job/52109268889"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18841457706/job/53755006026"
       },
       {
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18301039027/job/52109268880"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18841457706/job/53755005992"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18301039027/job/52109268906"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18841457706/job/53755005964"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18301039027/job/52109268904"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18841457706/job/53755005941"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18301039027/job/52109268895"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18841457706/job/53755005954"
       }
     ],
     "remotes": ["bnosac/audio.vadwebrtc"]
