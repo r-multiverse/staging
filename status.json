@@ -105,6 +105,12 @@
     "version": ["1.14.0"],
     "remote_hash": ["6240b33a3d2d9afc88d925c9e91dc1f7e7413655"]
   },
+  "biorecap": {
+    "success": [true],
+    "published": ["2025-10-27 14:37:58.114 UTC"],
+    "version": ["0.2.0"],
+    "remote_hash": ["20dcdd9ea6fbca2a061b123ef56e5f1b94380644"]
+  },
   "bridgestan": {
     "success": [false],
     "published": ["2025-10-09 07:16:24.371 UTC"],
@@ -351,6 +357,12 @@
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
+  "kgp": {
+    "success": [true],
+    "published": ["2025-10-27 14:30:29.025 UTC"],
+    "version": ["1.1.1"],
+    "remote_hash": ["284855372dc1bd76ea3aceb2bd1e69404c237834"]
+  },
   "later": {
     "success": [true],
     "published": ["2025-10-16 03:00:24.295 UTC"],
@@ -485,6 +497,12 @@
     "published": ["2025-10-14 03:28:22.614 UTC"],
     "version": ["0.10.1"],
     "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
+  },
+  "qqman": {
+    "success": [true],
+    "published": ["2025-10-27 14:35:05.286 UTC"],
+    "version": ["0.1.9"],
+    "remote_hash": ["f2ec247b6f31473f88a4b86e03a2349a4cfe3f1c"]
   },
   "riem": {
     "success": [true],
