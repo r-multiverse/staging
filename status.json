@@ -638,11 +638,10 @@
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
   },
   "string2path": {
-    "success": [false],
-    "published": ["2025-10-28 03:53:05.250 UTC"],
+    "success": [true],
+    "published": ["2025-10-28 04:04:46.740 UTC"],
     "version": ["0.2.2"],
-    "remote_hash": ["64be930c5bbef7e1cc491ccc52c115991113d2ac"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18863537051"]
+    "remote_hash": ["64be930c5bbef7e1cc491ccc52c115991113d2ac"]
   },
   "tarchetypes": {
     "success": [true],
