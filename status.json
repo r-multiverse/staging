@@ -663,9 +663,10 @@
   },
   "taxizedb": {
     "success": [false],
-    "published": ["2025-09-30 04:10:08.141 UTC"],
+    "published": ["2025-10-28 15:29:46.480 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/18880158378"],
     "cran": ["0.3.2"]
   },
   "tidypolars": {
