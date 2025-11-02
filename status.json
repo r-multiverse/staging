@@ -49,11 +49,10 @@
     "cran": ["1.1.2"]
   },
   "audio.vadwebrtc": {
-    "success": [false],
-    "published": ["2025-11-02 04:44:45.451 UTC"],
+    "success": [true],
+    "published": ["2025-11-02 06:13:06.982 UTC"],
     "version": ["0.2"],
-    "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19007467351"]
+    "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
   },
   "audio.whisper": {
     "success": [false],
