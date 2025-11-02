@@ -525,6 +525,13 @@
     "hash_highest": "b6c5181aa1c7c0888b923663b7fe903c6759d86d"
   },
   {
+    "package": "vctrs",
+    "version_current": "0.6.5",
+    "hash_current": "11f1c1c43c32583aeaa87438c6a6b6b440b95bb2",
+    "version_highest": "0.6.5",
+    "hash_highest": "11f1c1c43c32583aeaa87438c6a6b6b440b95bb2"
+  },
+  {
     "package": "weathercan",
     "version_current": "0.7.6",
     "hash_current": "5fbc307fbeb12915814ca59025ec77d304cb3d15",
