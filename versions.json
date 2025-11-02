@@ -84,6 +84,13 @@
     "hash_highest": "ec1d4d319f434d85b07193df2d81736568c42920"
   },
   {
+    "package": "cli",
+    "version_current": "3.6.5",
+    "hash_current": "f8cd002012342fcf9e34940e80b32a4a17ada726",
+    "version_highest": "3.6.5",
+    "hash_highest": "f8cd002012342fcf9e34940e80b32a4a17ada726"
+  },
+  {
     "package": "cmdstanr",
     "version_current": "0.9.0",
     "hash_current": "da99e2ba954658bdad63bffb738c4444c33a4e0e",
@@ -404,6 +411,13 @@
     "hash_current": "005588296e03080357c7140c1eaf8b47ccabe0bc",
     "version_highest": "0.3.0",
     "hash_highest": "005588296e03080357c7140c1eaf8b47ccabe0bc"
+  },
+  {
+    "package": "S7",
+    "version_current": "0.2.0",
+    "hash_current": "860394b610799aac671ffbdc13ac69e9d1f31ccc",
+    "version_highest": "0.2.0",
+    "hash_highest": "860394b610799aac671ffbdc13ac69e9d1f31ccc"
   },
   {
     "package": "saperlipopette",
