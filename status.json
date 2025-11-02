@@ -49,10 +49,11 @@
     "cran": ["1.1.2"]
   },
   "audio.vadwebrtc": {
-    "success": [true],
-    "published": ["2025-10-03 04:39:13.342 UTC"],
+    "success": [false],
+    "published": ["2025-11-02 04:44:45.451 UTC"],
     "version": ["0.2"],
-    "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
+    "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19007467351"]
   },
   "audio.whisper": {
     "success": [false],
@@ -253,30 +254,29 @@
   },
   "geographr": {
     "success": [false],
-    "published": ["2025-11-02 03:54:02.084 UTC"],
+    "published": ["2025-11-02 05:10:59.187 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "linux-release-x86_64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18212011195/job/51854599281"
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19006955015/job/54282486840"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18212011195/job/51854599289"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19006955015/job/54282486848"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18212011195/job/51854599290"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19006955015/job/54282486851"
       }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19006955015"]
+    ]
   },
   "geotargets": {
     "success": [false],
