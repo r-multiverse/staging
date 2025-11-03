@@ -712,7 +712,6 @@
     "published": ["2025-11-03 14:43:39.266 UTC"],
     "version": ["0.15.0"],
     "remote_hash": ["1aa2173264633e9acbf7188ed573a33879930853"],
-    "synchronization": ["recent"],
     "dependencies": {
       "polars": []
     }
