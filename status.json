@@ -761,8 +761,10 @@
     "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
   },
   "trelliscope": {
-    "success": [false],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19049760685"]
+    "success": [true],
+    "published": ["2025-11-03 21:51:55.786 UTC"],
+    "version": ["0.1.14"],
+    "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
   },
   "unigd": {
     "success": [true],
