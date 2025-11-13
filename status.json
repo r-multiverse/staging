@@ -433,7 +433,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-11-12 15:00:03.410 UTC"],
+    "published": ["2025-11-13 02:59:42.917 UTC"],
     "version": ["1.1.9"],
     "remote_hash": ["f212449e1cb2edc8a96a86145486bea7428078c0"]
   },
@@ -445,7 +445,7 @@
   },
   "nanoarrow": {
     "success": [false],
-    "published": ["2025-10-14 03:16:11.792 UTC"],
+    "published": ["2025-11-13 03:28:59.127 UTC"],
     "version": ["0.7.0"],
     "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"],
     "cran": ["0.7.0-1"]
@@ -507,10 +507,11 @@
     }
   },
   "prqlr": {
-    "success": [true],
-    "published": ["2025-10-14 03:28:22.614 UTC"],
+    "success": [false],
+    "published": ["2025-11-13 03:28:59.790 UTC"],
     "version": ["0.10.1"],
-    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
+    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19319540386"]
   },
   "qqman": {
     "success": [true],
