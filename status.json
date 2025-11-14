@@ -145,7 +145,7 @@
   },
   "cmdstanr": {
     "success": [true],
-    "published": ["2025-10-15 23:06:39.489 UTC"],
+    "published": ["2025-11-14 07:25:29.607 UTC"],
     "version": ["0.9.0"],
     "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"]
   },
@@ -478,7 +478,7 @@
   },
   "posterior": {
     "success": [true],
-    "published": ["2025-10-15 22:43:17.115 UTC"],
+    "published": ["2025-11-14 07:27:51.971 UTC"],
     "version": ["1.6.1"],
     "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"]
   },
@@ -582,7 +582,7 @@
   },
   "SBC": {
     "success": [false],
-    "published": ["2025-10-15 23:57:43.688 UTC"],
+    "published": ["2025-11-14 07:07:45.736 UTC"],
     "version": ["0.3.0.9000"],
     "remote_hash": ["9ddc803105f5350dae6efb4ae2657e89d2a54aa8"],
     "r_cmd_check": [
@@ -610,7 +610,8 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18544682978/job/52862661756"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19357099366"]
   },
   "secretbase": {
     "success": [true],
