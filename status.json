@@ -483,11 +483,10 @@
     "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"]
   },
   "posteriordb": {
-    "success": [false],
-    "published": ["2025-11-15 04:00:05.855 UTC"],
+    "success": [true],
+    "published": ["2025-11-15 05:17:27.698 UTC"],
     "version": ["0.3.4"],
-    "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19384099201"]
+    "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"]
   },
   "projpred": {
     "success": [true],
@@ -544,11 +543,10 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [false],
-    "published": ["2025-11-15 03:52:37.052 UTC"],
+    "success": [true],
+    "published": ["2025-11-15 05:02:59.609 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19384018797"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
   "Rvision": {
     "success": [false],
