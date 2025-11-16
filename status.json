@@ -703,7 +703,8 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19391599541/job/55485969862"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19405959233"]
   },
   "tidytab": {
     "success": [true],
