@@ -680,31 +680,10 @@
     "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
   "tidypolars": {
-    "success": [false],
-    "published": ["2025-11-15 15:28:18.730 UTC"],
-    "version": ["0.15.0"],
-    "remote_hash": ["1aa2173264633e9acbf7188ed573a33879930853"],
-    "r_cmd_check": [
-      {
-        "check": "WARNING",
-        "config": "linux-release-x86_64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19391599541/job/55485969853"
-      },
-      {
-        "check": "WARNING",
-        "config": "macos-release-arm64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19391599541/job/55485969864"
-      },
-      {
-        "check": "WARNING",
-        "config": "windows-release",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19391599541/job/55485969862"
-      }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19405959233"]
+    "success": [true],
+    "published": ["2025-11-16 13:20:58.928 UTC"],
+    "version": ["0.15.1"],
+    "remote_hash": ["6f92eff31cd964575ea5080b3dcd408d7b023642"]
   },
   "tidytab": {
     "success": [true],
