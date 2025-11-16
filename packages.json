@@ -360,7 +360,7 @@
   {
     "package": "tidypolars",
     "url": "https://github.com/etiennebacher/tidypolars/",
-    "branch": "*release"
+    "branch": "6f92eff31cd964575ea5080b3dcd408d7b023642"
   },
   {
     "package": "tidytab",
