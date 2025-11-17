@@ -226,11 +226,10 @@
     ]
   },
   "duckdb": {
-    "success": [false],
-    "published": ["2025-11-17 03:09:02.551 UTC"],
+    "success": [true],
+    "published": ["2025-11-17 04:48:23.640 UTC"],
     "version": ["1.4.1"],
-    "remote_hash": ["a3c506450a019ff28a797a1c86db040c23fa21e6"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19417113803"]
+    "remote_hash": ["a3c506450a019ff28a797a1c86db040c23fa21e6"]
   },
   "ExpBites": {
     "success": [false],
