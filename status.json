@@ -414,10 +414,11 @@
     "remote_hash": ["23e68bf5fb8aa9d000358f3bbbf52cf7ee92a99c"]
   },
   "milRex": {
-    "success": [true],
-    "published": ["2025-11-11 04:01:29.321 UTC"],
+    "success": [false],
+    "published": ["2025-11-17 07:28:07.391 UTC"],
     "version": ["1.1.0"],
-    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
+    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19421760126"]
   },
   "mirai": {
     "success": [true],
