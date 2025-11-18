@@ -305,7 +305,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2025-10-21 03:23:26.036 UTC"],
+    "published": ["2025-11-18 07:26:43.453 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "dependencies": {
@@ -656,11 +656,10 @@
     "remote_hash": ["64be930c5bbef7e1cc491ccc52c115991113d2ac"]
   },
   "tarchetypes": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-11-18 06:58:58.661 UTC"],
     "version": ["0.13.2"],
-    "remote_hash": ["08abe45596507597310e6bc67dae3f8360bd14ee"],
-    "synchronization": ["recent"]
+    "remote_hash": ["08abe45596507597310e6bc67dae3f8360bd14ee"]
   },
   "targets": {
     "success": [true],
