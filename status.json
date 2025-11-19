@@ -305,7 +305,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2025-11-18 16:13:36.440 UTC"],
+    "published": ["2025-11-19 03:11:02.055 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "dependencies": {
