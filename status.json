@@ -748,11 +748,10 @@
     "remote_hash": ["11f1c1c43c32583aeaa87438c6a6b6b440b95bb2"]
   },
   "weathercan": {
-    "success": [false],
-    "published": ["2025-11-19 07:08:06.434 UTC"],
+    "success": [true],
+    "published": ["2025-11-19 07:58:34.414 UTC"],
     "version": ["0.7.6"],
-    "remote_hash": ["5fbc307fbeb12915814ca59025ec77d304cb3d15"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19492892487"]
+    "remote_hash": ["5fbc307fbeb12915814ca59025ec77d304cb3d15"]
   },
   "webchem": {
     "success": [true],
