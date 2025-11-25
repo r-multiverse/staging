@@ -256,6 +256,7 @@
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19665410945/job/56321341503"
       }
     ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19671443743"],
     "versions": {
       "version_current": ["0.1.0"],
       "hash_current": ["87b639c5a3cea8444122573634b4ba8f53f217ea"],
