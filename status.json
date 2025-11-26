@@ -56,7 +56,7 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2025-10-27 13:01:12.898 UTC"],
+    "published": ["2025-11-26 06:52:59.805 UTC"],
     "version": ["0.4.2"],
     "remote_hash": ["ca36a0714ea70b4c6e1b4adf79b6b24e345e5972"],
     "r_cmd_check": [
@@ -91,7 +91,8 @@
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/18841457706/job/53755005954"
       }
     ],
-    "remotes": ["bnosac/audio.vadwebrtc"]
+    "remotes": ["bnosac/audio.vadwebrtc"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19695140377"]
   },
   "autometric": {
     "success": [true],
