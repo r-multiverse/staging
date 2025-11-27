@@ -654,11 +654,10 @@
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
   "taxizedb": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-11-27 07:35:51.101 UTC"],
     "version": ["0.3.2"],
-    "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"],
-    "synchronization": ["recent"]
+    "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
   "tidypolars": {
     "success": [true],
