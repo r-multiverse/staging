@@ -642,11 +642,10 @@
     "remote_hash": ["08abe45596507597310e6bc67dae3f8360bd14ee"]
   },
   "targets": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-11-28 04:40:59.619 UTC"],
     "version": ["1.11.4"],
-    "remote_hash": ["3e00d3e0abc1675b2bc891a9fa33bbf305576a0b"],
-    "synchronization": ["recent"]
+    "remote_hash": ["3e00d3e0abc1675b2bc891a9fa33bbf305576a0b"]
   },
   "targetsketch": {
     "success": [true],
