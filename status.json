@@ -325,10 +325,11 @@
     "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
   "igraph": {
-    "success": [true],
-    "published": ["2025-10-29 03:47:09.400 UTC"],
+    "success": [false],
+    "published": ["2025-11-28 03:22:28.358 UTC"],
     "version": ["2.2.1"],
-    "remote_hash": ["0f790930c1a348bc7cf12c9dec003cbcce66f0fd"]
+    "remote_hash": ["0f790930c1a348bc7cf12c9dec003cbcce66f0fd"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/19753145142"]
   },
   "IMD": {
     "success": [false],
