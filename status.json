@@ -183,7 +183,7 @@
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2025-11-03 11:44:40.668 UTC"],
+    "published": ["2025-12-03 07:11:53.177 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
@@ -710,10 +710,11 @@
     "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
   },
   "trelliscope": {
-    "success": [true],
-    "published": ["2025-11-03 21:51:55.786 UTC"],
+    "success": [false],
+    "published": ["2025-12-03 07:37:14.765 UTC"],
     "version": ["0.1.14"],
-    "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
+    "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"],
+    "synchronization": ["recent"]
   },
   "unigd": {
     "success": [true],
