@@ -792,10 +792,9 @@
     ]
   },
   "zstdlite": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-12-06 03:28:03.963 UTC"],
     "version": ["0.2.6"],
-    "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
-    "synchronization": ["recent"]
+    "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
 }
