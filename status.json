@@ -4,7 +4,6 @@
     "published": ["2025-12-07 04:08:29.799 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
-    "synchronization": ["recent"],
     "dependencies": {
       "nanoarrow": ["adbcdrivermanager"]
     }
@@ -32,7 +31,6 @@
     "published": ["2025-12-07 04:05:05.098 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
-    "synchronization": ["recent"],
     "dependencies": {
       "nanoarrow": ["adbcdrivermanager"]
     }
