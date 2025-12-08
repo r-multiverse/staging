@@ -113,7 +113,7 @@
   },
   "bridgestan": {
     "success": [false],
-    "published": ["2025-11-08 07:00:18.032 UTC"],
+    "published": ["2025-12-08 06:52:30.858 UTC"],
     "version": ["2.7.0"],
     "remote_hash": ["ec1d4d319f434d85b07193df2d81736568c42920"],
     "r_cmd_check": [
@@ -135,7 +135,8 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19189529130/job/54861969699"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/20019367811"]
   },
   "cli": {
     "success": [true],
