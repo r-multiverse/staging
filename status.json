@@ -428,7 +428,6 @@
     "published": ["2025-12-13 04:44:51.388 UTC"],
     "version": ["0.7.0"],
     "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"],
-    "synchronization": ["recent"],
     "cran": ["0.7.0-1"]
   },
   "nanonext": {
