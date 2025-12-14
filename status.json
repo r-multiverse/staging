@@ -145,7 +145,7 @@
   },
   "cmdstanr": {
     "success": [true],
-    "published": ["2025-11-14 07:25:29.607 UTC"],
+    "published": ["2025-12-14 07:27:51.233 UTC"],
     "version": ["0.9.0"],
     "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"]
   },
@@ -449,10 +449,11 @@
     "remote_hash": ["8972f0106e87e1f02da005613855fe99628d66db"]
   },
   "posterior": {
-    "success": [true],
-    "published": ["2025-11-14 07:27:51.971 UTC"],
+    "success": [false],
+    "published": ["2025-12-14 07:35:57.815 UTC"],
     "version": ["1.6.1"],
-    "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"]
+    "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"],
+    "synchronization": ["recent"]
   },
   "posteriordb": {
     "success": [true],
@@ -554,7 +555,7 @@
   },
   "SBC": {
     "success": [false],
-    "published": ["2025-11-14 08:21:08.591 UTC"],
+    "published": ["2025-12-14 07:23:38.832 UTC"],
     "version": ["0.3.0.9000"],
     "remote_hash": ["9ddc803105f5350dae6efb4ae2657e89d2a54aa8"],
     "r_cmd_check": [
@@ -582,7 +583,8 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19357099366/job/55383395206"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/20204562563"]
   },
   "secretbase": {
     "success": [true],
