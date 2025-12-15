@@ -437,11 +437,10 @@
     "remote_hash": ["94bbe81104ca982959237f393225750c5a4edf8a"]
   },
   "polars": {
-    "success": [false],
-    "published": ["2025-12-15 07:35:10.775 UTC"],
+    "success": [true],
+    "published": ["2025-12-15 08:03:49.025 UTC"],
     "version": ["1.6.0"],
-    "remote_hash": ["81dacb65cb6b28b71878b3e53bb337f747a278cb"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/20224149846"]
+    "remote_hash": ["81dacb65cb6b28b71878b3e53bb337f747a278cb"]
   },
   "polars0": {
     "success": [true],
