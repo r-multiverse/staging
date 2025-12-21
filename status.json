@@ -497,11 +497,10 @@
     "remote_hash": ["5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33"]
   },
   "rJavaEnv": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-12-21 06:51:05.773 UTC"],
     "version": ["0.3.0"],
-    "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"],
-    "synchronization": ["recent"]
+    "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
   },
   "rlang": {
     "success": [true],
