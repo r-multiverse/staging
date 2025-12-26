@@ -56,7 +56,7 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2025-12-26 07:33:01.424 UTC"],
+    "published": ["2025-12-26 07:44:37.635 UTC"],
     "version": ["0.4.2"],
     "remote_hash": ["ca36a0714ea70b4c6e1b4adf79b6b24e345e5972"],
     "r_cmd_check": [
@@ -64,35 +64,34 @@
         "check": "WARNING",
         "config": "linux-release-arm64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19695140377/job/56418825676"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20518406600/job/58949869708"
       },
       {
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19695140377/job/56418825669"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20518406600/job/58949869711"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19695140377/job/56418825713"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20518406600/job/58949869704"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19695140377/job/56418825693"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20518406600/job/58949869709"
       },
       {
-        "check": "ERROR",
+        "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19695140377/job/56418825709"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20518406600/job/58949869688"
       }
     ],
-    "remotes": ["bnosac/audio.vadwebrtc"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/20518406600"]
+    "remotes": ["bnosac/audio.vadwebrtc"]
   },
   "autometric": {
     "success": [true],
@@ -107,11 +106,10 @@
     "remote_hash": ["6240b33a3d2d9afc88d925c9e91dc1f7e7413655"]
   },
   "biorecap": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-12-26 07:40:45.671 UTC"],
     "version": ["0.2.0"],
-    "remote_hash": ["20dcdd9ea6fbca2a061b123ef56e5f1b94380644"],
-    "synchronization": ["recent"]
+    "remote_hash": ["20dcdd9ea6fbca2a061b123ef56e5f1b94380644"]
   },
   "bridgestan": {
     "success": [false],
@@ -235,7 +233,7 @@
   },
   "ExpBites": {
     "success": [true],
-    "published": ["2025-11-26 13:26:28.339 UTC"],
+    "published": ["2025-12-26 08:27:16.293 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["6d64099f87c0f238c9630b57003559f01e9a0e79"]
   },
