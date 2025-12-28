@@ -461,11 +461,10 @@
     "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"]
   },
   "projpred": {
-    "success": [false],
-    "published": ["2025-12-28 08:22:12.973 UTC"],
+    "success": [true],
+    "published": ["2025-12-28 09:05:33.844 UTC"],
     "version": ["2.9.1"],
-    "remote_hash": ["881b726e4ba5a33a8b5716ba3bf1e74572c283f8"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/20551151958"]
+    "remote_hash": ["881b726e4ba5a33a8b5716ba3bf1e74572c283f8"]
   },
   "prophet": {
     "success": [false],
