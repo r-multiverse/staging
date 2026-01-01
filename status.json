@@ -522,7 +522,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2025-12-02 03:02:30.653 UTC"],
+    "published": ["2026-01-01 03:42:11.760 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
@@ -530,7 +530,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/19778142538/job/56861676130"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20631978601/job/59251296327"
       }
     ]
   },
