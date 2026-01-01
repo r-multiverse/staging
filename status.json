@@ -585,11 +585,10 @@
     ]
   },
   "secretbase": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-01-01 07:38:31.617 UTC"],
     "version": ["1.0.5"],
-    "remote_hash": ["13ab20eb142b41ceec185eb7b6be4680784e32d9"],
-    "synchronization": ["recent"]
+    "remote_hash": ["13ab20eb142b41ceec185eb7b6be4680784e32d9"]
   },
   "shinystan": {
     "success": [true],
@@ -723,11 +722,10 @@
     "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
   },
   "vctrs": {
-    "success": [false],
-    "published": ["2026-01-01 07:35:00.415 UTC"],
+    "success": [true],
+    "published": ["2026-01-01 07:45:35.141 UTC"],
     "version": ["0.6.5"],
-    "remote_hash": ["11f1c1c43c32583aeaa87438c6a6b6b440b95bb2"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/20634773409"]
+    "remote_hash": ["11f1c1c43c32583aeaa87438c6a6b6b440b95bb2"]
   },
   "weathercan": {
     "success": [true],
