@@ -431,11 +431,10 @@
     "cran": ["0.7.0-1"]
   },
   "nanonext": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-01-06 07:42:16.756 UTC"],
     "version": ["1.7.2"],
-    "remote_hash": ["94bbe81104ca982959237f393225750c5a4edf8a"],
-    "synchronization": ["recent"]
+    "remote_hash": ["94bbe81104ca982959237f393225750c5a4edf8a"]
   },
   "polars": {
     "success": [true],
