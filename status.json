@@ -1,11 +1,10 @@
 {
   "adbcbigquery": {
     "success": [false],
-    "published": ["2025-12-07 04:08:29.799 UTC"],
+    "published": ["2026-01-06 04:21:38.634 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
     "dependencies": {
-      "adbcdrivermanager": [],
       "nanoarrow": ["adbcdrivermanager"]
     }
   },
@@ -14,28 +13,25 @@
     "published": ["2026-01-06 03:49:34.451 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
-    "synchronization": ["recent"],
     "dependencies": {
       "nanoarrow": []
     }
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2025-12-07 03:56:12.686 UTC"],
+    "published": ["2026-01-06 04:08:56.776 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
     "dependencies": {
-      "adbcdrivermanager": [],
       "nanoarrow": ["adbcdrivermanager"]
     }
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-12-07 04:05:05.098 UTC"],
+    "published": ["2026-01-06 04:19:18.753 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
     "dependencies": {
-      "adbcdrivermanager": [],
       "nanoarrow": ["adbcdrivermanager"]
     }
   },
