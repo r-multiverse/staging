@@ -56,43 +56,30 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2026-01-07 22:39:44.144 UTC"],
-    "version": ["0.4.2"],
-    "remote_hash": ["ca36a0714ea70b4c6e1b4adf79b6b24e345e5972"],
+    "published": ["2026-01-07 22:55:15.075 UTC"],
+    "version": ["0.5.0"],
+    "remote_hash": ["03904914c7dd3b35b15719a6b4901635dedcdbb9"],
     "r_cmd_check": [
-      {
-        "check": "WARNING",
-        "config": "linux-release-arm64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20518406600/job/58949869708"
-      },
-      {
-        "check": "WARNING",
-        "config": "linux-release-x86_64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20518406600/job/58949869711"
-      },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20518406600/job/58949869704"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20798846439/job/59739449210"
       },
       {
-        "check": "WARNING",
+        "check": "ERROR",
         "config": "macos-release-x86_64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20518406600/job/58949869709"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20798846439/job/59739449216"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20518406600/job/58949869688"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/20798846439/job/59739449190"
       }
     ],
-    "remotes": ["bnosac/audio.vadwebrtc"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/20798846439"]
+    "remotes": ["bnosac/audio.vadwebrtc"]
   },
   "autometric": {
     "success": [true],
