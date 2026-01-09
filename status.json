@@ -285,7 +285,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2026-01-08 03:28:54.710 UTC"],
+    "published": ["2026-01-09 03:29:48.684 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "dependencies": {
@@ -413,7 +413,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2026-01-08 03:16:47.924 UTC"],
+    "published": ["2026-01-09 03:18:14.492 UTC"],
     "version": ["1.1.9"],
     "remote_hash": ["f212449e1cb2edc8a96a86145486bea7428078c0"]
   },
