@@ -784,10 +784,18 @@
     "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
   "tidypolars": {
-    "success": [true],
-    "published": ["2026-01-21 17:39:55.289 UTC"],
-    "version": ["0.15.1"],
-    "remote_hash": ["6f92eff31cd964575ea5080b3dcd408d7b023642"]
+    "success": [false],
+    "published": ["2026-01-21 22:46:05.180 UTC"],
+    "version": ["0.16.0"],
+    "remote_hash": ["d29609f2a206088e57ccbfeb021017b40b7cf5c0"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21227877608/job/61079820163"
+      }
+    ]
   },
   "tidytab": {
     "success": [true],
