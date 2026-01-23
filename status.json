@@ -836,10 +836,11 @@
     ]
   },
   "tidyterra": {
-    "success": [true],
-    "published": ["2026-01-16 04:54:40.148 UTC"],
+    "success": [false],
+    "published": ["2026-01-23 07:30:12.546 UTC"],
     "version": ["0.7.2"],
-    "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
+    "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/21278275873"]
   },
   "trelliscope": {
     "success": [true],
