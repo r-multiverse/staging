@@ -530,10 +530,15 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-01-27 22:22:55.733 UTC"],
+    "published": ["2026-01-27 22:52:55.440 UTC"],
     "version": ["1.2.2"],
-    "remote_hash": ["2cdb2cb98d756c06ecf1476e7f353ece13ed0149"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/21416522033"]
+    "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
+    "versions": {
+      "version_current": ["1.2.2"],
+      "hash_current": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
+      "version_highest": ["1.2.2"],
+      "hash_highest": ["2cdb2cb98d756c06ecf1476e7f353ece13ed0149"]
+    }
   },
   "prqlr": {
     "success": [true],
