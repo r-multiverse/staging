@@ -221,10 +221,15 @@
   },
   "ecoXCorr": {
     "success": [false],
-    "published": ["2026-02-06 19:40:06.733 UTC"],
+    "published": ["2026-02-06 20:03:13.426 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["f12e78a6c969e4300ef7646f28c6e75ae6fc7548"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/21763491406"]
+    "remote_hash": ["47476a4b1d8ad788e6c6702c9076ad5aa631ec91"],
+    "versions": {
+      "version_current": ["0.1.0"],
+      "hash_current": ["47476a4b1d8ad788e6c6702c9076ad5aa631ec91"],
+      "version_highest": ["0.1.0"],
+      "hash_highest": ["f12e78a6c969e4300ef7646f28c6e75ae6fc7548"]
+    }
   },
   "ExpBites": {
     "success": [true],
