@@ -343,7 +343,7 @@
   },
   "jagstargets": {
     "success": [true],
-    "published": ["2026-02-05 10:14:00.569 UTC"],
+    "published": ["2026-02-06 04:04:32.369 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
@@ -590,7 +590,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2026-02-05 03:58:23.109 UTC"],
+    "published": ["2026-02-06 03:57:59.957 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
@@ -598,7 +598,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21616553714/job/62572617197"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21616553714/job/62707336654"
       }
     ]
   },
@@ -708,7 +708,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-02-05 10:15:32.016 UTC"],
+    "published": ["2026-02-06 04:17:55.901 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": [
@@ -716,19 +716,19 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21706814570/job/62600600633"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21706814570/job/62707675063"
       },
       {
         "check": "ERROR",
         "config": "source",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21706814570/job/62599975684"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21706814570/job/62707400333"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21706814570/job/62600600705"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21706814570/job/62707675085"
       }
     ],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
