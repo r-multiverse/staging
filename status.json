@@ -224,7 +224,6 @@
     "published": ["2026-02-10 19:34:16.142 UTC"],
     "version": ["0.1.4"],
     "remote_hash": ["2363ba28214d0afde744cc7a66e09719ef196814"],
-    "synchronization": ["recent"],
     "versions": {
       "version_current": ["0.1.4"],
       "hash_current": ["2363ba28214d0afde744cc7a66e09719ef196814"],
