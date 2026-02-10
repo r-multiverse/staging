@@ -321,7 +321,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2026-02-09 18:26:44.108 UTC"],
+    "published": ["2026-02-10 04:31:22.897 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "dependencies": {
@@ -448,18 +448,10 @@
     "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
   "multiverse.internals": {
-    "success": [false],
-    "published": ["2026-02-09 21:10:10.160 UTC"],
+    "success": [true],
+    "published": ["2026-02-10 04:19:45.678 UTC"],
     "version": ["1.1.10"],
-    "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "windows-release",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21840284519/job/63022867734"
-      }
-    ]
+    "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"]
   },
   "mutagen": {
     "success": [true],
