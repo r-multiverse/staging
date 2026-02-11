@@ -94,10 +94,13 @@
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
   "bedrockbio": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-02-06 22:34:36.249 UTC"],
     "version": ["1.1.0"],
-    "remote_hash": ["c24adc9905f06fa3f57b5fe0f11693b586addfce"]
+    "remote_hash": ["c24adc9905f06fa3f57b5fe0f11693b586addfce"],
+    "dependencies": {
+      "tidypolars": []
+    }
   },
   "biorecap": {
     "success": [true],
@@ -226,16 +229,10 @@
     "remote_hash": ["f4d7637ff0574ed9b4591d5f334edbb096ee0abb"]
   },
   "ecoXCorr": {
-    "success": [false],
-    "published": ["2026-02-10 19:34:16.142 UTC"],
-    "version": ["0.1.4"],
-    "remote_hash": ["2363ba28214d0afde744cc7a66e09719ef196814"],
-    "versions": {
-      "version_current": ["0.1.4"],
-      "hash_current": ["2363ba28214d0afde744cc7a66e09719ef196814"],
-      "version_highest": ["0.1.4"],
-      "hash_highest": ["f43adf5addec6c52bf05c88794b25ed64987c5d8"]
-    }
+    "success": [true],
+    "published": ["2026-02-11 18:33:37.658 UTC"],
+    "version": ["0.1.6"],
+    "remote_hash": ["271d1bc468317504d3ee1608cfc0c96d909bb970"]
   },
   "ExpBites": {
     "success": [true],
@@ -461,9 +458,9 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2026-01-21 17:18:28.280 UTC"],
-    "version": ["1.8.0"],
-    "remote_hash": ["99552d9ec454d69119fa22c84e1783803819c1f3"]
+    "published": ["2026-02-11 18:35:59.661 UTC"],
+    "version": ["1.9.0"],
+    "remote_hash": ["4dacefc1d605db1a27c00c784e71323142cd2e9c"]
   },
   "polars0": {
     "success": [false],
@@ -783,10 +780,30 @@
     "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
   "tidypolars": {
-    "success": [true],
-    "published": ["2026-01-27 15:23:18.417 UTC"],
+    "success": [false],
+    "published": ["2026-02-11 19:01:08.907 UTC"],
     "version": ["0.16.0"],
-    "remote_hash": ["d29609f2a206088e57ccbfeb021017b40b7cf5c0"]
+    "remote_hash": ["d29609f2a206088e57ccbfeb021017b40b7cf5c0"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21918113369/job/63291206814"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21918113369/job/63291206804"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21918113369/job/63291206857"
+      }
+    ]
   },
   "tidytab": {
     "success": [true],
