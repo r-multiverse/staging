@@ -781,7 +781,7 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-02-11 19:01:08.907 UTC"],
+    "published": ["2026-02-12 11:41:18.710 UTC"],
     "version": ["0.16.0"],
     "remote_hash": ["d29609f2a206088e57ccbfeb021017b40b7cf5c0"],
     "r_cmd_check": [
@@ -803,7 +803,8 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21918113369/job/63291206857"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/21945138646"]
   },
   "tidytab": {
     "success": [true],
