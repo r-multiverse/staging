@@ -167,22 +167,29 @@
     ]
   },
   "crew": {
-    "success": [true],
-    "published": ["2026-02-13 13:15:17.483 UTC"],
+    "success": [false],
+    "published": ["2026-02-13 20:52:52.487 UTC"],
     "version": ["1.3.0"],
-    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
+    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/22002427704"]
   },
   "crew.aws.batch": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-01-16 04:46:54.315 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
+    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"],
+    "dependencies": {
+      "crew": []
+    }
   },
   "crew.cluster": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-02-09 21:06:44.732 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
+    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"],
+    "dependencies": {
+      "crew": []
+    }
   },
   "deeptime": {
     "success": [true],
@@ -364,9 +371,9 @@
   },
   "later": {
     "success": [true],
-    "published": ["2026-01-16 04:43:44.403 UTC"],
-    "version": ["1.4.5"],
-    "remote_hash": ["44df32274f3f0fc65a069fe099e4f762dece9621"]
+    "published": ["2026-02-13 20:52:00.210 UTC"],
+    "version": ["1.4.6"],
+    "remote_hash": ["72ea12cfac39bde07550e89f63b81a414577816f"]
   },
   "litedown": {
     "success": [true],
