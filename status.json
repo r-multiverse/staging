@@ -288,10 +288,7 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21836698741/job/63010200753"
       }
-    ],
-    "dependencies": {
-      "targets": []
-    }
+    ]
   },
   "ggsurveillance": {
     "success": [true],
@@ -354,13 +351,10 @@
     "cran": ["1.2.2"]
   },
   "jagstargets": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-02-09 18:36:53.450 UTC"],
     "version": ["1.2.3"],
-    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
-    "dependencies": {
-      "targets": ["tarchetypes"]
-    }
+    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
   "kgp": {
     "success": [true],
@@ -753,10 +747,7 @@
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21706814570/job/62873303413"
       }
     ],
-    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
-    "dependencies": {
-      "targets": ["tarchetypes"]
-    }
+    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
   },
   "string2path": {
     "success": [true],
@@ -765,29 +756,22 @@
     "remote_hash": ["64be930c5bbef7e1cc491ccc52c115991113d2ac"]
   },
   "tarchetypes": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-02-09 19:11:57.338 UTC"],
     "version": ["0.14.0"],
-    "remote_hash": ["62950e703e63367d8df2326cad9c1fbc1780fc0e"],
-    "dependencies": {
-      "targets": []
-    }
+    "remote_hash": ["62950e703e63367d8df2326cad9c1fbc1780fc0e"]
   },
   "targets": {
-    "success": [false],
-    "published": ["2026-02-14 04:36:22.907 UTC"],
+    "success": [true],
+    "published": ["2026-02-14 05:17:55.355 UTC"],
     "version": ["1.12.0"],
-    "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/22011261315"]
+    "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"]
   },
   "targetsketch": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-02-09 18:49:47.332 UTC"],
     "version": ["0.0.1"],
-    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
-    "dependencies": {
-      "targets": ["tarchetypes"]
-    }
+    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
   "taxizedb": {
     "success": [true],
