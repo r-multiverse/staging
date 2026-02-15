@@ -600,10 +600,10 @@
   },
   "rstanarm": {
     "success": [false],
-    "published": ["2026-02-15 06:41:59.555 UTC"],
+    "published": ["2026-02-15 07:51:30.288 UTC"],
     "version": ["2.32.2"],
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/22031219480"]
+    "synchronization": ["recent"]
   },
   "Rvision": {
     "success": [false],
@@ -718,11 +718,10 @@
     }
   },
   "shinystan": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-02-15 07:09:43.292 UTC"],
     "version": ["2.7.0"],
-    "remote_hash": ["2036992879e7b1a7357340372f943303429da2b8"],
-    "synchronization": ["recent"]
+    "remote_hash": ["2036992879e7b1a7357340372f943303429da2b8"]
   },
   "stantargets": {
     "success": [false],
