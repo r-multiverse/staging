@@ -236,7 +236,7 @@
   },
   "ExpBites": {
     "success": [true],
-    "published": ["2026-01-25 08:27:22.904 UTC"],
+    "published": ["2026-02-24 08:58:22.219 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["6d64099f87c0f238c9630b57003559f01e9a0e79"]
   },
@@ -432,7 +432,7 @@
   },
   "mutagen": {
     "success": [true],
-    "published": ["2026-01-25 08:47:23.078 UTC"],
+    "published": ["2026-02-24 09:01:56.068 UTC"],
     "version": ["0.5.0"],
     "remote_hash": ["92ab4ab2561dbc094dc2eea27550686b53430fe2"]
   },
