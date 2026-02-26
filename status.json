@@ -501,10 +501,11 @@
     ]
   },
   "posterior": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-01-27 15:21:58.375 UTC"],
     "version": ["1.6.1"],
-    "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"]
+    "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/22435383471"]
   },
   "posteriordb": {
     "success": [true],
@@ -843,10 +844,11 @@
     "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
   },
   "vctrs": {
-    "success": [true],
-    "published": ["2026-01-27 14:56:33.756 UTC"],
+    "success": [false],
+    "published": ["2026-02-26 09:10:36.457 UTC"],
     "version": ["0.7.1"],
-    "remote_hash": ["eea0f70989fcc95998ac55856711f1199fdd2e48"]
+    "remote_hash": ["eea0f70989fcc95998ac55856711f1199fdd2e48"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/22435362386"]
   },
   "weathercan": {
     "success": [true],
