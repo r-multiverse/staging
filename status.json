@@ -223,10 +223,11 @@
     ]
   },
   "duckdb": {
-    "success": [true],
-    "published": ["2026-01-30 02:57:18.105 UTC"],
+    "success": [false],
+    "published": ["2026-03-01 04:15:26.605 UTC"],
     "version": ["1.4.4"],
-    "remote_hash": ["f4d7637ff0574ed9b4591d5f334edbb096ee0abb"]
+    "remote_hash": ["f4d7637ff0574ed9b4591d5f334edbb096ee0abb"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/22535722114"]
   },
   "ecoXCorr": {
     "success": [true],
