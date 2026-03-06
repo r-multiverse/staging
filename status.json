@@ -332,11 +332,10 @@
     ]
   },
   "httpgd": {
-    "success": [false],
-    "published": ["2026-03-06 07:08:45.680 UTC"],
+    "success": [true],
+    "published": ["2026-03-06 07:19:35.838 UTC"],
     "version": ["2.0.4"],
-    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/22753068570"]
+    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
   "igraph": {
     "success": [true],
