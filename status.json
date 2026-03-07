@@ -333,7 +333,7 @@
   },
   "httpgd": {
     "success": [true],
-    "published": ["2026-03-06 07:19:35.838 UTC"],
+    "published": ["2026-03-07 03:43:01.061 UTC"],
     "version": ["2.0.4"],
     "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
@@ -953,7 +953,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-03-06 05:08:41.484 UTC"],
+    "published": ["2026-03-07 03:40:58.082 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
