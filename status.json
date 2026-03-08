@@ -333,7 +333,7 @@
   },
   "httpgd": {
     "success": [true],
-    "published": ["2026-03-07 03:43:01.061 UTC"],
+    "published": ["2026-03-08 03:51:28.868 UTC"],
     "version": ["2.0.4"],
     "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
@@ -352,7 +352,7 @@
   },
   "jagstargets": {
     "success": [true],
-    "published": ["2026-03-07 09:24:37.963 UTC"],
+    "published": ["2026-03-08 04:02:13.634 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
@@ -606,7 +606,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2026-02-06 03:57:59.957 UTC"],
+    "published": ["2026-03-08 03:56:42.903 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
@@ -614,7 +614,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21616553714/job/62707336654"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22813355725/job/66174054981"
       }
     ]
   },
@@ -953,7 +953,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-03-07 03:40:58.082 UTC"],
+    "published": ["2026-03-08 03:49:27.595 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
