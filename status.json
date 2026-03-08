@@ -464,7 +464,7 @@
   },
   "polars0": {
     "success": [false],
-    "published": ["2026-03-08 08:35:22.480 UTC"],
+    "published": ["2026-03-08 08:56:36.857 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["8972f0106e87e1f02da005613855fe99628d66db"],
     "r_cmd_check": [
@@ -472,34 +472,33 @@
         "check": "ERROR",
         "config": "linux-release-arm64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21744780602/job/62728450024"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22817485961/job/66184982912"
       },
       {
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21744780602/job/62728450092"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22817485961/job/66184982893"
       },
       {
         "check": "ERROR",
         "config": "macos-release-arm64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21744780602/job/62728450060"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22817485961/job/66184982905"
       },
       {
         "check": "ERROR",
         "config": "macos-release-x86_64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21744780602/job/62728450037"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22817485961/job/66184982895"
       },
       {
         "check": "ERROR",
         "config": "windows-release",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/21744780602/job/62728450002"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22817485961/job/66184982875"
       }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/22817485961"]
+    ]
   },
   "posterior": {
     "success": [true],
@@ -564,11 +563,10 @@
     }
   },
   "prqlr": {
-    "success": [false],
-    "published": ["2026-03-08 08:33:54.298 UTC"],
+    "success": [true],
+    "published": ["2026-03-08 08:54:40.618 UTC"],
     "version": ["0.10.1"],
-    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/22817463517"]
+    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
   },
   "qqman": {
     "success": [true],
