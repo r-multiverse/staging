@@ -666,8 +666,7 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22817628304/job/66240729271"
       }
-    ],
-    "synchronization": ["recent"]
+    ]
   },
   "secretbase": {
     "success": [true],
