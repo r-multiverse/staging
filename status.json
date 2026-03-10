@@ -20,20 +20,18 @@
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2026-03-10 07:18:23.673 UTC"],
+    "published": ["2026-03-10 11:21:50.720 UTC"],
     "version": ["0.22.0"],
     "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/22891484531"],
     "dependencies": {
       "nanoarrow": ["adbcdrivermanager"]
     }
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2026-03-10 07:19:58.066 UTC"],
+    "published": ["2026-03-10 11:36:10.137 UTC"],
     "version": ["0.22.0"],
     "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/22891528479"],
     "dependencies": {
       "nanoarrow": ["adbcdrivermanager"]
     }
