@@ -3,25 +3,25 @@
     "package": "adbcbigquery",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcbigquery",
-    "branch": "*release"
+    "branch": "9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"
   },
   {
     "package": "adbcdrivermanager",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcdrivermanager",
-    "branch": "*release"
+    "branch": "9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"
   },
   {
     "package": "adbcflightsql",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcflightsql",
-    "branch": "*release"
+    "branch": "9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"
   },
   {
     "package": "adbcsnowflake",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcsnowflake",
-    "branch": "*release"
+    "branch": "9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"
   },
   {
     "package": "arrow",
@@ -235,7 +235,7 @@
     "package": "nanoarrow",
     "url": "https://github.com/apache/arrow-nanoarrow",
     "subdir": "r",
-    "branch": "*release"
+    "branch": "a579fbf5d192e85b6249935e117de7d02a6dc4e9"
   },
   {
     "package": "nanonext",
