@@ -275,8 +275,7 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22944518490/job/66594085935"
       }
-    ],
-    "synchronization": ["recent"]
+    ]
   },
   "ggsurveillance": {
     "success": [true],
@@ -285,11 +284,10 @@
     "remote_hash": ["b1417c45d47dc19898f8b66f9911166c030b12c1"]
   },
   "glaredb": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-03-11 11:50:35.790 UTC"],
     "version": ["0.0.5"],
-    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
-    "synchronization": ["recent"]
+    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
   "healthyr": {
     "success": [false],
