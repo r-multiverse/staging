@@ -434,10 +434,23 @@
   },
   "polars": {
     "success": [false],
-    "published": ["2026-03-13 08:49:03.831 UTC"],
+    "published": ["2026-03-13 10:04:42.187 UTC"],
     "version": ["1.9.0"],
     "remote_hash": ["4dacefc1d605db1a27c00c784e71323142cd2e9c"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23043218860"]
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/23043218860/job/66926089831"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/23043218860/job/66926657952"
+      }
+    ]
   },
   "polars0": {
     "success": [false],
