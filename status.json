@@ -450,7 +450,8 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/23043218860/job/66926657952"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23043218860"]
   },
   "polars0": {
     "success": [false],
