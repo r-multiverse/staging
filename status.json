@@ -217,11 +217,10 @@
     "remote_hash": ["f4d7637ff0574ed9b4591d5f334edbb096ee0abb"]
   },
   "ecoXCorr": {
-    "success": [false],
-    "published": ["2026-03-14 08:45:51.811 UTC"],
+    "success": [true],
+    "published": ["2026-03-14 09:10:17.898 UTC"],
     "version": ["0.1.8"],
-    "remote_hash": ["24f813f01e09e018114e810fbdf746276bbb2f44"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23084551429"]
+    "remote_hash": ["24f813f01e09e018114e810fbdf746276bbb2f44"]
   },
   "ExpBites": {
     "success": [true],
@@ -733,11 +732,10 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-03-14 08:59:14.500 UTC"],
+    "published": ["2026-03-14 09:22:21.203 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["b2f6e1ffdac220081813f26227f10274705f97e7"],
-    "remotes": ["tidyverse/dplyr"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23084758900"]
+    "remotes": ["tidyverse/dplyr"]
   },
   "tidytab": {
     "success": [true],
