@@ -156,7 +156,7 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2026-02-13 21:03:40.049 UTC"],
+    "published": ["2026-03-15 09:30:41.901 UTC"],
     "version": ["1.3.0"],
     "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
   },
@@ -284,10 +284,11 @@
     "remote_hash": ["b1417c45d47dc19898f8b66f9911166c030b12c1"]
   },
   "glaredb": {
-    "success": [true],
-    "published": ["2026-03-13 03:59:42.380 UTC"],
+    "success": [false],
+    "published": ["2026-03-15 09:36:13.914 UTC"],
     "version": ["0.0.5"],
-    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
+    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23107725521"]
   },
   "healthyr": {
     "success": [false],
@@ -348,7 +349,7 @@
   },
   "later": {
     "success": [true],
-    "published": ["2026-02-13 20:52:00.210 UTC"],
+    "published": ["2026-03-15 09:29:53.950 UTC"],
     "version": ["1.4.6"],
     "remote_hash": ["72ea12cfac39bde07550e89f63b81a414577816f"]
   },
@@ -398,7 +399,7 @@
   },
   "mirai": {
     "success": [true],
-    "published": ["2026-02-13 13:01:52.038 UTC"],
+    "published": ["2026-03-15 09:24:23.653 UTC"],
     "version": ["2.6.0"],
     "remote_hash": ["5c2e077915161819991f98f7b300234fe3eba59a"]
   },
