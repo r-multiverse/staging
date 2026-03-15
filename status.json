@@ -218,7 +218,7 @@
   },
   "ecoXCorr": {
     "success": [true],
-    "published": ["2026-03-14 09:10:17.898 UTC"],
+    "published": ["2026-03-15 04:36:56.328 UTC"],
     "version": ["0.1.8"],
     "remote_hash": ["24f813f01e09e018114e810fbdf746276bbb2f44"]
   },
@@ -444,7 +444,8 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/23043218860/job/67046369512"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23043218860"]
   },
   "polars0": {
     "success": [false],
@@ -732,7 +733,7 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-03-14 09:22:21.203 UTC"],
+    "published": ["2026-03-15 04:17:17.980 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["b2f6e1ffdac220081813f26227f10274705f97e7"],
     "remotes": ["tidyverse/dplyr"]
