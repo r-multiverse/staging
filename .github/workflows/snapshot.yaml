@@ -78,7 +78,7 @@ jobs:
         run: echo $DATE
 
       - name: Check out the staging universe.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Configure Rclone with R2.
         run: |
