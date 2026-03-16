@@ -218,7 +218,7 @@
   },
   "ecoXCorr": {
     "success": [true],
-    "published": ["2026-03-15 04:36:56.328 UTC"],
+    "published": ["2026-03-16 04:42:33.500 UTC"],
     "version": ["0.1.8"],
     "remote_hash": ["24f813f01e09e018114e810fbdf746276bbb2f44"]
   },
@@ -285,7 +285,7 @@
   },
   "glaredb": {
     "success": [true],
-    "published": ["2026-03-15 09:56:17.184 UTC"],
+    "published": ["2026-03-16 04:36:35.801 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
@@ -323,7 +323,7 @@
   },
   "igraph": {
     "success": [true],
-    "published": ["2026-02-14 04:35:48.213 UTC"],
+    "published": ["2026-03-16 05:44:42.818 UTC"],
     "version": ["2.2.2"],
     "remote_hash": ["87e5f49183c19ebad059546d3a0f3e6efbc2ca76"]
   },
@@ -434,7 +434,7 @@
   },
   "polars": {
     "success": [false],
-    "published": ["2026-03-15 05:49:52.523 UTC"],
+    "published": ["2026-03-16 05:48:10.456 UTC"],
     "version": ["1.9.0"],
     "remote_hash": ["4dacefc1d605db1a27c00c784e71323142cd2e9c"],
     "r_cmd_check": [
@@ -442,7 +442,13 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/23043218860/job/67107384506"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/23043218860/job/67174460268"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/23043218860/job/67174870032"
       }
     ]
   },
@@ -713,10 +719,11 @@
     "remote_hash": ["62950e703e63367d8df2326cad9c1fbc1780fc0e"]
   },
   "targets": {
-    "success": [true],
-    "published": ["2026-02-14 05:17:55.355 UTC"],
+    "success": [false],
+    "published": ["2026-03-16 05:43:30.937 UTC"],
     "version": ["1.12.0"],
-    "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"]
+    "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23129700402"]
   },
   "targetsketch": {
     "success": [true],
@@ -732,7 +739,7 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-03-15 04:17:17.980 UTC"],
+    "published": ["2026-03-16 04:22:38.625 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["b2f6e1ffdac220081813f26227f10274705f97e7"],
     "remotes": ["tidyverse/dplyr"]
