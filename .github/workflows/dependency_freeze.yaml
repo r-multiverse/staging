@@ -45,7 +45,7 @@ jobs:
           pak::pkg_install("r-multiverse/multiverse.internals@*release")
 
       - name: Check out the Staging universe.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Check out the Community universe.
         uses: actions/checkout@v4
