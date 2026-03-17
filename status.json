@@ -173,11 +173,10 @@
     "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
   "deeptime": {
-    "success": [false],
-    "published": ["2026-03-17 06:15:15.305 UTC"],
+    "success": [true],
+    "published": ["2026-03-17 06:48:58.319 UTC"],
     "version": ["2.3.1"],
-    "remote_hash": ["21d1665c7681de05b1d58236a944e1a08461be79"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23181146567"]
+    "remote_hash": ["21d1665c7681de05b1d58236a944e1a08461be79"]
   },
   "deeptimedata": {
     "success": [true],
@@ -536,11 +535,10 @@
     ]
   },
   "projpred": {
-    "success": [false],
-    "published": ["2026-03-17 06:36:56.858 UTC"],
+    "success": [true],
+    "published": ["2026-03-17 07:20:26.638 UTC"],
     "version": ["2.10.0"],
-    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23181744116"]
+    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
   },
   "prophet": {
     "success": [false],
@@ -677,7 +675,7 @@
   },
   "shinystan": {
     "success": [true],
-    "published": ["2026-02-15 07:09:43.292 UTC"],
+    "published": ["2026-03-17 07:36:54.687 UTC"],
     "version": ["2.7.0"],
     "remote_hash": ["2036992879e7b1a7357340372f943303429da2b8"]
   },
