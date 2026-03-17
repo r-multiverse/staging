@@ -589,10 +589,11 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [true],
-    "published": ["2026-02-16 04:20:29.585 UTC"],
+    "success": [false],
+    "published": ["2026-03-17 09:07:58.891 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23186592102"]
   },
   "Rvision": {
     "success": [false],
@@ -731,10 +732,11 @@
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
   "taxizedb": {
-    "success": [true],
-    "published": ["2026-02-17 04:21:48.802 UTC"],
+    "success": [false],
+    "published": ["2026-03-17 09:11:01.505 UTC"],
     "version": ["0.3.2"],
-    "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
+    "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23186709992"]
   },
   "tidypolars": {
     "success": [false],
