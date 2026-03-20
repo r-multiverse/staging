@@ -841,8 +841,7 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/23330881099/job/67862301459"
       }
-    ],
-    "synchronization": ["recent"]
+    ]
   },
   "wildfires": {
     "success": [false],
