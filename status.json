@@ -504,7 +504,7 @@
   },
   "prism2R": {
     "success": [false],
-    "published": ["2026-03-21 08:49:35.109 UTC"],
+    "published": ["2026-03-21 15:45:10.812 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a70fcff2cc3b3af8ed0e09c086c25f553269ab3b"],
     "r_cmd_check": [
@@ -532,7 +532,8 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/23375925838/job/68007963163"
       }
-    ]
+    ],
+    "synchronization": ["recent"]
   },
   "projpred": {
     "success": [true],
