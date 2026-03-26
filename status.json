@@ -82,10 +82,11 @@
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
   "bedrockbio": {
-    "success": [true],
-    "published": ["2026-03-26 04:53:34.644 UTC"],
+    "success": [false],
+    "published": ["2026-03-26 20:40:11.546 UTC"],
     "version": ["1.2.0"],
-    "remote_hash": ["e7b1ad5698d1111eb2b8a4c9a8890c1abe649b02"]
+    "remote_hash": ["e7b1ad5698d1111eb2b8a4c9a8890c1abe649b02"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23616930487"]
   },
   "biorecap": {
     "success": [true],
