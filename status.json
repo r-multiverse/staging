@@ -205,8 +205,7 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/23678001946/job/68985064320"
       }
-    ],
-    "synchronization": ["recent"]
+    ]
   },
   "duckdb": {
     "success": [true],
