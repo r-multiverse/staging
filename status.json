@@ -120,11 +120,10 @@
     ]
   },
   "cli": {
-    "success": [false],
-    "published": ["2026-04-01 09:40:41.371 UTC"],
+    "success": [true],
+    "published": ["2026-04-01 09:47:58.443 UTC"],
     "version": ["3.6.5"],
-    "remote_hash": ["f8cd002012342fcf9e34940e80b32a4a17ada726"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/23842281490"]
+    "remote_hash": ["f8cd002012342fcf9e34940e80b32a4a17ada726"]
   },
   "cmdstanr": {
     "success": [true],
