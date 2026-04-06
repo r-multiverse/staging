@@ -332,10 +332,11 @@
     "cran": ["1.2.2"]
   },
   "jagstargets": {
-    "success": [true],
-    "published": ["2026-03-09 04:16:08.858 UTC"],
+    "success": [false],
+    "published": ["2026-04-06 09:41:32.713 UTC"],
     "version": ["1.2.3"],
-    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
+    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/24026991272"]
   },
   "kgp": {
     "success": [true],
@@ -663,7 +664,7 @@
   },
   "secretbase": {
     "success": [true],
-    "published": ["2026-03-07 08:38:08.003 UTC"],
+    "published": ["2026-04-06 09:10:30.042 UTC"],
     "version": ["1.2.0"],
     "remote_hash": ["284f1674c0686c36f34ee3266093b516578b1298"]
   },
