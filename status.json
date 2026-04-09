@@ -1,7 +1,7 @@
 {
   "adbcbigquery": {
     "success": [true],
-    "published": ["2026-03-10 12:04:06.723 UTC"],
+    "published": ["2026-04-09 08:21:34.753 UTC"],
     "version": ["0.22.0"],
     "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"]
   },
@@ -12,15 +12,14 @@
     "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"]
   },
   "adbcflightsql": {
-    "success": [false],
-    "published": ["2026-04-09 07:58:30.959 UTC"],
+    "success": [true],
+    "published": ["2026-04-09 08:09:04.180 UTC"],
     "version": ["0.22.0"],
-    "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/24179252531"]
+    "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"]
   },
   "adbcsnowflake": {
     "success": [true],
-    "published": ["2026-03-10 11:36:10.137 UTC"],
+    "published": ["2026-04-09 08:14:35.542 UTC"],
     "version": ["0.22.0"],
     "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"]
   },
