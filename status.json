@@ -261,11 +261,10 @@
     ]
   },
   "geotargets": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-04-10 09:41:33.657 UTC"],
     "version": ["0.3.1"],
-    "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"],
-    "synchronization": ["recent"]
+    "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"]
   },
   "ggsurveillance": {
     "success": [true],
@@ -716,7 +715,7 @@
   },
   "tarchetypes": {
     "success": [true],
-    "published": ["2026-03-13 04:02:52.036 UTC"],
+    "published": ["2026-04-10 09:59:41.082 UTC"],
     "version": ["0.14.0"],
     "remote_hash": ["62950e703e63367d8df2326cad9c1fbc1780fc0e"]
   },
@@ -728,7 +727,7 @@
   },
   "targetsketch": {
     "success": [true],
-    "published": ["2026-03-13 03:52:28.871 UTC"],
+    "published": ["2026-04-10 09:57:25.022 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
