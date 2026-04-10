@@ -7,7 +7,7 @@
   },
   "adbcdrivermanager": {
     "success": [true],
-    "published": ["2026-03-11 11:26:09.431 UTC"],
+    "published": ["2026-04-10 09:34:18.762 UTC"],
     "version": ["0.22.0"],
     "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"]
   },
@@ -165,7 +165,7 @@
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2026-03-11 11:42:55.588 UTC"],
+    "published": ["2026-04-10 09:38:19.190 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
@@ -227,7 +227,7 @@
   },
   "geoarrow": {
     "success": [false],
-    "published": ["2026-03-11 11:35:21.819 UTC"],
+    "published": ["2026-04-10 09:34:47.828 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["6997060232b61c77c0ac5dfc7a33bc2688784ac4"],
     "dependencies": {
@@ -262,17 +262,10 @@
   },
   "geotargets": {
     "success": [false],
-    "published": ["2026-03-11 11:50:54.628 UTC"],
+    "published": ["2026-04-10 09:41:33.657 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "macos-release-arm64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22944518490/job/66594085935"
-      }
-    ]
+    "synchronization": ["recent"]
   },
   "ggsurveillance": {
     "success": [true],
@@ -419,13 +412,13 @@
   },
   "nanoarrow": {
     "success": [true],
-    "published": ["2026-03-11 11:17:46.438 UTC"],
+    "published": ["2026-04-10 09:30:17.489 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["a579fbf5d192e85b6249935e117de7d02a6dc4e9"]
   },
   "nanonext": {
     "success": [true],
-    "published": ["2026-03-11 11:39:20.844 UTC"],
+    "published": ["2026-04-10 09:38:22.197 UTC"],
     "version": ["1.8.0"],
     "remote_hash": ["8f17d0b46b105632d557493b5801348a32779019"]
   },
