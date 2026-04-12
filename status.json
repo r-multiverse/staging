@@ -585,7 +585,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2026-04-11 04:03:32.822 UTC"],
+    "published": ["2026-04-12 04:30:00.596 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
@@ -593,7 +593,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/24226617650/job/70884859438"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/24226617650/job/70947895707"
       }
     ]
   },
@@ -617,7 +617,7 @@
   },
   "SBC": {
     "success": [false],
-    "published": ["2026-03-13 05:01:17.799 UTC"],
+    "published": ["2026-04-12 05:16:23.033 UTC"],
     "version": ["0.5.0.0"],
     "remote_hash": ["e40a320c335460851618f7019baf79d39bbedf29"],
     "r_cmd_check": [
@@ -645,7 +645,8 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22908650938/job/66905621566"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/24299354103"]
   },
   "secretbase": {
     "success": [true],
