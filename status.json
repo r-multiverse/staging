@@ -30,11 +30,10 @@
     "remote_hash": ["eafe3a9e620cf94683dee2347f370c35156dc965"]
   },
   "asylum": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-03-21 05:16:27.710 UTC"],
     "version": ["1.1.1"],
-    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
-    "cran": ["1.1.2"]
+    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"]
   },
   "audio.vadwebrtc": {
     "success": [true],
@@ -317,11 +316,10 @@
     "remote_hash": ["87e5f49183c19ebad059546d3a0f3e6efbc2ca76"]
   },
   "IMD": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-03-19 04:19:09.081 UTC"],
     "version": ["1.2.1"],
-    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
-    "cran": ["1.2.2"]
+    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"]
   },
   "jagstargets": {
     "success": [true],
@@ -906,8 +904,7 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/23178360967/job/67345942036"
       }
-    ],
-    "cran": ["0.9.5"]
+    ]
   },
   "zstdlite": {
     "success": [true],
