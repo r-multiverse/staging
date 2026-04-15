@@ -84,6 +84,13 @@
     "hash_highest": "20dcdd9ea6fbca2a061b123ef56e5f1b94380644"
   },
   {
+    "package": "bootstrapper",
+    "version_current": "1.0.0",
+    "hash_current": "e0ee17327dc861846f340352d7ace3f51447b2c3",
+    "version_highest": "1.0.0",
+    "hash_highest": "e0ee17327dc861846f340352d7ace3f51447b2c3"
+  },
+  {
     "package": "bridgestan",
     "version_current": "2.7.0",
     "hash_current": "ec1d4d319f434d85b07193df2d81736568c42920",
@@ -203,6 +210,13 @@
     "hash_highest": "b1417c45d47dc19898f8b66f9911166c030b12c1"
   },
   {
+    "package": "ggtypst",
+    "version_current": "0.1.0",
+    "hash_current": "a075de59066ac2024c07b9c235310fedb4f9a23e",
+    "version_highest": "0.1.0",
+    "hash_highest": "a075de59066ac2024c07b9c235310fedb4f9a23e"
+  },
+  {
     "package": "glaredb",
     "version_current": "0.0.5",
     "hash_current": "ff810e8c5a1b7050d84b375b9ef33210102213f0",
@@ -236,6 +250,13 @@
     "hash_current": "8cc26c4f70bf6e07c47bab089c7bad18c864223c",
     "version_highest": "1.2.1",
     "hash_highest": "8cc26c4f70bf6e07c47bab089c7bad18c864223c"
+  },
+  {
+    "package": "InsectLabelR",
+    "version_current": "1.0.4",
+    "hash_current": "86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0",
+    "version_highest": "1.0.4",
+    "hash_highest": "86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0"
   },
   {
     "package": "jagstargets",
@@ -278,6 +299,13 @@
     "hash_current": "299a4c7af159b08b3be0184744cc1a9615b6a341",
     "version_highest": "2.9.0",
     "hash_highest": "299a4c7af159b08b3be0184744cc1a9615b6a341"
+  },
+  {
+    "package": "mfclim",
+    "version_current": "0.1.0",
+    "hash_current": "55928af5410b00e58f2f43b3d7202075fce63b87",
+    "version_highest": "0.1.0",
+    "hash_highest": "55928af5410b00e58f2f43b3d7202075fce63b87"
   },
   {
     "package": "milRex",
@@ -572,6 +600,13 @@
     "hash_current": "eea0f70989fcc95998ac55856711f1199fdd2e48",
     "version_highest": "0.7.1",
     "hash_highest": "eea0f70989fcc95998ac55856711f1199fdd2e48"
+  },
+  {
+    "package": "voucher",
+    "version_current": "1.0.2",
+    "hash_current": "40ec1e988e1f73cae28f38f79d08eac1cf53b2db",
+    "version_highest": "1.0.2",
+    "hash_highest": "40ec1e988e1f73cae28f38f79d08eac1cf53b2db"
   },
   {
     "package": "weathercan",
