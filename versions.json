@@ -29,10 +29,10 @@
   },
   {
     "package": "arrow",
-    "version_current": "23.0.0",
-    "hash_current": "eafe3a9e620cf94683dee2347f370c35156dc965",
-    "version_highest": "23.0.0",
-    "hash_highest": "eafe3a9e620cf94683dee2347f370c35156dc965"
+    "version_current": "23.0.1",
+    "hash_current": "82a374e5f3de5b744f26591e6cd96de6349c76d9",
+    "version_highest": "23.0.1",
+    "hash_highest": "82a374e5f3de5b744f26591e6cd96de6349c76d9"
   },
   {
     "package": "asylum",
@@ -162,10 +162,10 @@
   },
   {
     "package": "duckdb",
-    "version_current": "1.4.4",
-    "hash_current": "f4d7637ff0574ed9b4591d5f334edbb096ee0abb",
-    "version_highest": "1.4.4",
-    "hash_highest": "f4d7637ff0574ed9b4591d5f334edbb096ee0abb"
+    "version_current": "1.5.2",
+    "hash_current": "a68494a83c4e6cec56a50db94f55b0699f33752c",
+    "version_highest": "1.5.2",
+    "hash_highest": "a68494a83c4e6cec56a50db94f55b0699f33752c"
   },
   {
     "package": "ecoXCorr",
@@ -239,10 +239,10 @@
   },
   {
     "package": "igraph",
-    "version_current": "2.2.2",
-    "hash_current": "87e5f49183c19ebad059546d3a0f3e6efbc2ca76",
-    "version_highest": "2.2.2",
-    "hash_highest": "87e5f49183c19ebad059546d3a0f3e6efbc2ca76"
+    "version_current": "2.2.3",
+    "hash_current": "3e304c2053d95c2dd38c2e4acaf63b21209638bc",
+    "version_highest": "2.2.3",
+    "hash_highest": "3e304c2053d95c2dd38c2e4acaf63b21209638bc"
   },
   {
     "package": "IMD",
@@ -554,10 +554,10 @@
   },
   {
     "package": "tidypolars",
-    "version_current": "0.17.0",
-    "hash_current": "b2f6e1ffdac220081813f26227f10274705f97e7",
-    "version_highest": "0.17.0",
-    "hash_highest": "b2f6e1ffdac220081813f26227f10274705f97e7"
+    "version_current": "0.18.0",
+    "hash_current": "661a7449cf3910205a26324bd6375329e11e6a81",
+    "version_highest": "0.18.0",
+    "hash_highest": "661a7449cf3910205a26324bd6375329e11e6a81"
   },
   {
     "package": "tidytab",
@@ -575,10 +575,10 @@
   },
   {
     "package": "tidyterra",
-    "version_current": "1.0.0",
-    "hash_current": "945ede2f09bb7a77d73932375627b40e9e39aa7d",
-    "version_highest": "1.0.0",
-    "hash_highest": "945ede2f09bb7a77d73932375627b40e9e39aa7d"
+    "version_current": "1.1.0",
+    "hash_current": "d1f847e65f441efc5226c13892968ba59e91a953",
+    "version_highest": "1.1.0",
+    "hash_highest": "d1f847e65f441efc5226c13892968ba59e91a953"
   },
   {
     "package": "trelliscope",
