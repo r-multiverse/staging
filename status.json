@@ -552,7 +552,7 @@
   },
   "posteriordb": {
     "success": [true],
-    "published": ["2026-03-18 10:16:08.719 UTC"],
+    "published": ["2026-04-17 09:47:08.010 UTC"],
     "version": ["0.3.6"],
     "remote_hash": ["773fb7cd7447313dc691fd322423a87cb74cd9b7"]
   },
@@ -905,7 +905,7 @@
   },
   "unigd": {
     "success": [true],
-    "published": ["2026-04-16 05:22:43.855 UTC"],
+    "published": ["2026-04-17 09:16:09.529 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"]
   },
@@ -918,7 +918,7 @@
   },
   "voucher": {
     "success": [true],
-    "published": ["2026-04-16 05:40:18.447 UTC"],
+    "published": ["2026-04-17 09:11:20.697 UTC"],
     "version": ["1.0.2"],
     "remote_hash": ["40ec1e988e1f73cae28f38f79d08eac1cf53b2db"]
   },
