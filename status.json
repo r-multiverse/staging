@@ -35,7 +35,7 @@
   },
   "arrow": {
     "success": [false],
-    "published": ["2026-04-18 04:26:41.463 UTC"],
+    "published": ["2026-04-19 04:48:26.209 UTC"],
     "version": ["23.0.1"],
     "remote_hash": ["82a374e5f3de5b744f26591e6cd96de6349c76d9"],
     "cran": ["23.0.1.2"]
@@ -188,7 +188,7 @@
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2026-04-18 04:20:59.940 UTC"],
+    "published": ["2026-04-19 04:38:48.499 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
@@ -848,13 +848,13 @@
   },
   "tidyterra": {
     "success": [true],
-    "published": ["2026-04-18 04:26:27.132 UTC"],
+    "published": ["2026-04-19 04:47:47.032 UTC"],
     "version": ["1.1.0"],
     "remote_hash": ["d1f847e65f441efc5226c13892968ba59e91a953"]
   },
   "trelliscope": {
     "success": [true],
-    "published": ["2026-04-18 04:31:49.397 UTC"],
+    "published": ["2026-04-19 04:48:43.786 UTC"],
     "version": ["0.1.14"],
     "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
   },
