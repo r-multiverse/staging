@@ -35,10 +35,17 @@
   },
   "arrow": {
     "success": [false],
-    "published": ["2026-04-19 04:48:26.209 UTC"],
-    "version": ["23.0.1"],
-    "remote_hash": ["82a374e5f3de5b744f26591e6cd96de6349c76d9"],
-    "cran": ["23.0.1.2"]
+    "published": ["2026-04-21 09:15:08.851 UTC"],
+    "version": ["24.0.0"],
+    "remote_hash": ["31b4b6c0a0a7e7c117312d285541a21446675ec6"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "windows-oldrel",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/24712620252/job/72281835879"
+      }
+    ]
   },
   "asylum": {
     "success": [false],
@@ -625,7 +632,7 @@
   },
   "rredlist": {
     "success": [true],
-    "published": ["2026-04-18 04:28:49.911 UTC"],
+    "published": ["2026-04-21 09:16:56.095 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
