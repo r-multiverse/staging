@@ -306,10 +306,11 @@
     "remote_hash": ["b1417c45d47dc19898f8b66f9911166c030b12c1"]
   },
   "ggtypst": {
-    "success": [true],
-    "published": ["2026-04-16 05:32:51.451 UTC"],
+    "success": [false],
+    "published": ["2026-04-22 13:33:31.115 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["a075de59066ac2024c07b9c235310fedb4f9a23e"]
+    "remote_hash": ["a075de59066ac2024c07b9c235310fedb4f9a23e"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/24781224605"]
   },
   "glaredb": {
     "success": [true],
@@ -474,7 +475,7 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2026-04-16 06:29:53.713 UTC"],
+    "published": ["2026-04-22 14:00:47.405 UTC"],
     "version": ["1.10.0"],
     "remote_hash": ["f5161d93a74bf20316a32912d26e34a09d81a033"]
   },
@@ -648,9 +649,9 @@
   },
   "S7": {
     "success": [true],
-    "published": ["2026-04-07 08:57:38.056 UTC"],
-    "version": ["0.2.1"],
-    "remote_hash": ["231039c952f7f884be50b174f8215a8ba0a3dbb6"]
+    "published": ["2026-04-22 13:32:55.112 UTC"],
+    "version": ["0.2.2"],
+    "remote_hash": ["ec8444afe24182f4a3b585ffbbf17235ed4eedcd"]
   },
   "saperlipopette": {
     "success": [true],
