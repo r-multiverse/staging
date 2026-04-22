@@ -749,7 +749,8 @@
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70394629304"
       }
     ],
-    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
+    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/24722155765"]
   },
   "string2path": {
     "success": [true],
