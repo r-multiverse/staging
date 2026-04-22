@@ -95,7 +95,7 @@
   },
   "bayesplot": {
     "success": [true],
-    "published": ["2026-04-21 12:51:44.206 UTC"],
+    "published": ["2026-04-22 04:51:52.104 UTC"],
     "version": ["1.15.0"],
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
@@ -370,7 +370,7 @@
   },
   "jagstargets": {
     "success": [true],
-    "published": ["2026-04-21 12:43:26.128 UTC"],
+    "published": ["2026-04-22 04:45:41.591 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
@@ -616,13 +616,13 @@
   },
   "rredlist": {
     "success": [true],
-    "published": ["2026-04-21 09:16:56.095 UTC"],
+    "published": ["2026-04-22 04:47:01.017 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
     "success": [true],
-    "published": ["2026-04-21 13:24:32.229 UTC"],
+    "published": ["2026-04-22 04:52:53.131 UTC"],
     "version": ["2.32.2"],
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
@@ -749,8 +749,7 @@
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70394629304"
       }
     ],
-    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/24722155765"]
+    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
   },
   "string2path": {
     "success": [true],
