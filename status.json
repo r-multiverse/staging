@@ -95,7 +95,7 @@
   },
   "bayesplot": {
     "success": [true],
-    "published": ["2026-04-22 04:51:52.104 UTC"],
+    "published": ["2026-04-23 04:54:16.532 UTC"],
     "version": ["1.15.0"],
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
@@ -313,7 +313,7 @@
   },
   "glaredb": {
     "success": [true],
-    "published": ["2026-04-22 09:39:28.871 UTC"],
+    "published": ["2026-04-23 04:47:44.805 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
@@ -351,9 +351,9 @@
   },
   "igraph": {
     "success": [true],
-    "published": ["2026-04-17 15:57:48.872 UTC"],
-    "version": ["2.2.3"],
-    "remote_hash": ["3e304c2053d95c2dd38c2e4acaf63b21209638bc"]
+    "published": ["2026-04-23 05:30:59.433 UTC"],
+    "version": ["2.3.0"],
+    "remote_hash": ["111c802c62809f9071f3b5e048c296ec1020dd59"]
   },
   "IMD": {
     "success": [false],
@@ -370,7 +370,7 @@
   },
   "jagstargets": {
     "success": [true],
-    "published": ["2026-04-22 04:45:41.591 UTC"],
+    "published": ["2026-04-23 04:47:41.513 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
@@ -450,7 +450,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2026-04-17 15:39:08.450 UTC"],
+    "published": ["2026-04-23 05:40:44.602 UTC"],
     "version": ["1.1.10"],
     "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"]
   },
@@ -616,13 +616,13 @@
   },
   "rredlist": {
     "success": [true],
-    "published": ["2026-04-22 04:47:01.017 UTC"],
+    "published": ["2026-04-23 04:48:26.611 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
     "success": [true],
-    "published": ["2026-04-22 04:52:53.131 UTC"],
+    "published": ["2026-04-23 04:55:11.940 UTC"],
     "version": ["2.32.2"],
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
@@ -765,7 +765,7 @@
   },
   "targets": {
     "success": [true],
-    "published": ["2026-04-17 16:13:19.210 UTC"],
+    "published": ["2026-04-23 06:00:38.677 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"]
   },
