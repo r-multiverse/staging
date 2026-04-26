@@ -71,10 +71,10 @@
   },
   {
     "package": "bedrockbio",
-    "version_current": "1.2.1",
-    "hash_current": "9c41f9e3b0df77792fa28f2d79241ff60a2bd6c5",
-    "version_highest": "1.2.1",
-    "hash_highest": "9c41f9e3b0df77792fa28f2d79241ff60a2bd6c5"
+    "version_current": "1.3.0",
+    "hash_current": "904aaf94d6b76ace6630a6bdf9cffed95bc811d4",
+    "version_highest": "1.3.0",
+    "hash_highest": "904aaf94d6b76ace6630a6bdf9cffed95bc811d4"
   },
   {
     "package": "biorecap",
@@ -358,10 +358,10 @@
   },
   {
     "package": "polars",
-    "version_current": "1.10.0",
-    "hash_current": "f5161d93a74bf20316a32912d26e34a09d81a033",
-    "version_highest": "1.10.0",
-    "hash_highest": "f5161d93a74bf20316a32912d26e34a09d81a033"
+    "version_current": "1.11.0",
+    "hash_current": "f5522a2cf863138295d2e5e114de726166e27ecd",
+    "version_highest": "1.11.0",
+    "hash_highest": "f5522a2cf863138295d2e5e114de726166e27ecd"
   },
   {
     "package": "polars0",
