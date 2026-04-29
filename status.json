@@ -207,7 +207,7 @@
   },
   "demographr": {
     "success": [false],
-    "published": ["2026-04-29 14:21:41.976 UTC"],
+    "published": ["2026-04-29 17:34:59.434 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["5d73b83f4bd70048d39b6b9c4bffaf02c8aab321"],
     "r_cmd_check": [
@@ -215,19 +215,19 @@
         "check": "WARNING",
         "config": "linux-oldrel-x86_64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/24978273375/job/73556202708"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/24978273375/job/73632152654"
       },
       {
         "check": "WARNING",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/24978273375/job/73556202666"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/24978273375/job/73632152441"
       },
       {
         "check": "WARNING",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/24978273375/job/73556202355"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/24978273375/job/73632152181"
       }
     ]
   },
@@ -783,7 +783,7 @@
   },
   "tidypolars": {
     "success": [true],
-    "published": ["2026-04-28 04:56:27.796 UTC"],
+    "published": ["2026-04-29 17:37:56.811 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["661a7449cf3910205a26324bd6375329e11e6a81"]
   },
