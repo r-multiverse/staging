@@ -207,7 +207,7 @@
   },
   "demographr": {
     "success": [false],
-    "published": ["2026-04-29 17:34:59.434 UTC"],
+    "published": ["2026-04-30 17:46:06.997 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["5d73b83f4bd70048d39b6b9c4bffaf02c8aab321"],
     "r_cmd_check": [
@@ -229,7 +229,8 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/24978273375/job/73632152181"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/25180327978"]
   },
   "duckdb": {
     "success": [true],
@@ -782,10 +783,11 @@
     "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
   "tidypolars": {
-    "success": [true],
-    "published": ["2026-04-29 17:37:56.811 UTC"],
+    "success": [false],
+    "published": ["2026-04-30 17:46:51.882 UTC"],
     "version": ["0.18.0"],
-    "remote_hash": ["661a7449cf3910205a26324bd6375329e11e6a81"]
+    "remote_hash": ["661a7449cf3910205a26324bd6375329e11e6a81"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/25180333492"]
   },
   "tidytab": {
     "success": [true],
