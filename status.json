@@ -291,7 +291,10 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/24493264287/job/71927714748"
       }
-    ]
+    ],
+    "dependencies": {
+      "targets": []
+    }
   },
   "ggsurveillance": {
     "success": [true],
@@ -363,10 +366,13 @@
     "remote_hash": ["86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0"]
   },
   "jagstargets": {
-    "success": [true],
-    "published": ["2026-04-23 04:47:41.513 UTC"],
+    "success": [false],
+    "published": ["2026-05-01 09:47:04.572 UTC"],
     "version": ["1.2.3"],
-    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
+    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
+    "dependencies": {
+      "targets": ["tarchetypes"]
+    }
   },
   "kgp": {
     "success": [true],
@@ -686,9 +692,9 @@
   },
   "secretbase": {
     "success": [true],
-    "published": ["2026-04-16 04:53:00.548 UTC"],
-    "version": ["1.2.1"],
-    "remote_hash": ["d4ad4d46f898f153300c4f64fc6ffeeb84f7a34f"]
+    "published": ["2026-05-01 09:22:46.957 UTC"],
+    "version": ["1.2.2"],
+    "remote_hash": ["49ffdb242808beb875cc84b3da06227d40785cac"]
   },
   "sedonadb": {
     "success": [false],
@@ -743,7 +749,10 @@
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70394629304"
       }
     ],
-    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
+    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
+    "dependencies": {
+      "targets": ["tarchetypes"]
+    }
   },
   "string2path": {
     "success": [true],
@@ -752,22 +761,29 @@
     "remote_hash": ["9f56fe2469b30a4dcf58c3a9c9b031bd38e80726"]
   },
   "tarchetypes": {
-    "success": [true],
-    "published": ["2026-04-19 09:25:28.130 UTC"],
+    "success": [false],
+    "published": ["2026-05-01 09:50:21.967 UTC"],
     "version": ["0.14.1"],
-    "remote_hash": ["020909b152e81f5891242672a3c2ef42312cfc2b"]
+    "remote_hash": ["020909b152e81f5891242672a3c2ef42312cfc2b"],
+    "dependencies": {
+      "targets": []
+    }
   },
   "targets": {
-    "success": [true],
-    "published": ["2026-04-23 06:00:38.677 UTC"],
+    "success": [false],
+    "published": ["2026-05-01 10:00:02.016 UTC"],
     "version": ["1.12.0"],
-    "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"]
+    "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"],
+    "synchronization": ["recent"]
   },
   "targetsketch": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-04-18 04:20:12.405 UTC"],
     "version": ["0.0.1"],
-    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
+    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
+    "dependencies": {
+      "targets": ["tarchetypes"]
+    }
   },
   "taxizedb": {
     "success": [true],
