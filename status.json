@@ -239,10 +239,9 @@
   },
   "geoarrow": {
     "success": [false],
-    "published": ["2026-05-10 08:41:30.788 UTC"],
+    "published": ["2026-05-10 09:15:32.946 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["6997060232b61c77c0ac5dfc7a33bc2688784ac4"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/25624291602"],
     "cran": ["0.4.2"],
     "dependencies": {
       "wk": []
