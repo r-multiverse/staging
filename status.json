@@ -426,7 +426,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2026-05-11 05:36:51.151 UTC"],
+    "published": ["2026-05-12 05:06:21.163 UTC"],
     "version": ["1.1.10"],
     "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"]
   },
@@ -573,18 +573,10 @@
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
   "Rvision": {
-    "success": [false],
-    "published": ["2026-04-12 04:30:00.596 UTC"],
+    "success": [true],
+    "published": ["2026-05-12 05:15:40.345 UTC"],
     "version": ["0.8.0"],
-    "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "source",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/24226617650/job/70947895707"
-      }
-    ]
+    "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
   "rwasm": {
     "success": [true],
