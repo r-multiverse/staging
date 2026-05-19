@@ -189,7 +189,7 @@
   },
   "deeptime": {
     "success": [true],
-    "published": ["2026-05-18 06:32:53.753 UTC"],
+    "published": ["2026-05-19 06:03:06.786 UTC"],
     "version": ["2.3.1"],
     "remote_hash": ["21d1665c7681de05b1d58236a944e1a08461be79"]
   },
@@ -514,7 +514,7 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-05-18 06:16:12.542 UTC"],
+    "published": ["2026-05-19 06:10:05.756 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
     "r_cmd_check": [
@@ -522,19 +522,19 @@
         "check": "ERROR",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25958027519/job/76466774500"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25958027519/job/76675990270"
       },
       {
         "check": "ERROR",
         "config": "macos-oldrel-x86_64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25958027519/job/76466774476"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25958027519/job/76675990283"
       },
       {
         "check": "ERROR",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25958027519/job/76466774450"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25958027519/job/76675990234"
       }
     ],
     "versions": {
@@ -781,13 +781,13 @@
   },
   "tidyterra": {
     "success": [true],
-    "published": ["2026-05-18 05:59:26.444 UTC"],
+    "published": ["2026-05-19 05:56:35.168 UTC"],
     "version": ["1.1.0"],
     "remote_hash": ["d1f847e65f441efc5226c13892968ba59e91a953"]
   },
   "trelliscope": {
     "success": [true],
-    "published": ["2026-05-18 06:01:54.381 UTC"],
+    "published": ["2026-05-19 06:00:50.108 UTC"],
     "version": ["0.1.14"],
     "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
   },
