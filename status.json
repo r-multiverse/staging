@@ -56,7 +56,7 @@
   },
   "audio.vadwebrtc": {
     "success": [true],
-    "published": ["2026-05-03 05:05:05.799 UTC"],
+    "published": ["2026-05-22 18:53:04.693 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
   },
@@ -201,7 +201,7 @@
   },
   "demographr": {
     "success": [false],
-    "published": ["2026-05-02 04:44:52.302 UTC"],
+    "published": ["2026-05-22 20:01:30.713 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["5d73b83f4bd70048d39b6b9c4bffaf02c8aab321"],
     "r_cmd_check": [
@@ -209,13 +209,13 @@
         "check": "WARNING",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25180327978/job/74024801956"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25180327978/job/77453248746"
       },
       {
         "check": "WARNING",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25180327978/job/74024801866"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25180327978/job/77453248787"
       }
     ]
   },
@@ -227,7 +227,7 @@
   },
   "ecoXCorr": {
     "success": [true],
-    "published": ["2026-05-03 05:18:27.117 UTC"],
+    "published": ["2026-05-22 18:52:26.207 UTC"],
     "version": ["0.2.2"],
     "remote_hash": ["0936697d8620330696c4e99310e4018be970f244"]
   },
@@ -346,7 +346,7 @@
   },
   "jagstargets": {
     "success": [true],
-    "published": ["2026-05-03 05:17:23.115 UTC"],
+    "published": ["2026-05-22 18:52:28.759 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
@@ -632,7 +632,7 @@
   },
   "secretbase": {
     "success": [true],
-    "published": ["2026-05-01 09:22:46.957 UTC"],
+    "published": ["2026-05-22 20:10:18.578 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["49ffdb242808beb875cc84b3da06227d40785cac"]
   },
@@ -713,7 +713,7 @@
   },
   "tarchetypes": {
     "success": [true],
-    "published": ["2026-05-01 09:50:21.967 UTC"],
+    "published": ["2026-05-22 20:09:04.203 UTC"],
     "version": ["0.14.1"],
     "remote_hash": ["020909b152e81f5891242672a3c2ef42312cfc2b"]
   },
