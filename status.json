@@ -95,7 +95,7 @@
   },
   "bayesplot": {
     "success": [true],
-    "published": ["2026-05-22 17:44:17.579 UTC"],
+    "published": ["2026-05-23 05:27:37.427 UTC"],
     "version": ["1.15.0"],
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
@@ -295,7 +295,7 @@
   },
   "glaredb": {
     "success": [true],
-    "published": ["2026-05-22 09:41:23.295 UTC"],
+    "published": ["2026-05-23 05:22:29.530 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
@@ -576,13 +576,13 @@
   },
   "rredlist": {
     "success": [true],
-    "published": ["2026-05-22 06:01:40.085 UTC"],
+    "published": ["2026-05-23 05:22:28.499 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
     "success": [true],
-    "published": ["2026-05-22 06:01:58.664 UTC"],
+    "published": ["2026-05-23 05:29:14.621 UTC"],
     "version": ["2.32.2"],
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
