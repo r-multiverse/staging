@@ -183,10 +183,10 @@
   },
   {
     "package": "geoarrow",
-    "version_current": "0.4.1",
-    "hash_current": "6997060232b61c77c0ac5dfc7a33bc2688784ac4",
-    "version_highest": "0.4.1",
-    "hash_highest": "6997060232b61c77c0ac5dfc7a33bc2688784ac4"
+    "version_current": "0.4.3",
+    "hash_current": "9c305a06f6bd68f6f0d3565cb8971bcedb04a579",
+    "version_highest": "0.4.3",
+    "hash_highest": "9c305a06f6bd68f6f0d3565cb8971bcedb04a579"
   },
   {
     "package": "geographr",
