@@ -239,7 +239,7 @@
   },
   "geoarrow": {
     "success": [false],
-    "published": ["2026-06-04 17:19:52.595 UTC"],
+    "published": ["2026-06-05 06:07:01.315 UTC"],
     "version": ["0.4.3"],
     "remote_hash": ["9c305a06f6bd68f6f0d3565cb8971bcedb04a579"],
     "dependencies": {
