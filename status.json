@@ -6,10 +6,11 @@
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"]
   },
   "adbcdrivermanager": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-06-02 19:01:51.618 UTC"],
     "version": ["0.23.0"],
-    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"]
+    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
+    "cran": ["0.23.0-1"]
   },
   "adbcflightsql": {
     "success": [true],
@@ -38,10 +39,11 @@
     ]
   },
   "asylum": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-06-02 13:59:00.470 UTC"],
     "version": ["1.1.1"],
-    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"]
+    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
+    "cran": ["1.1.2"]
   },
   "audio.vadwebrtc": {
     "success": [true],
@@ -320,10 +322,11 @@
     "remote_hash": ["c2ce5b1cd3e2f17740657ada5a0db39c449753c1"]
   },
   "IMD": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-06-02 18:51:44.601 UTC"],
     "version": ["1.2.1"],
-    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"]
+    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
+    "cran": ["1.2.2"]
   },
   "InsectLabelR": {
     "success": [true],
@@ -867,7 +870,8 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25954119123/job/79147761369"
       }
-    ]
+    ],
+    "cran": ["0.9.5"]
   },
   "zstdlite": {
     "success": [true],
