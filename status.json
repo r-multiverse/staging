@@ -89,7 +89,7 @@
   },
   "autometric": {
     "success": [true],
-    "published": ["2026-05-22 14:48:55.805 UTC"],
+    "published": ["2026-06-06 07:02:24.098 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
@@ -195,7 +195,7 @@
   },
   "deeptimedata": {
     "success": [true],
-    "published": ["2026-05-22 14:49:40.637 UTC"],
+    "published": ["2026-06-06 07:02:27.328 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["7f1d9e301bac0d580f93c168328ef2aaad490aca"]
   },
@@ -300,7 +300,7 @@
   },
   "healthyr": {
     "success": [false],
-    "published": ["2026-05-22 13:41:14.609 UTC"],
+    "published": ["2026-06-06 05:50:05.338 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["37a8c7844582bf6dbbc80bf960aa176e2c3e9435"],
     "r_cmd_check": [
@@ -308,13 +308,13 @@
         "check": "WARNING",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25485101028/job/77391457117"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/27054058902/job/79854983706"
       },
       {
         "check": "WARNING",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25485101028/job/77391457257"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/27054058902/job/79854983708"
       }
     ]
   },
@@ -553,7 +553,7 @@
   },
   "prqlr": {
     "success": [true],
-    "published": ["2026-05-22 14:48:44.635 UTC"],
+    "published": ["2026-06-06 07:13:29.828 UTC"],
     "version": ["0.10.1"],
     "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
   },
