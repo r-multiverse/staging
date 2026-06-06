@@ -3,25 +3,25 @@
     "package": "adbcbigquery",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcbigquery",
-    "branch": "*release"
+    "branch": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"
   },
   {
     "package": "adbcdrivermanager",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcdrivermanager",
-    "branch": "*release"
+    "branch": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"
   },
   {
     "package": "adbcflightsql",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcflightsql",
-    "branch": "*release"
+    "branch": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"
   },
   {
     "package": "adbcsnowflake",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcsnowflake",
-    "branch": "*release"
+    "branch": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"
   },
   {
     "package": "arrow",
@@ -32,7 +32,7 @@
   {
     "package": "asylum",
     "url": "https://github.com/humaniverse/asylum",
-    "branch": "*release"
+    "branch": "22064dd0822e007ef78cd29e9a118beb09e76da4"
   },
   {
     "package": "audio.vadwebrtc",
@@ -184,7 +184,7 @@
   {
     "package": "IMD",
     "url": "https://github.com/humaniverse/IMD",
-    "branch": "*release"
+    "branch": "8cc26c4f70bf6e07c47bab089c7bad18c864223c"
   },
   {
     "package": "InsectLabelR",
