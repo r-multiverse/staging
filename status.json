@@ -679,7 +679,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": [null],
+    "published": ["2026-06-10 19:12:25.142 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": [
@@ -889,7 +889,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": [null],
+    "published": ["2026-06-10 19:12:04.575 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
