@@ -98,13 +98,13 @@
   },
   "biorecap": {
     "success": [true],
-    "published": ["2026-06-02 16:51:45.006 UTC"],
+    "published": ["2026-06-15 07:24:27.973 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["20dcdd9ea6fbca2a061b123ef56e5f1b94380644"]
   },
   "bootstrapper": {
     "success": [true],
-    "published": ["2026-06-02 16:52:03.213 UTC"],
+    "published": ["2026-06-15 07:21:21.792 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["e0ee17327dc861846f340352d7ace3f51447b2c3"]
   },
@@ -754,7 +754,7 @@
   },
   "tidytab": {
     "success": [true],
-    "published": ["2026-06-02 16:52:33.799 UTC"],
+    "published": ["2026-06-15 07:32:26.375 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["4743e1a82216a77785a5f80328792059dbde3fd4"]
   },
