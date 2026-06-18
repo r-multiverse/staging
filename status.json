@@ -534,7 +534,7 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-06-02 15:36:55.717 UTC"],
+    "published": ["2026-06-18 11:04:42.836 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
     "r_cmd_check": [
