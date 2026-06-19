@@ -180,7 +180,7 @@
   },
   "deeptime": {
     "success": [true],
-    "published": ["2026-06-18 06:45:16.362 UTC"],
+    "published": ["2026-06-19 07:08:14.760 UTC"],
     "version": ["2.3.1"],
     "remote_hash": ["21d1665c7681de05b1d58236a944e1a08461be79"]
   },
@@ -534,7 +534,7 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-06-18 11:04:42.836 UTC"],
+    "published": ["2026-06-19 06:50:35.131 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
     "r_cmd_check": [
@@ -608,7 +608,7 @@
   },
   "Rvision": {
     "success": [true],
-    "published": ["2026-06-18 06:27:13.812 UTC"],
+    "published": ["2026-06-19 06:45:42.938 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
@@ -681,7 +681,7 @@
   },
   "shinystan": {
     "success": [true],
-    "published": ["2026-06-18 06:31:58.403 UTC"],
+    "published": ["2026-06-19 06:50:13.279 UTC"],
     "version": ["2.7.0"],
     "remote_hash": ["2036992879e7b1a7357340372f943303429da2b8"]
   },
