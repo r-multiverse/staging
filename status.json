@@ -136,7 +136,7 @@
   },
   "cmdstanr": {
     "success": [true],
-    "published": ["2026-05-21 20:07:12.690 UTC"],
+    "published": ["2026-06-20 07:19:08.542 UTC"],
     "version": ["0.9.0"],
     "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"]
   },
@@ -380,7 +380,7 @@
   },
   "loo": {
     "success": [true],
-    "published": ["2026-05-21 20:01:30.170 UTC"],
+    "published": ["2026-06-20 07:23:10.582 UTC"],
     "version": ["2.9.0"],
     "remote_hash": ["299a4c7af159b08b3be0184744cc1a9615b6a341"]
   },
@@ -488,7 +488,7 @@
   },
   "posterior": {
     "success": [true],
-    "published": ["2026-05-21 20:06:23.638 UTC"],
+    "published": ["2026-06-20 07:19:48.828 UTC"],
     "version": ["1.7.0"],
     "remote_hash": ["727ac83cb52babb6eb54bdd1ce15f90439626945"]
   },
@@ -534,7 +534,7 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-06-19 06:50:35.131 UTC"],
+    "published": ["2026-06-20 06:04:07.553 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
     "r_cmd_check": [
@@ -632,7 +632,7 @@
   },
   "SBC": {
     "success": [false],
-    "published": ["2026-05-21 19:47:16.418 UTC"],
+    "published": ["2026-06-20 07:39:36.940 UTC"],
     "version": ["0.5.0.0"],
     "remote_hash": ["e40a320c335460851618f7019baf79d39bbedf29"],
     "r_cmd_check": [
@@ -640,13 +640,13 @@
         "check": "ERROR",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/26218561772/job/77254965220"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/27862668703/job/82464875498"
       },
       {
         "check": "ERROR",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/26218561772/job/77254965476"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/27862668703/job/82464875516"
       }
     ]
   },
@@ -681,7 +681,7 @@
   },
   "shinystan": {
     "success": [true],
-    "published": ["2026-06-19 06:50:13.279 UTC"],
+    "published": ["2026-06-20 06:05:58.292 UTC"],
     "version": ["2.7.0"],
     "remote_hash": ["2036992879e7b1a7357340372f943303429da2b8"]
   },
