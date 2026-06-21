@@ -284,11 +284,10 @@
     "remote_hash": ["a075de59066ac2024c07b9c235310fedb4f9a23e"]
   },
   "glaredb": {
-    "success": [false],
-    "published": ["2026-06-21 10:51:11.701 UTC"],
+    "success": [true],
+    "published": ["2026-06-21 11:13:02.611 UTC"],
     "version": ["0.0.5"],
-    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/27901971565"]
+    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
   "healthyr": {
     "success": [false],
