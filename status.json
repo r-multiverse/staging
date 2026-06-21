@@ -534,7 +534,7 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-06-20 06:04:07.553 UTC"],
+    "published": ["2026-06-21 06:36:55.375 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
     "r_cmd_check": [
@@ -596,13 +596,13 @@
   },
   "rredlist": {
     "success": [true],
-    "published": ["2026-06-20 10:42:40.769 UTC"],
+    "published": ["2026-06-21 06:44:53.207 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
     "success": [true],
-    "published": ["2026-06-20 11:04:48.655 UTC"],
+    "published": ["2026-06-21 06:52:01.960 UTC"],
     "version": ["2.32.2"],
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
