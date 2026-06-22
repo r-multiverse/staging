@@ -285,7 +285,7 @@
   },
   "glaredb": {
     "success": [true],
-    "published": ["2026-06-21 11:13:02.611 UTC"],
+    "published": ["2026-06-22 07:15:29.157 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
@@ -596,13 +596,13 @@
   },
   "rredlist": {
     "success": [true],
-    "published": ["2026-06-21 06:44:53.207 UTC"],
+    "published": ["2026-06-22 07:14:24.306 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
     "success": [true],
-    "published": ["2026-06-21 06:52:01.960 UTC"],
+    "published": ["2026-06-22 07:22:48.888 UTC"],
     "version": ["2.32.2"],
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
