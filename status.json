@@ -670,7 +670,7 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-06-25 06:16:20.944 UTC"],
+    "published": ["2026-07-02 10:17:16.624 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
     "dependencies": {
