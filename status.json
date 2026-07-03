@@ -380,7 +380,7 @@
   },
   "loneliness": {
     "success": [false],
-    "published": ["2026-06-03 11:04:22.596 UTC"],
+    "published": ["2026-07-03 08:31:44.509 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["330d200bf9de4a76ca1e82e3d84a3c5aba946707"],
     "r_cmd_check": [
@@ -396,7 +396,8 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/26880351866/job/79278956494"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/28648580210"]
   },
   "loo": {
     "success": [true],
