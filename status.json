@@ -92,7 +92,7 @@
   },
   "bedrockbio": {
     "success": [true],
-    "published": ["2026-05-28 05:52:53.463 UTC"],
+    "published": ["2026-07-03 13:14:12.167 UTC"],
     "version": ["1.3.0"],
     "remote_hash": ["904aaf94d6b76ace6630a6bdf9cffed95bc811d4"]
   },
@@ -679,7 +679,7 @@
   },
   "shinystan": {
     "success": [true],
-    "published": ["2026-06-20 06:05:58.292 UTC"],
+    "published": ["2026-07-03 12:38:08.394 UTC"],
     "version": ["2.7.0"],
     "remote_hash": ["2036992879e7b1a7357340372f943303429da2b8"]
   },
