@@ -224,7 +224,7 @@
   },
   "ExpBites": {
     "success": [true],
-    "published": ["2026-05-25 07:02:10.230 UTC"],
+    "published": ["2026-07-04 07:56:13.323 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["6d64099f87c0f238c9630b57003559f01e9a0e79"]
   },
@@ -741,10 +741,11 @@
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"]
   },
   "targetsketch": {
-    "success": [true],
-    "published": ["2026-05-31 06:05:56.177 UTC"],
+    "success": [false],
+    "published": ["2026-07-04 07:52:26.301 UTC"],
     "version": ["0.0.1"],
-    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
+    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/28699684110"]
   },
   "taxizedb": {
     "success": [true],
@@ -895,7 +896,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-07-03 18:49:36.318 UTC"],
+    "published": ["2026-07-04 05:10:10.990 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
