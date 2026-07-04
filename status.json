@@ -239,7 +239,7 @@
   },
   "geographr": {
     "success": [false],
-    "published": ["2026-05-31 06:12:20.992 UTC"],
+    "published": ["2026-07-04 00:12:57.473 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"],
     "r_cmd_check": [
@@ -247,13 +247,13 @@
         "check": "WARNING",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/26658091340/job/78703890797"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28688647914/job/85086120823"
       },
       {
         "check": "WARNING",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/26658091340/job/78703890808"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28688647914/job/85086120821"
       }
     ]
   },
