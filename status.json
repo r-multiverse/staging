@@ -362,7 +362,7 @@
   },
   "kgp": {
     "success": [true],
-    "published": ["2026-05-25 06:47:35.135 UTC"],
+    "published": ["2026-07-04 16:46:11.778 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["284855372dc1bd76ea3aceb2bd1e69404c237834"]
   },
@@ -546,29 +546,10 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-06-21 06:36:55.375 UTC"],
+    "published": ["2026-07-04 17:35:41.553 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25958027519/job/79109492889"
-      },
-      {
-        "check": "ERROR",
-        "config": "macos-oldrel-x86_64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25958027519/job/79109492758"
-      },
-      {
-        "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/25958027519/job/79109492607"
-      }
-    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/28713821194"],
     "versions": {
       "version_current": ["1.2.2"],
       "hash_current": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
