@@ -110,7 +110,7 @@
   },
   "bridgestan": {
     "success": [false],
-    "published": ["2026-07-04 12:38:44.424 UTC"],
+    "published": ["2026-07-04 12:45:00.482 UTC"],
     "version": ["2.8.0"],
     "remote_hash": ["d2c499a7a85c9069f5b73b05d5ee2e9b8661a3e3"],
     "r_cmd_check": [
@@ -118,16 +118,15 @@
         "check": "ERROR",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/26472897719/job/77951577875"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28706463746/job/85133066844"
       },
       {
         "check": "ERROR",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/26472897719/job/77951577759"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28706463746/job/85133066867"
       }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/28706463746"]
+    ]
   },
   "cli": {
     "success": [true],
@@ -686,7 +685,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-06-13 06:02:45.045 UTC"],
+    "published": ["2026-07-04 13:10:11.891 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": [
@@ -865,8 +864,7 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28706250051/job/85132511101"
       }
-    ],
-    "synchronization": ["recent"]
+    ]
   },
   "wk": {
     "success": [false],
