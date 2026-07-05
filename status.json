@@ -538,7 +538,7 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-07-04 17:35:41.553 UTC"],
+    "published": ["2026-07-05 14:07:52.296 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
     "versions": {
@@ -592,7 +592,7 @@
   },
   "Rvision": {
     "success": [true],
-    "published": ["2026-06-19 06:45:42.938 UTC"],
+    "published": ["2026-07-05 13:46:22.907 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
@@ -657,7 +657,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-07-05 11:58:09.256 UTC"],
+    "published": ["2026-07-05 13:54:01.894 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": [
@@ -867,7 +867,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-07-05 11:57:23.476 UTC"],
+    "published": ["2026-07-05 13:53:49.200 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
