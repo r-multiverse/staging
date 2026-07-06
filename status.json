@@ -186,7 +186,7 @@
   },
   "deeptimedata": {
     "success": [true],
-    "published": ["2026-07-05 11:10:42.687 UTC"],
+    "published": ["2026-07-06 07:42:00.686 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["7f1d9e301bac0d580f93c168328ef2aaad490aca"]
   },
@@ -239,7 +239,7 @@
   },
   "geographr": {
     "success": [false],
-    "published": ["2026-07-04 00:12:57.473 UTC"],
+    "published": ["2026-07-06 06:20:30.336 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"],
     "r_cmd_check": [
@@ -247,13 +247,13 @@
         "check": "WARNING",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28688647914/job/85086120823"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28771416742/job/85306397351"
       },
       {
         "check": "WARNING",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28688647914/job/85086120821"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28771416742/job/85306397348"
       }
     ]
   },
@@ -550,7 +550,7 @@
   },
   "prqlr": {
     "success": [true],
-    "published": ["2026-07-05 11:12:08.164 UTC"],
+    "published": ["2026-07-06 07:52:45.543 UTC"],
     "version": ["0.10.1"],
     "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
   },
@@ -592,7 +592,7 @@
   },
   "Rvision": {
     "success": [true],
-    "published": ["2026-07-05 13:46:22.907 UTC"],
+    "published": ["2026-07-06 05:56:33.880 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
@@ -657,7 +657,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-07-05 13:54:01.894 UTC"],
+    "published": ["2026-07-06 05:59:57.993 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": [
@@ -867,7 +867,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-07-05 13:53:49.200 UTC"],
+    "published": ["2026-07-06 05:59:25.970 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
