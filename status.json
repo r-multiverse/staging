@@ -660,8 +660,7 @@
     "published": ["2026-07-07 17:30:57.484 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["1a1e0feedeae5437fe45f34d26b3d180576f3f18"],
-    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
-    "synchronization": ["recent"]
+    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
   },
   "string2path": {
     "success": [true],
