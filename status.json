@@ -53,7 +53,7 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2026-07-04 22:20:46.165 UTC"],
+    "published": ["2026-07-08 05:51:40.624 UTC"],
     "version": ["0.5.0"],
     "remote_hash": ["03904914c7dd3b35b15719a6b4901635dedcdbb9"],
     "r_cmd_check": [
@@ -61,19 +61,19 @@
         "check": "WARNING",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28721067973/job/85170916206"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28919949833/job/85795408048"
       },
       {
         "check": "ERROR",
         "config": "macos-oldrel-x86_64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28721067973/job/85170916208"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28919949833/job/85795408027"
       },
       {
         "check": "WARNING",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28721067973/job/85170916198"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28919949833/job/85795408011"
       }
     ],
     "remotes": ["bnosac/audio.vadwebrtc"]
@@ -556,7 +556,7 @@
   },
   "qqman": {
     "success": [true],
-    "published": ["2026-07-03 19:40:54.711 UTC"],
+    "published": ["2026-07-08 05:06:06.839 UTC"],
     "version": ["0.1.9"],
     "remote_hash": ["f2ec247b6f31473f88a4b86e03a2349a4cfe3f1c"]
   },
@@ -592,7 +592,7 @@
   },
   "Rvision": {
     "success": [true],
-    "published": ["2026-07-07 05:37:10.436 UTC"],
+    "published": ["2026-07-08 04:48:30.723 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
@@ -835,7 +835,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-07-07 05:39:33.811 UTC"],
+    "published": ["2026-07-08 04:51:11.216 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
