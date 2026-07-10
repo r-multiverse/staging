@@ -25,18 +25,10 @@
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"]
   },
   "arrow": {
-    "success": [false],
-    "published": ["2026-07-04 19:04:17.267 UTC"],
-    "version": ["24.0.0"],
-    "remote_hash": ["31b4b6c0a0a7e7c117312d285541a21446675ec6"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28065236387/job/85158893149"
-      }
-    ]
+    "success": [true],
+    "published": ["2026-07-10 10:47:29.430 UTC"],
+    "version": ["25.0.0"],
+    "remote_hash": ["59bea6ec485e7fe351d1aa6753f964f6a6bc353a"]
   },
   "asylum": {
     "success": [false],
