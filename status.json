@@ -1,31 +1,61 @@
 {
   "adbcbigquery": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-05 04:24:14.273 UTC"],
     "version": ["0.23.0"],
-    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"]
+    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
+    "dependencies": {
+      "adbcdrivermanager": [],
+      "nanoarrow": ["adbcdrivermanager"]
+    }
   },
   "adbcdrivermanager": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-04 22:20:13.447 UTC"],
     "version": ["0.23.0"],
-    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"]
+    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
+    "cran": ["0.23.0-2"],
+    "dependencies": {
+      "nanoarrow": []
+    }
   },
   "adbcflightsql": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-05 04:24:30.861 UTC"],
     "version": ["0.23.0"],
-    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"]
+    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
+    "dependencies": {
+      "adbcdrivermanager": [],
+      "nanoarrow": ["adbcdrivermanager"]
+    }
   },
   "adbcsnowflake": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-05 04:24:20.273 UTC"],
     "version": ["0.23.0"],
-    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"]
+    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
+    "dependencies": {
+      "adbcdrivermanager": [],
+      "nanoarrow": ["adbcdrivermanager"]
+    }
+  },
+  "ahocorasick": {
+    "success": [false],
+    "published": ["2026-07-15 04:45:59.351 UTC"],
+    "version": ["0.2.0"],
+    "remote_hash": ["439ab7172c40b946b6811ffa7327ada58ab46d19"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389623890/job/87269990407"
+      }
+    ]
   },
   "arrow": {
     "success": [false],
-    "published": ["2026-07-10 10:47:29.430 UTC"],
+    "published": ["2026-07-15 04:51:58.836 UTC"],
     "version": ["25.0.0"],
     "remote_hash": ["59bea6ec485e7fe351d1aa6753f964f6a6bc353a"],
     "r_cmd_check": [
@@ -35,13 +65,17 @@
         "r": "4.6.1",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29085669759/job/86339894793"
       }
-    ]
+    ],
+    "dependencies": {
+      "rlang": ["vctrs"]
+    }
   },
   "asylum": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-05 01:15:38.999 UTC"],
     "version": ["1.1.1"],
-    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"]
+    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
+    "cran": ["1.1.2"]
   },
   "audio.vadwebrtc": {
     "success": [false],
@@ -91,20 +125,27 @@
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
   "bayesplot": {
-    "success": [true],
-    "published": ["2026-07-04 02:17:31.414 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:55:15.999 UTC"],
     "version": ["1.15.0"],
-    "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
+    "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"],
+    "dependencies": {
+      "rlang": ["posterior"]
+    }
   },
   "bedrockbio": {
-    "success": [true],
-    "published": ["2026-07-03 13:14:12.167 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:48:57.858 UTC"],
     "version": ["1.3.0"],
-    "remote_hash": ["904aaf94d6b76ace6630a6bdf9cffed95bc811d4"]
+    "remote_hash": ["904aaf94d6b76ace6630a6bdf9cffed95bc811d4"],
+    "cran": ["2.0.0"],
+    "dependencies": {
+      "duckdb": []
+    }
   },
   "biorecap": {
     "success": [false],
-    "published": ["2026-07-05 04:44:55.614 UTC"],
+    "published": ["2026-07-15 04:51:49.535 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["20dcdd9ea6fbca2a061b123ef56e5f1b94380644"],
     "r_cmd_check": [
@@ -120,11 +161,14 @@
         "r": "4.6.0",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/27529958324/job/85193406354"
       }
-    ]
+    ],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "bootstrapper": {
     "success": [true],
-    "published": ["2026-07-05 04:44:49.684 UTC"],
+    "published": ["2026-07-15 04:45:20.953 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["e0ee17327dc861846f340352d7ace3f51447b2c3"]
   },
@@ -161,10 +205,13 @@
     "remote_hash": ["928dad1c230a1da745bfdcc9b59726081a3a5b6e"]
   },
   "cmdstanr": {
-    "success": [true],
-    "published": ["2026-07-05 00:09:40.957 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:55:24.644 UTC"],
     "version": ["0.9.0"],
-    "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"]
+    "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"],
+    "dependencies": {
+      "rlang": ["posterior"]
+    }
   },
   "colorout": {
     "success": [false],
@@ -188,36 +235,49 @@
   },
   "crew": {
     "success": [false],
-    "published": ["2026-07-03 15:41:57.298 UTC"],
+    "published": ["2026-07-15 05:01:36.954 UTC"],
     "version": ["1.3.0"],
     "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"],
+    "cran": ["1.3.1"],
     "dependencies": {
-      "nanonext": ["mirai"]
+      "mirai": [],
+      "nanonext": ["mirai"],
+      "rlang": ["later"]
     }
   },
   "crew.aws.batch": {
     "success": [false],
-    "published": ["2026-07-04 20:27:22.986 UTC"],
+    "published": ["2026-07-15 05:04:21.957 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"],
     "dependencies": {
-      "nanonext": ["crew"]
+      "crew": [],
+      "mirai": ["crew"],
+      "nanonext": ["crew"],
+      "rlang": ["crew"]
     }
   },
   "crew.cluster": {
     "success": [false],
-    "published": ["2026-07-04 03:46:07.602 UTC"],
+    "published": ["2026-07-15 05:04:32.614 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"],
     "dependencies": {
-      "nanonext": ["crew"]
+      "crew": [],
+      "mirai": ["crew"],
+      "nanonext": ["crew"],
+      "rlang": ["crew", "vctrs"]
     }
   },
   "deeptime": {
-    "success": [true],
-    "published": ["2026-07-05 03:08:32.029 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:05.730 UTC"],
     "version": ["2.3.1"],
-    "remote_hash": ["21d1665c7681de05b1d58236a944e1a08461be79"]
+    "remote_hash": ["21d1665c7681de05b1d58236a944e1a08461be79"],
+    "cran": ["2.4.0"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "deeptimedata": {
     "success": [true],
@@ -251,11 +311,26 @@
       }
     ]
   },
+  "doctest": {
+    "success": [false],
+    "published": ["2026-07-15 04:45:49.198 UTC"],
+    "version": ["0.4.0"],
+    "remote_hash": ["ef97b06623b2a07b9ae5cb7ddb16f35993786578"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389636988/job/87270036387"
+      }
+    ]
+  },
   "duckdb": {
-    "success": [true],
-    "published": ["2026-07-04 19:08:50.499 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:45:49.595 UTC"],
     "version": ["1.5.2"],
-    "remote_hash": ["a68494a83c4e6cec56a50db94f55b0699f33752c"]
+    "remote_hash": ["a68494a83c4e6cec56a50db94f55b0699f33752c"],
+    "cran": ["1.5.4.3"]
   },
   "ecoXCorr": {
     "success": [true],
@@ -275,12 +350,13 @@
     "version": ["0.4.3"],
     "remote_hash": ["9c305a06f6bd68f6f0d3565cb8971bcedb04a579"],
     "dependencies": {
+      "nanoarrow": [],
       "wk": []
     }
   },
   "geographr": {
     "success": [false],
-    "published": ["2026-07-06 06:20:30.336 UTC"],
+    "published": ["2026-07-15 04:52:22.058 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"],
     "r_cmd_check": [
@@ -302,20 +378,95 @@
         "r": "4.6.1",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28771416742/job/85306397360"
       }
-    ]
+    ],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "geotargets": {
     "success": [false],
-    "published": ["2026-07-04 22:12:39.220 UTC"],
+    "published": ["2026-07-15 04:51:58.163 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"],
     "dependencies": {
-      "igraph": ["targets"]
+      "igraph": ["targets"],
+      "rlang": ["targets"],
+      "secretbase": ["targets"]
     }
+  },
+  "ggmagnify": {
+    "success": [false],
+    "published": ["2026-07-15 04:46:38.701 UTC"],
+    "version": ["0.4.2"],
+    "remote_hash": ["1eda21aba4f717d0c3525dbafe44670d4f091e54"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389647868/job/87270059221"
+      }
+    ]
+  },
+  "ggseg": {
+    "success": [false],
+    "published": ["2026-07-15 04:46:19.520 UTC"],
+    "version": ["2.2.1"],
+    "remote_hash": ["39749d9b57f6e2d8ab7f30f4d10653ee61a4032f"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389661569/job/87270093745"
+      }
+    ]
+  },
+  "ggseg.formats": {
+    "success": [false],
+    "published": ["2026-07-15 04:46:15.625 UTC"],
+    "version": ["0.0.4"],
+    "remote_hash": ["193ca3c76ed61992266a31c60727c337a969cd66"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389664803/job/87270104580"
+      }
+    ]
+  },
+  "ggseg.meshes": {
+    "success": [false],
+    "published": ["2026-07-15 04:46:25.302 UTC"],
+    "version": ["0.0.1"],
+    "remote_hash": ["964f1f59d9b224c31b7a67994007ac3024263962"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389668083/job/87270120578"
+      }
+    ]
+  },
+  "ggseg3d": {
+    "success": [false],
+    "published": ["2026-07-15 04:47:12.654 UTC"],
+    "version": ["2.1.2"],
+    "remote_hash": ["bba4f5eb148f51f1ea88452c0af723b2da7f9989"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389678260/job/87270153025"
+      }
+    ]
   },
   "ggsurveillance": {
     "success": [false],
-    "published": ["2026-07-05 04:27:55.667 UTC"],
+    "published": ["2026-07-15 04:52:01.233 UTC"],
     "version": ["0.5.2"],
     "remote_hash": ["b1417c45d47dc19898f8b66f9911166c030b12c1"],
     "r_cmd_check": [
@@ -337,13 +488,19 @@
         "r": "4.6.0",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/27539089833/job/85192510178"
       }
-    ]
+    ],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "ggtypst": {
-    "success": [true],
-    "published": ["2026-07-04 23:42:05.131 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:51:58.661 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["a075de59066ac2024c07b9c235310fedb4f9a23e"]
+    "remote_hash": ["a075de59066ac2024c07b9c235310fedb4f9a23e"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "glaredb": {
     "success": [false],
@@ -363,7 +520,10 @@
         "r": "4.6.0",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/27901971565/job/85177231538"
       }
-    ]
+    ],
+    "dependencies": {
+      "nanoarrow": []
+    }
   },
   "healthyr": {
     "success": [false],
@@ -397,9 +557,37 @@
     "version": ["2.1.4"],
     "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"]
   },
+  "huxtable": {
+    "success": [false],
+    "published": ["2026-07-15 04:46:39.871 UTC"],
+    "version": ["5.8.0"],
+    "remote_hash": ["affacfb24067439cf2277cfe7bc8a0dd88c41222"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389683734/job/87270170639"
+      }
+    ]
+  },
+  "ichimoku": {
+    "success": [false],
+    "published": ["2026-07-15 04:46:41.427 UTC"],
+    "version": ["1.5.7"],
+    "remote_hash": ["e96e5bd71301d74f628ffdffc2a06e5b180b2276"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389686361/job/87270184345"
+      }
+    ]
+  },
   "igraph": {
     "success": [false],
-    "published": ["2026-07-04 19:04:07.795 UTC"],
+    "published": ["2026-07-15 04:52:13.790 UTC"],
     "version": ["2.3.1"],
     "remote_hash": ["c2ce5b1cd3e2f17740657ada5a0db39c449753c1"],
     "r_cmd_check": [
@@ -433,13 +621,21 @@
         "r": "4.6.0",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28065442717/job/85158890721"
       }
-    ]
+    ],
+    "cran": ["2.3.3"],
+    "dependencies": {
+      "rlang": ["vctrs"]
+    }
   },
   "IMD": {
-    "success": [true],
-    "published": ["2026-07-05 04:33:05.895 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:51:57.242 UTC"],
     "version": ["1.2.1"],
-    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"]
+    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
+    "cran": ["1.2.2"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "InsectLabelR": {
     "success": [true],
@@ -449,12 +645,28 @@
   },
   "jagstargets": {
     "success": [false],
-    "published": ["2026-07-04 03:26:54.131 UTC"],
+    "published": ["2026-07-15 04:55:15.374 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
     "dependencies": {
-      "igraph": ["targets", "tarchetypes"]
+      "igraph": ["targets", "tarchetypes"],
+      "rlang": ["posterior", "targets", "tarchetypes"],
+      "secretbase": ["targets", "tarchetypes"]
     }
+  },
+  "jiebaRS": {
+    "success": [false],
+    "published": ["2026-07-15 04:47:21.805 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["9662148258aab601804f55bdb4f23164703cc809"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389692821/job/87270198050"
+      }
+    ]
   },
   "kgp": {
     "success": [true],
@@ -463,16 +675,20 @@
     "remote_hash": ["284855372dc1bd76ea3aceb2bd1e69404c237834"]
   },
   "later": {
-    "success": [true],
-    "published": ["2026-07-04 19:03:31.654 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:02.765 UTC"],
     "version": ["1.4.8"],
-    "remote_hash": ["938684dd177de7b42d4c7e74852fe1e0afb91c8b"]
+    "remote_hash": ["938684dd177de7b42d4c7e74852fe1e0afb91c8b"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "litedown": {
-    "success": [true],
-    "published": ["2026-07-05 04:36:23.135 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:47:09.200 UTC"],
     "version": ["0.9"],
-    "remote_hash": ["ca3535ac33b0c1a6c57b3e42d3db431f2b794727"]
+    "remote_hash": ["ca3535ac33b0c1a6c57b3e42d3db431f2b794727"],
+    "cran": ["0.10"]
   },
   "loneliness": {
     "success": [false],
@@ -501,10 +717,14 @@
     ]
   },
   "loo": {
-    "success": [true],
-    "published": ["2026-07-05 00:10:24.503 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:55:22.026 UTC"],
     "version": ["2.9.0"],
-    "remote_hash": ["299a4c7af159b08b3be0184744cc1a9615b6a341"]
+    "remote_hash": ["299a4c7af159b08b3be0184744cc1a9615b6a341"],
+    "cran": ["2.10.0"],
+    "dependencies": {
+      "rlang": ["posterior"]
+    }
   },
   "mfclim": {
     "success": [true],
@@ -513,16 +733,20 @@
     "remote_hash": ["9fcdfcedf357040c95125ab9865693ba6ff35e2e"]
   },
   "milRex": {
-    "success": [true],
-    "published": ["2026-07-05 03:03:58.594 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:04.322 UTC"],
     "version": ["1.1.0"],
-    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
+    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "mirai": {
     "success": [false],
-    "published": ["2026-07-14 08:14:22.286 UTC"],
+    "published": ["2026-07-15 04:51:39.023 UTC"],
     "version": ["2.6.1"],
     "remote_hash": ["0caa3123f19ed454e26e45290c7f28d9234cb990"],
+    "cran": ["2.7.1"],
     "dependencies": {
       "nanonext": []
     }
@@ -535,17 +759,18 @@
   },
   "multiverse.internals": {
     "success": [false],
-    "published": ["2026-07-09 10:30:09.357 UTC"],
+    "published": ["2026-07-15 04:55:06.375 UTC"],
     "version": ["1.1.10"],
     "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"],
     "dependencies": {
       "igraph": [],
-      "nanonext": []
+      "nanonext": [],
+      "rlang": ["igraph", "vctrs"]
     }
   },
   "mutagen": {
     "success": [false],
-    "published": ["2026-07-05 02:28:19.427 UTC"],
+    "published": ["2026-07-15 04:52:01.230 UTC"],
     "version": ["0.5.0"],
     "remote_hash": ["92ab4ab2561dbc094dc2eea27550686b53430fe2"],
     "r_cmd_check": [
@@ -555,17 +780,35 @@
         "r": "4.6.0",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/27673677471/job/85185875228"
       }
+    ],
+    "dependencies": {
+      "rlang": []
+    }
+  },
+  "mypaintr": {
+    "success": [false],
+    "published": ["2026-07-15 04:48:55.917 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["2c3a19834f6c8792b76ca0c5c3bcfb75deb822f9"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389705439/job/87270232674"
+      }
     ]
   },
   "nanoarrow": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-04 19:03:46.375 UTC"],
     "version": ["0.8.0"],
-    "remote_hash": ["a579fbf5d192e85b6249935e117de7d02a6dc4e9"]
+    "remote_hash": ["a579fbf5d192e85b6249935e117de7d02a6dc4e9"],
+    "cran": ["0.8.0-1"]
   },
   "nanonext": {
     "success": [false],
-    "published": ["2026-07-04 22:20:10.479 UTC"],
+    "published": ["2026-07-15 04:48:43.974 UTC"],
     "version": ["1.9.0"],
     "remote_hash": ["6322bd7fd43a1b3a92c237ca0cd97f52119c3260"],
     "r_cmd_check": [
@@ -581,11 +824,26 @@
         "r": "4.6.0",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28065256711/job/85171664187"
       }
+    ],
+    "cran": ["1.10.1"]
+  },
+  "onetime": {
+    "success": [false],
+    "published": ["2026-07-15 04:47:35.155 UTC"],
+    "version": ["0.2.0"],
+    "remote_hash": ["e36294db9b20ec964487b251fd76306c890d3891"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389710846/job/87270246714"
+      }
     ]
   },
   "polars": {
     "success": [false],
-    "published": ["2026-07-04 19:04:35.301 UTC"],
+    "published": ["2026-07-15 04:52:20.875 UTC"],
     "version": ["1.11.0"],
     "remote_hash": ["f5522a2cf863138295d2e5e114de726166e27ecd"],
     "r_cmd_check": [
@@ -601,7 +859,10 @@
         "r": "4.6.0",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28065466399/job/85158918716"
       }
-    ]
+    ],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "polars0": {
     "success": [false],
@@ -642,10 +903,13 @@
     ]
   },
   "posterior": {
-    "success": [true],
-    "published": ["2026-07-05 00:09:44.437 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:18.818 UTC"],
     "version": ["1.7.0"],
-    "remote_hash": ["727ac83cb52babb6eb54bdd1ce15f90439626945"]
+    "remote_hash": ["727ac83cb52babb6eb54bdd1ce15f90439626945"],
+    "dependencies": {
+      "rlang": ["vctrs"]
+    }
   },
   "posteriordb": {
     "success": [false],
@@ -700,14 +964,18 @@
     ]
   },
   "projpred": {
-    "success": [true],
-    "published": ["2026-07-04 22:16:07.687 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:58:41.957 UTC"],
     "version": ["2.10.0"],
-    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
+    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"],
+    "dependencies": {
+      "loo": [],
+      "rlang": ["loo"]
+    }
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-07-05 14:07:52.296 UTC"],
+    "published": ["2026-07-15 04:52:00.957 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
     "versions": {
@@ -715,6 +983,9 @@
       "hash_current": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
       "version_highest": ["1.2.2"],
       "hash_highest": ["2cdb2cb98d756c06ecf1476e7f353ece13ed0149"]
+    },
+    "dependencies": {
+      "rlang": []
     }
   },
   "prqlr": {
@@ -743,11 +1014,28 @@
     "version": ["0.1.9"],
     "remote_hash": ["f2ec247b6f31473f88a4b86e03a2349a4cfe3f1c"]
   },
+  "rcheology": {
+    "success": [false],
+    "published": ["2026-07-15 04:47:53.940 UTC"],
+    "version": ["4.6.0.0"],
+    "remote_hash": ["80c262a426bdbd0e0375b1ddc976ae151749e64d"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389726623/job/87270296994"
+      }
+    ]
+  },
   "riem": {
-    "success": [true],
-    "published": ["2026-07-05 04:26:26.815 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:09.384 UTC"],
     "version": ["1.0.0"],
-    "remote_hash": ["5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33"]
+    "remote_hash": ["5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "rJavaEnv": {
     "success": [true],
@@ -756,22 +1044,58 @@
     "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
   },
   "rlang": {
-    "success": [true],
-    "published": ["2026-07-04 22:19:33.796 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:48:46.622 UTC"],
     "version": ["1.2.0"],
-    "remote_hash": ["31ca80fc99e20834bacf51f4a392866b2b714195"]
+    "remote_hash": ["31ca80fc99e20834bacf51f4a392866b2b714195"],
+    "cran": ["1.3.0"]
+  },
+  "Rmlx": {
+    "success": [false],
+    "published": ["2026-07-15 04:47:55.065 UTC"],
+    "version": ["0.4.0"],
+    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389734140/job/87270318260"
+      }
+    ]
+  },
+  "RmlxStats": {
+    "success": [false],
+    "published": ["2026-07-15 04:48:18.877 UTC"],
+    "version": ["0.3.0"],
+    "remote_hash": ["36963b9c305b2487d6f93264c34d1c37bd0d5ea5"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389736905/job/87270329305"
+      }
+    ]
   },
   "rredlist": {
-    "success": [true],
-    "published": ["2026-07-05 00:42:34.154 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:04.209 UTC"],
     "version": ["1.1.1"],
-    "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
+    "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "rstanarm": {
-    "success": [true],
-    "published": ["2026-07-04 19:05:23.865 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:58:04.946 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
+    "dependencies": {
+      "loo": [],
+      "rlang": ["bayesplot", "loo", "posterior", "shinystan"]
+    }
   },
   "Rvision": {
     "success": [false],
@@ -788,10 +1112,13 @@
     ]
   },
   "rwasm": {
-    "success": [true],
-    "published": ["2026-07-03 21:39:59.329 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:18.674 UTC"],
     "version": ["0.3.0"],
-    "remote_hash": ["005588296e03080357c7140c1eaf8b47ccabe0bc"]
+    "remote_hash": ["005588296e03080357c7140c1eaf8b47ccabe0bc"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "S7": {
     "success": [true],
@@ -799,15 +1126,32 @@
     "version": ["0.2.2"],
     "remote_hash": ["ec8444afe24182f4a3b585ffbbf17235ed4eedcd"]
   },
+  "santoku": {
+    "success": [false],
+    "published": ["2026-07-15 04:48:33.894 UTC"],
+    "version": ["1.2.1"],
+    "remote_hash": ["da7bdc3a652b3de9fff85615fedacc24c82b788d"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389740689/job/87270334267"
+      }
+    ]
+  },
   "saperlipopette": {
-    "success": [true],
-    "published": ["2026-07-10 06:40:59.216 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:18.877 UTC"],
     "version": ["1.0.0"],
-    "remote_hash": ["eb09bef3fcb017b5fcd6215acf199d9f528cacfc"]
+    "remote_hash": ["eb09bef3fcb017b5fcd6215acf199d9f528cacfc"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "SBC": {
     "success": [false],
-    "published": ["2026-07-05 00:12:46.288 UTC"],
+    "published": ["2026-07-15 04:55:20.858 UTC"],
     "version": ["0.5.0.0"],
     "remote_hash": ["e40a320c335460851618f7019baf79d39bbedf29"],
     "r_cmd_check": [
@@ -835,13 +1179,31 @@
         "r": "4.6.0",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/27862668703/job/85178105383"
       }
+    ],
+    "dependencies": {
+      "rlang": ["posterior"]
+    }
+  },
+  "sdplyr": {
+    "success": [false],
+    "published": ["2026-07-15 04:49:06.369 UTC"],
+    "version": ["0.4.0"],
+    "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389745483/job/87270357832"
+      }
     ]
   },
   "secretbase": {
-    "success": [true],
-    "published": ["2026-07-04 22:19:51.260 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:48:14.322 UTC"],
     "version": ["1.2.2"],
-    "remote_hash": ["49ffdb242808beb875cc84b3da06227d40785cac"]
+    "remote_hash": ["49ffdb242808beb875cc84b3da06227d40785cac"],
+    "cran": ["1.3.0"]
   },
   "sedonadb": {
     "success": [false],
@@ -849,23 +1211,43 @@
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
     "dependencies": {
+      "nanoarrow": ["geoarrow"],
       "wk": ["geoarrow"]
     }
   },
+  "sedonafns": {
+    "success": [false],
+    "published": ["2026-07-15 04:48:52.709 UTC"],
+    "version": ["0.4.0"],
+    "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389752070/job/87270385359"
+      }
+    ]
+  },
   "shinystan": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-03 12:38:08.394 UTC"],
     "version": ["2.7.0"],
-    "remote_hash": ["2036992879e7b1a7357340372f943303429da2b8"]
+    "remote_hash": ["2036992879e7b1a7357340372f943303429da2b8"],
+    "dependencies": {
+      "rlang": ["bayesplot"]
+    }
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-07-07 17:30:57.484 UTC"],
+    "published": ["2026-07-15 04:55:29.520 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["1a1e0feedeae5437fe45f34d26b3d180576f3f18"],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
     "dependencies": {
-      "igraph": ["targets", "tarchetypes"]
+      "igraph": ["targets", "tarchetypes"],
+      "rlang": ["cmdstanr", "posterior", "targets", "tarchetypes"],
+      "secretbase": ["targets", "tarchetypes"]
     }
   },
   "string2path": {
@@ -876,20 +1258,24 @@
   },
   "tarchetypes": {
     "success": [false],
-    "published": ["2026-07-04 03:10:06.246 UTC"],
+    "published": ["2026-07-15 04:53:14.957 UTC"],
     "version": ["0.14.1"],
     "remote_hash": ["020909b152e81f5891242672a3c2ef42312cfc2b"],
     "dependencies": {
-      "igraph": ["targets"]
+      "igraph": ["targets"],
+      "rlang": ["targets", "vctrs"],
+      "secretbase": ["targets"]
     }
   },
   "targets": {
     "success": [false],
-    "published": ["2026-07-09 09:08:08.744 UTC"],
+    "published": ["2026-07-15 04:55:29.858 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"],
     "dependencies": {
-      "igraph": []
+      "igraph": [],
+      "rlang": ["igraph", "vctrs"],
+      "secretbase": []
     }
   },
   "targetsketch": {
@@ -898,33 +1284,42 @@
     "version": ["0.0.1"],
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
     "dependencies": {
-      "igraph": ["targets", "tarchetypes"]
+      "igraph": ["targets", "tarchetypes"],
+      "rlang": ["targets", "tarchetypes"],
+      "secretbase": ["targets", "tarchetypes"]
     }
   },
   "taxizedb": {
-    "success": [true],
-    "published": ["2026-07-05 04:28:48.976 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:53:23.456 UTC"],
     "version": ["0.3.2"],
-    "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
+    "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-07-04 02:25:12.335 UTC"],
+    "published": ["2026-07-15 04:56:43.391 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["661a7449cf3910205a26324bd6375329e11e6a81"],
     "dependencies": {
-      "polars": []
+      "polars": [],
+      "rlang": ["polars", "vctrs"]
     }
   },
   "tidytab": {
-    "success": [true],
-    "published": ["2026-07-05 04:44:31.821 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:38.032 UTC"],
     "version": ["0.3.0"],
-    "remote_hash": ["4743e1a82216a77785a5f80328792059dbde3fd4"]
+    "remote_hash": ["4743e1a82216a77785a5f80328792059dbde3fd4"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "tidytensor": {
     "success": [false],
-    "published": ["2026-07-05 04:26:43.313 UTC"],
+    "published": ["2026-07-15 04:52:32.599 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["14f5b87d2dfae20eb35cfd974adf660a4fd89980"],
     "r_cmd_check": [
@@ -952,19 +1347,43 @@
         "r": "4.6.0",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/27538788675/job/85192440768"
       }
-    ]
+    ],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "tidyterra": {
-    "success": [true],
-    "published": ["2026-07-12 09:36:33.971 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:57.803 UTC"],
     "version": ["1.1.0"],
-    "remote_hash": ["d1f847e65f441efc5226c13892968ba59e91a953"]
+    "remote_hash": ["d1f847e65f441efc5226c13892968ba59e91a953"],
+    "cran": ["1.2.0"],
+    "dependencies": {
+      "rlang": ["vctrs"]
+    }
   },
   "trelliscope": {
-    "success": [true],
-    "published": ["2026-07-04 15:06:43.809 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:36.493 UTC"],
     "version": ["0.1.14"],
-    "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
+    "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"],
+    "dependencies": {
+      "rlang": ["vctrs"]
+    }
+  },
+  "truelies": {
+    "success": [false],
+    "published": ["2026-07-15 04:48:25.483 UTC"],
+    "version": ["0.2.1"],
+    "remote_hash": ["4a0b41cde2d32c28662645c1b8780192e57400a2"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389762893/job/87270408016"
+      }
+    ]
   },
   "unigd": {
     "success": [true],
@@ -973,10 +1392,13 @@
     "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"]
   },
   "vctrs": {
-    "success": [true],
-    "published": ["2026-07-04 22:20:19.464 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:31.753 UTC"],
     "version": ["0.7.3"],
-    "remote_hash": ["d452a02c9f4752f3268431a3ac8aa221dbe4040f"]
+    "remote_hash": ["d452a02c9f4752f3268431a3ac8aa221dbe4040f"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "voucher": {
     "success": [true],
@@ -986,7 +1408,7 @@
   },
   "weathercan": {
     "success": [false],
-    "published": ["2026-07-05 04:24:52.533 UTC"],
+    "published": ["2026-07-15 04:53:43.262 UTC"],
     "version": ["0.7.8"],
     "remote_hash": ["ae9a0e72e50caaf41823a21a1603cf23a6ece331"],
     "r_cmd_check": [
@@ -1008,13 +1430,19 @@
         "r": "4.6.0",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/27537220719/job/85192336188"
       }
-    ]
+    ],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "webchem": {
-    "success": [true],
-    "published": ["2026-07-05 04:44:34.130 UTC"],
+    "success": [false],
+    "published": ["2026-07-15 04:52:49.802 UTC"],
     "version": ["1.3.1"],
-    "remote_hash": ["2131a4e718996f16467be458fd7378116523414d"]
+    "remote_hash": ["2131a4e718996f16467be458fd7378116523414d"],
+    "dependencies": {
+      "rlang": []
+    }
   },
   "webseq": {
     "success": [false],
@@ -1044,7 +1472,7 @@
   },
   "wildfires": {
     "success": [false],
-    "published": ["2026-07-04 12:36:45.075 UTC"],
+    "published": ["2026-07-15 04:48:48.957 UTC"],
     "version": ["0.9.0"],
     "remote_hash": ["228c24be602b16073ff2bc8096d5df9d42dc6ea1"],
     "r_cmd_check": [
@@ -1052,19 +1480,19 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28706250051/job/85132511086"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389573512/job/87270276747"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28706250051/job/85132511113"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389573512/job/87270276773"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28706250051/job/85132511096"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29389573512/job/87270276763"
       }
     ]
   },
@@ -1104,7 +1532,8 @@
         "r": "4.6.0",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28065358353/job/85158855876"
       }
-    ]
+    ],
+    "cran": ["0.9.5"]
   },
   "zstdlite": {
     "success": [true],
