@@ -92,10 +92,10 @@
   },
   {
     "package": "bootstrapper",
-    "version_current": "1.0.0",
-    "hash_current": "e0ee17327dc861846f340352d7ace3f51447b2c3",
-    "version_highest": "1.0.0",
-    "hash_highest": "e0ee17327dc861846f340352d7ace3f51447b2c3"
+    "version_current": "1.1.0",
+    "hash_current": "6053274c28d41be184215dcd88720a597d0a1167",
+    "version_highest": "1.1.0",
+    "hash_highest": "6053274c28d41be184215dcd88720a597d0a1167"
   },
   {
     "package": "bridgestan",
@@ -351,10 +351,10 @@
   },
   {
     "package": "litedown",
-    "version_current": "0.9",
-    "hash_current": "ca3535ac33b0c1a6c57b3e42d3db431f2b794727",
-    "version_highest": "0.9",
-    "hash_highest": "ca3535ac33b0c1a6c57b3e42d3db431f2b794727"
+    "version_current": "0.10",
+    "hash_current": "0cc8f6c7d73f2bef34faa30f32bd8634103fdb48",
+    "version_highest": "0.10",
+    "hash_highest": "0cc8f6c7d73f2bef34faa30f32bd8634103fdb48"
   },
   {
     "package": "loneliness",
@@ -743,10 +743,10 @@
   },
   {
     "package": "weathercan",
-    "version_current": "0.7.8",
-    "hash_current": "ae9a0e72e50caaf41823a21a1603cf23a6ece331",
-    "version_highest": "0.7.8",
-    "hash_highest": "ae9a0e72e50caaf41823a21a1603cf23a6ece331"
+    "version_current": "1.0.0",
+    "hash_current": "a92156e7f91d027224fa62df797327ae1397b97d",
+    "version_highest": "1.0.0",
+    "hash_highest": "a92156e7f91d027224fa62df797327ae1397b97d"
   },
   {
     "package": "webchem",
