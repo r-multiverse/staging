@@ -120,13 +120,10 @@
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
   "bedrockbio": {
-    "success": [false],
-    "published": ["2026-07-16 07:28:00.665 UTC"],
+    "success": [true],
+    "published": ["2026-07-23 07:08:45.753 UTC"],
     "version": ["2.0.0"],
-    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"],
-    "dependencies": {
-      "duckdb": []
-    }
+    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"]
   },
   "biorecap": {
     "success": [false],
@@ -288,11 +285,10 @@
     "remote_hash": ["ef97b06623b2a07b9ae5cb7ddb16f35993786578"]
   },
   "duckdb": {
-    "success": [false],
-    "published": ["2026-07-16 06:35:13.855 UTC"],
-    "version": ["1.5.4.2"],
-    "remote_hash": ["c95f1b0681c21e91f8210a86b0a763dd42d324ac"],
-    "cran": ["1.5.4.3"]
+    "success": [true],
+    "published": ["2026-07-23 06:48:06.941 UTC"],
+    "version": ["1.5.4.3"],
+    "remote_hash": ["44bfb31e651c1c87724d272982229eb7780bc41f"]
   },
   "ecoXCorr": {
     "success": [true],
@@ -393,7 +389,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2026-07-22 05:01:53.516 UTC"],
+    "published": ["2026-07-23 05:05:22.917 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "r_cmd_check": [
@@ -401,13 +397,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29817854979/job/88833724783"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29817854979/job/89121063938"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29817854979/job/88833724931"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29817854979/job/89121063878"
       }
     ],
     "dependencies": {
