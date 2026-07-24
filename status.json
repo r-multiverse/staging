@@ -536,11 +536,10 @@
     ]
   },
   "loo": {
-    "success": [false],
-    "published": ["2026-07-24 18:15:45.315 UTC"],
-    "version": ["2.10.0"],
-    "remote_hash": ["1d6f5859ddf8792ce01d4a8f259c88d247b4ebb9"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/30116204923"]
+    "success": [true],
+    "published": ["2026-07-24 18:57:04.187 UTC"],
+    "version": ["2.10.1"],
+    "remote_hash": ["df27ade95093db66cebf19d55530439386ac1a97"]
   },
   "mfclim": {
     "success": [true],
@@ -707,7 +706,7 @@
   },
   "projpred": {
     "success": [false],
-    "published": ["2026-07-16 06:17:04.852 UTC"],
+    "published": ["2026-07-24 20:05:58.479 UTC"],
     "version": ["2.10.0"],
     "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"],
     "r_cmd_check": [
@@ -715,18 +714,15 @@
         "check": "ERROR",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29473365439/job/87543776890"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30118956919/job/89571275033"
       },
       {
         "check": "ERROR",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/29473365439/job/87543776884"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30118956919/job/89571275060"
       }
-    ],
-    "dependencies": {
-      "loo": []
-    }
+    ]
   },
   "prophet": {
     "success": [false],
@@ -873,13 +869,10 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [false],
-    "published": ["2026-07-17 05:00:44.753 UTC"],
+    "success": [true],
+    "published": ["2026-07-24 20:16:00.335 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
-    "dependencies": {
-      "loo": []
-    }
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
   "Rvision": {
     "success": [false],
