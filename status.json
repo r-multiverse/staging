@@ -74,7 +74,7 @@
   },
   "audio.vadwebrtc": {
     "success": [false],
-    "published": ["2026-07-24 06:10:38.427 UTC"],
+    "published": ["2026-07-25 04:44:27.598 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
     "r_cmd_check": [
@@ -82,7 +82,7 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30070643123/job/89411055469"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30070643123/job/89643564562"
       }
     ]
   },
@@ -951,6 +951,7 @@
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
     "dependencies": {
       "nanoarrow": ["sedonadb"],
+      "sedonadb": [],
       "wk": ["sedonadb"]
     }
   },
@@ -962,9 +963,10 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-07-04 18:57:10.967 UTC"],
+    "published": ["2026-07-25 07:06:57.407 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/30148718110"],
     "dependencies": {
       "nanoarrow": ["geoarrow"],
       "wk": ["geoarrow"]
