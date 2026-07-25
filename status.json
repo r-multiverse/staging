@@ -951,7 +951,6 @@
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
     "dependencies": {
       "nanoarrow": ["sedonadb"],
-      "sedonadb": [],
       "wk": ["sedonadb"]
     }
   },
@@ -963,10 +962,9 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-07-25 07:06:57.407 UTC"],
+    "published": ["2026-07-25 08:31:13.855 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/30148718110"],
     "dependencies": {
       "nanoarrow": ["geoarrow"],
       "wk": ["geoarrow"]
