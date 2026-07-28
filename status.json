@@ -581,7 +581,7 @@
   },
   "nanoarrow": {
     "success": [false],
-    "published": ["2026-07-24 06:14:44.263 UTC"],
+    "published": ["2026-07-28 05:38:08.257 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["a579fbf5d192e85b6249935e117de7d02a6dc4e9"],
     "cran": ["0.8.0-1"]
