@@ -131,13 +131,10 @@
     }
   },
   "bedrockbio": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-07-28 03:16:19.063 UTC"],
     "version": ["2.0.0"],
-    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"],
-    "dependencies": {
-      "duckdb": []
-    }
+    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"]
   },
   "biorecap": {
     "success": [false],
@@ -320,11 +317,10 @@
     }
   },
   "duckdb": {
-    "success": [false],
-    "published": ["2026-07-29 23:57:34.279 UTC"],
+    "success": [true],
+    "published": ["2026-07-30 01:41:33.618 UTC"],
     "version": ["1.5.5"],
-    "remote_hash": ["7930f8602ef8cd37cd4903f4c92aeef0edb29eab"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/30501138459"]
+    "remote_hash": ["7930f8602ef8cd37cd4903f4c92aeef0edb29eab"]
   },
   "ecoXCorr": {
     "success": [true],
@@ -980,10 +976,9 @@
   },
   "rstanarm": {
     "success": [false],
-    "published": ["2026-07-30 00:00:53.671 UTC"],
+    "published": ["2026-07-30 01:13:04.257 UTC"],
     "version": ["2.32.2"],
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/30501284015"],
     "dependencies": {
       "rlang": ["bayesplot", "loo", "posterior", "shinystan"]
     }
@@ -1078,7 +1073,6 @@
     "dependencies": {
       "nanoarrow": ["sedonadb"],
       "rlang": [],
-      "sedonadb": [],
       "wk": ["sedonadb"]
     }
   },
@@ -1090,10 +1084,9 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-07-30 00:01:20.204 UTC"],
+    "published": ["2026-07-30 01:24:03.664 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/30501348761"],
     "dependencies": {
       "nanoarrow": ["geoarrow"],
       "wk": ["geoarrow"]
