@@ -10,7 +10,7 @@
   },
   "adbcdrivermanager": {
     "success": [false],
-    "published": ["2026-07-30 00:13:05.878 UTC"],
+    "published": ["2026-07-30 04:37:23.644 UTC"],
     "version": ["0.24.0"],
     "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"],
     "dependencies": {
@@ -46,7 +46,7 @@
   },
   "arrow": {
     "success": [false],
-    "published": ["2026-07-30 00:31:18.793 UTC"],
+    "published": ["2026-07-30 04:59:17.266 UTC"],
     "version": ["25.0.0"],
     "remote_hash": ["59bea6ec485e7fe351d1aa6753f964f6a6bc353a"],
     "r_cmd_check": [
@@ -54,7 +54,7 @@
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30501062364/job/90741769282"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30501062364/job/90780216693"
       }
     ],
     "dependencies": {
@@ -76,7 +76,7 @@
   },
   "audio.vadwebrtc": {
     "success": [false],
-    "published": ["2026-07-30 00:10:15.828 UTC"],
+    "published": ["2026-07-30 04:42:46.092 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
     "r_cmd_check": [
@@ -84,7 +84,7 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30501079787/job/90741158011"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30501079787/job/90780210126"
       }
     ]
   },
@@ -1084,7 +1084,7 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-07-30 01:24:03.664 UTC"],
+    "published": ["2026-07-30 04:58:07.296 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
     "dependencies": {
