@@ -58,7 +58,7 @@
   },
   "audio.vadwebrtc": {
     "success": [false],
-    "published": ["2026-07-30 04:42:46.092 UTC"],
+    "published": ["2026-07-31 05:00:55.242 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
     "r_cmd_check": [
@@ -66,7 +66,7 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30501079787/job/90780210126"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30501079787/job/91076737990"
       }
     ]
   },
@@ -1066,7 +1066,7 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-07-30 17:17:47.815 UTC"],
+    "published": ["2026-07-31 05:21:20.546 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
     "dependencies": {
