@@ -279,10 +279,17 @@
   },
   "duckdb": {
     "success": [false],
-    "published": ["2026-08-01 12:58:55.648 UTC"],
+    "published": ["2026-08-01 16:51:44.142 UTC"],
     "version": ["1.5.5"],
     "remote_hash": ["7930f8602ef8cd37cd4903f4c92aeef0edb29eab"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/30700772543"]
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "windows-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30700772543/job/91374154724"
+      }
+    ]
   },
   "ecoXCorr": {
     "success": [true],
