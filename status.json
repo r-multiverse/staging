@@ -616,21 +616,21 @@
   },
   "polars": {
     "success": [false],
-    "published": ["2026-08-01 13:53:35.921 UTC"],
-    "version": ["1.13.0"],
-    "remote_hash": ["9515c7eab52990c006341da3b9d36b14196a1939"],
+    "published": ["2026-08-03 10:25:44.736 UTC"],
+    "version": ["1.14.0"],
+    "remote_hash": ["c4feac96133c25e4d4927ca684efdc3c376b60b2"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30700774714/job/91371874069"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30801957233/job/91652265223"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30700774714/job/91371874086"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30801957233/job/91652265157"
       }
     ]
   },
@@ -1007,9 +1007,29 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-07-16 06:13:28.671 UTC"],
+    "published": ["2026-08-03 11:31:17.303 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["e79dda50194dfd00a43d66afedd57072cab2ef54"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30805641237/job/91661265720"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30805641237/job/91661265721"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30805641237/job/91661265830"
+      }
+    ],
     "dependencies": {
       "polars": []
     }
