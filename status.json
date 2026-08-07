@@ -66,7 +66,7 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2026-07-08 05:51:40.624 UTC"],
+    "published": ["2026-08-07 06:01:51.502 UTC"],
     "version": ["0.5.0"],
     "remote_hash": ["03904914c7dd3b35b15719a6b4901635dedcdbb9"],
     "r_cmd_check": [
@@ -74,19 +74,19 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28919949833/job/85795408029"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31151492009/job/92782749436"
       },
       {
         "check": "ERROR",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28919949833/job/85795408034"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31151492009/job/92782749443"
       },
       {
         "check": "WARNING",
-        "config": "windows-release",
+        "config": "windows-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28919949833/job/85795408005"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31151492009/job/92782749493"
       }
     ],
     "remotes": ["bnosac/audio.vadwebrtc"]
@@ -779,7 +779,7 @@
   },
   "qqman": {
     "success": [true],
-    "published": ["2026-07-08 05:06:06.839 UTC"],
+    "published": ["2026-08-07 05:30:06.762 UTC"],
     "version": ["0.1.9"],
     "remote_hash": ["f2ec247b6f31473f88a4b86e03a2349a4cfe3f1c"]
   },
@@ -1246,7 +1246,7 @@
   },
   "zstdlite": {
     "success": [false],
-    "published": ["2026-07-08 04:51:11.210 UTC"],
+    "published": ["2026-08-07 05:15:57.132 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
     "r_cmd_check": [
@@ -1254,7 +1254,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/28742983816/job/85789700235"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31149847983/job/92777098404"
       }
     ]
   }
