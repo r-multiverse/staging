@@ -19,7 +19,7 @@
   },
   "arrow": {
     "success": [false],
-    "published": ["2026-08-10 07:46:03.142 UTC"],
+    "published": ["2026-08-11 03:50:06.009 UTC"],
     "version": ["25.0.1"],
     "remote_hash": ["beccec0d0c451b7aa3e4530416ac431b3c035c69"],
     "r_cmd_check": [
@@ -27,7 +27,7 @@
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31364810663/job/93382571039"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31364810663/job/93666964409"
       }
     ]
   },
@@ -542,7 +542,7 @@
   },
   "mfclim": {
     "success": [true],
-    "published": ["2026-07-12 05:33:26.006 UTC"],
+    "published": ["2026-08-11 03:47:19.444 UTC"],
     "version": ["0.1.1"],
     "remote_hash": ["9fcdfcedf357040c95125ab9865693ba6ff35e2e"]
   },
