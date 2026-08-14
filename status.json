@@ -140,7 +140,7 @@
   },
   "bootstrapper": {
     "success": [false],
-    "published": ["2026-07-15 09:14:54.612 UTC"],
+    "published": ["2026-08-14 06:30:23.210 UTC"],
     "version": ["1.1.0"],
     "remote_hash": ["6053274c28d41be184215dcd88720a597d0a1167"],
     "remotes": ["lorenzwalthert/touchstone"]
@@ -432,7 +432,7 @@
   },
   "httpgd": {
     "success": [true],
-    "published": ["2026-07-15 07:31:45.023 UTC"],
+    "published": ["2026-08-14 05:34:34.072 UTC"],
     "version": ["2.1.4"],
     "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"]
   },
@@ -503,10 +503,18 @@
     "remote_hash": ["938684dd177de7b42d4c7e74852fe1e0afb91c8b"]
   },
   "litedown": {
-    "success": [true],
-    "published": ["2026-07-15 08:28:33.923 UTC"],
+    "success": [false],
+    "published": ["2026-08-14 06:24:17.671 UTC"],
     "version": ["0.10"],
-    "remote_hash": ["0cc8f6c7d73f2bef34faa30f32bd8634103fdb48"]
+    "remote_hash": ["0cc8f6c7d73f2bef34faa30f32bd8634103fdb48"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31774050997/job/94686173955"
+      }
+    ]
   },
   "loneliness": {
     "success": [false],
@@ -797,7 +805,7 @@
   },
   "rJavaEnv": {
     "success": [true],
-    "published": ["2026-07-15 08:22:59.459 UTC"],
+    "published": ["2026-08-14 06:11:48.153 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
   },
