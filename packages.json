@@ -61,7 +61,7 @@
   {
     "package": "biorecap",
     "url": "https://github.com/stephenturner/biorecap",
-    "branch": "*release"
+    "branch": "20dcdd9ea6fbca2a061b123ef56e5f1b94380644"
   },
   {
     "package": "bootstrapper",
