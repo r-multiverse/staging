@@ -798,11 +798,10 @@
     "remote_hash": ["ce8a147b712c425fa4eb1d351e621d07ce6e423b"]
   },
   "Rmlx": {
-    "success": [false],
-    "published": ["2026-08-15 06:32:52.296 UTC"],
+    "success": [true],
+    "published": ["2026-08-16 03:48:43.941 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/31866290794"]
+    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
   },
   "RmlxStats": {
     "success": [false],
@@ -972,10 +971,10 @@
   },
   "targets": {
     "success": [false],
-    "published": ["2026-08-16 03:19:09.187 UTC"],
+    "published": ["2026-08-16 04:02:40.204 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/31923943076"],
+    "synchronization": ["recent"],
     "dependencies": {
       "igraph": []
     }
