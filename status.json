@@ -318,8 +318,7 @@
     "version": ["0.3.1"],
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"],
     "dependencies": {
-      "igraph": ["targets"],
-      "targets": []
+      "igraph": ["targets"]
     }
   },
   "ggmagnify": {
@@ -462,8 +461,7 @@
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
     "dependencies": {
-      "igraph": ["targets", "tarchetypes"],
-      "targets": ["tarchetypes"]
+      "igraph": ["targets", "tarchetypes"]
     }
   },
   "jiebaRS": {
@@ -949,8 +947,7 @@
     "remote_hash": ["1a1e0feedeae5437fe45f34d26b3d180576f3f18"],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
     "dependencies": {
-      "igraph": ["targets", "tarchetypes"],
-      "targets": ["tarchetypes"]
+      "igraph": ["targets", "tarchetypes"]
     }
   },
   "string2path": {
@@ -965,8 +962,7 @@
     "version": ["0.14.1"],
     "remote_hash": ["020909b152e81f5891242672a3c2ef42312cfc2b"],
     "dependencies": {
-      "igraph": ["targets"],
-      "targets": []
+      "igraph": ["targets"]
     }
   },
   "targets": {
@@ -974,7 +970,6 @@
     "published": ["2026-08-16 04:02:40.204 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"],
-    "synchronization": ["recent"],
     "dependencies": {
       "igraph": []
     }
@@ -985,8 +980,7 @@
     "version": ["0.0.1"],
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
     "dependencies": {
-      "igraph": ["targets", "tarchetypes"],
-      "targets": ["tarchetypes"]
+      "igraph": ["targets", "tarchetypes"]
     }
   },
   "taxizedb": {
