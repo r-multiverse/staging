@@ -796,11 +796,10 @@
     "remote_hash": ["ce8a147b712c425fa4eb1d351e621d07ce6e423b"]
   },
   "Rmlx": {
-    "success": [false],
-    "published": ["2026-08-16 03:48:43.941 UTC"],
+    "success": [true],
+    "published": ["2026-08-17 03:43:06.921 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/31866290794"]
+    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
   },
   "RmlxStats": {
     "success": [false],
