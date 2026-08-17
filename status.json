@@ -13,7 +13,7 @@
   },
   "ahocorasick": {
     "success": [true],
-    "published": ["2026-08-16 02:43:19.490 UTC"],
+    "published": ["2026-08-17 02:41:48.914 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["439ab7172c40b946b6811ffa7327ada58ab46d19"]
   },
@@ -360,7 +360,7 @@
   },
   "ggtypst": {
     "success": [true],
-    "published": ["2026-08-16 03:02:18.993 UTC"],
+    "published": ["2026-08-17 03:01:42.244 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a075de59066ac2024c07b9c235310fedb4f9a23e"]
   },
@@ -457,7 +457,7 @@
   },
   "jagstargets": {
     "success": [false],
-    "published": ["2026-08-16 02:45:32.885 UTC"],
+    "published": ["2026-08-17 02:41:46.944 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
     "dependencies": {
@@ -589,7 +589,7 @@
   },
   "mypaintr": {
     "success": [true],
-    "published": ["2026-08-16 02:46:56.434 UTC"],
+    "published": ["2026-08-17 02:42:46.678 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["2c3a19834f6c8792b76ca0c5c3bcfb75deb822f9"]
   },
@@ -796,14 +796,15 @@
     "remote_hash": ["ce8a147b712c425fa4eb1d351e621d07ce6e423b"]
   },
   "Rmlx": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-08-16 03:48:43.941 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
+    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/31866290794"]
   },
   "RmlxStats": {
     "success": [false],
-    "published": ["2026-08-16 02:46:38.486 UTC"],
+    "published": ["2026-08-17 02:46:34.394 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["36963b9c305b2487d6f93264c34d1c37bd0d5ea5"],
     "r_cmd_check": [
@@ -811,13 +812,13 @@
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31866285115/job/95104393077"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31866285115/job/95268056369"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31866285115/job/95104393699"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31866285115/job/95268057062"
       }
     ],
     "remotes": ["hughjonesd/Rmlx"]
@@ -862,7 +863,7 @@
   },
   "santoku": {
     "success": [true],
-    "published": ["2026-08-16 02:43:07.290 UTC"],
+    "published": ["2026-08-17 02:42:46.632 UTC"],
     "version": ["1.2.1"],
     "remote_hash": ["da7bdc3a652b3de9fff85615fedacc24c82b788d"]
   },
@@ -942,7 +943,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-08-16 02:45:22.174 UTC"],
+    "published": ["2026-08-17 02:41:01.355 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["1a1e0feedeae5437fe45f34d26b3d180576f3f18"],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
