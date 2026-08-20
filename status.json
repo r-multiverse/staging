@@ -465,11 +465,10 @@
     }
   },
   "jiebaRS": {
-    "success": [false],
-    "published": ["2026-08-20 02:56:19.884 UTC"],
+    "success": [true],
+    "published": ["2026-08-20 03:30:11.470 UTC"],
     "version": ["0.2.0"],
-    "remote_hash": ["fb3938cbbf5dd12e60d70f17c973ad59330ff741"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/32326405806"]
+    "remote_hash": ["fb3938cbbf5dd12e60d70f17c973ad59330ff741"]
   },
   "kgp": {
     "success": [true],
