@@ -152,10 +152,11 @@
     ]
   },
   "californiaalw": {
-    "success": [true],
-    "published": ["2026-07-22 20:16:15.954 UTC"],
+    "success": [false],
+    "published": ["2026-08-21 05:02:55.341 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["34529f9aa4641e3dae7acc1e27281526e5b0907a"]
+    "remote_hash": ["34529f9aa4641e3dae7acc1e27281526e5b0907a"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/32448674742"]
   },
   "cli": {
     "success": [true],
