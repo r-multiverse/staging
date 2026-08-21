@@ -906,29 +906,10 @@
   },
   "sdplyr": {
     "success": [false],
-    "published": ["2026-08-21 22:16:46.532 UTC"],
+    "published": ["2026-08-21 23:42:43.779 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "linux-release-x86_64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/32531623241/job/96925443476"
-      },
-      {
-        "check": "ERROR",
-        "config": "macos-release-arm64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/32531623241/job/96925443440"
-      },
-      {
-        "check": "ERROR",
-        "config": "windows-release-x86_64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/32531623241/job/96925443438"
-      }
-    ],
+    "synchronization": ["recent"],
     "dependencies": {
       "sedonadb": [],
       "wk": ["sedonadb"]
@@ -942,10 +923,17 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-08-21 22:07:52.213 UTC"],
-    "version": ["0.4.0"],
-    "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/32531628300"],
+    "published": ["2026-08-21 23:29:38.526 UTC"],
+    "version": ["0.4.1"],
+    "remote_hash": ["c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "windows-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/32531628300/job/96928247622"
+      }
+    ],
     "dependencies": {
       "wk": ["geoarrow"]
     }
