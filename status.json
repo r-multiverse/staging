@@ -909,7 +909,6 @@
     "published": ["2026-08-21 23:42:43.779 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e"],
-    "synchronization": ["recent"],
     "dependencies": {
       "sedonadb": [],
       "wk": ["sedonadb"]
