@@ -523,10 +523,11 @@
     ]
   },
   "loo": {
-    "success": [true],
-    "published": ["2026-07-24 18:57:04.187 UTC"],
+    "success": [false],
+    "published": ["2026-08-23 04:45:03.677 UTC"],
     "version": ["2.10.1"],
-    "remote_hash": ["df27ade95093db66cebf19d55530439386ac1a97"]
+    "remote_hash": ["df27ade95093db66cebf19d55530439386ac1a97"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/32618615749"]
   },
   "mfclim": {
     "success": [true],
@@ -715,7 +716,7 @@
   },
   "projpred": {
     "success": [false],
-    "published": ["2026-07-24 20:05:58.479 UTC"],
+    "published": ["2026-08-23 04:45:36.085 UTC"],
     "version": ["2.10.0"],
     "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"],
     "r_cmd_check": [
@@ -731,7 +732,8 @@
         "r": "4.6.1",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/30118956919/job/89571275060"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/32618637104"]
   },
   "prophet": {
     "success": [false],
