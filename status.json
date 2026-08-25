@@ -715,7 +715,7 @@
   },
   "projpred": {
     "success": [false],
-    "published": ["2026-08-24 03:06:20.306 UTC"],
+    "published": ["2026-08-25 03:00:07.079 UTC"],
     "version": ["2.10.0"],
     "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"],
     "r_cmd_check": [
@@ -723,13 +723,13 @@
         "check": "ERROR",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/32618637104/job/97305642015"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/32618637104/job/97664766223"
       },
       {
         "check": "ERROR",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/32618637104/job/97305641940"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/32618637104/job/97664766240"
       }
     ]
   },
