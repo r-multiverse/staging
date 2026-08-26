@@ -257,7 +257,7 @@
   {
     "package": "litedown",
     "url": "https://github.com/yihui/litedown",
-    "branch": "*release"
+    "branch": "2728086ff2a412a86eda6ecd31b26185e53af540"
   },
   {
     "package": "loneliness",
