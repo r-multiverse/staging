@@ -205,7 +205,7 @@
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2026-07-29 22:12:42.214 UTC"],
+    "published": ["2026-08-28 17:38:47.933 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
   },
@@ -255,7 +255,7 @@
   },
   "doctest": {
     "success": [true],
-    "published": ["2026-07-29 21:56:26.217 UTC"],
+    "published": ["2026-08-28 17:34:52.971 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["7c66bdbe6352d8339cf977f3a3d40d7c0af9a475"]
   },
