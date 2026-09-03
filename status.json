@@ -750,7 +750,6 @@
     "published": ["2026-09-03 14:50:30.918 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["abf69a215604afcaa7ecb4359f592d13bf6dea9f"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/33754998200"],
     "versions": {
       "version_current": ["1.2.2"],
       "hash_current": ["abf69a215604afcaa7ecb4359f592d13bf6dea9f"],
@@ -842,11 +841,10 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [false],
-    "published": ["2026-09-03 13:49:16.055 UTC"],
+    "success": [true],
+    "published": ["2026-09-03 15:46:48.792 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/33760308793"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
   "Rvision": {
     "success": [false],
@@ -937,11 +935,10 @@
     }
   },
   "secretbase": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-09-03 13:40:39.022 UTC"],
     "version": ["1.3.0"],
-    "remote_hash": ["f010c1fb4c0107a2ba4bbe5601c4b3bcb76b9c50"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/33759379295"]
+    "remote_hash": ["f010c1fb4c0107a2ba4bbe5601c4b3bcb76b9c50"]
   },
   "sedonadb": {
     "success": [false],
