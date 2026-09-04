@@ -1248,7 +1248,6 @@
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33899916774/job/101112541052"
       }
     ],
-    "synchronization": ["recent"],
     "cran": ["0.9.5"]
   },
   "zstdlite": {
