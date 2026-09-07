@@ -1083,10 +1083,11 @@
     "remote_hash": ["4a0b41cde2d32c28662645c1b8780192e57400a2"]
   },
   "unigd": {
-    "success": [true],
-    "published": ["2026-08-01 13:42:03.625 UTC"],
+    "success": [false],
+    "published": ["2026-09-07 01:06:31.901 UTC"],
     "version": ["0.2.0"],
-    "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"]
+    "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"],
+    "synchronization": ["recent"]
   },
   "vctrs": {
     "success": [true],
