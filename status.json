@@ -35,7 +35,7 @@
   },
   "arrow": {
     "success": [false],
-    "published": ["2026-08-12 04:07:16.474 UTC"],
+    "published": ["2026-09-09 10:56:32.032 UTC"],
     "version": ["25.0.1"],
     "remote_hash": ["beccec0d0c451b7aa3e4530416ac431b3c035c69"],
     "r_cmd_check": [
@@ -43,7 +43,7 @@
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31364810663/job/94002083730"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/34339457666/job/102428599655"
       }
     ]
   },
@@ -268,7 +268,7 @@
   },
   "duckdb": {
     "success": [true],
-    "published": ["2026-09-08 07:05:10.510 UTC"],
+    "published": ["2026-09-09 07:12:20.571 UTC"],
     "version": ["1.5.5"],
     "remote_hash": ["7930f8602ef8cd37cd4903f4c92aeef0edb29eab"]
   },
@@ -828,7 +828,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2026-08-10 03:30:31.214 UTC"],
+    "published": ["2026-09-09 06:55:12.552 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
@@ -836,7 +836,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31148054338/job/93346127232"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/34320980596/job/102367409306"
       }
     ]
   },
@@ -1073,7 +1073,7 @@
   },
   "unigd": {
     "success": [true],
-    "published": ["2026-09-08 06:16:42.891 UTC"],
+    "published": ["2026-09-09 06:22:37.069 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"]
   },
@@ -1220,7 +1220,7 @@
   },
   "zstdlite": {
     "success": [false],
-    "published": ["2026-08-10 03:32:14.938 UTC"],
+    "published": ["2026-09-09 07:30:45.971 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
     "r_cmd_check": [
@@ -1228,7 +1228,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/31149847983/job/93346400772"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/34323916227/job/102376796163"
       }
     ]
   }
