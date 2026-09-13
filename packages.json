@@ -323,7 +323,7 @@
   {
     "package": "polars",
     "url": "https://github.com/pola-rs/r-polars",
-    "branch": "*release"
+    "branch": "3c8a18829fa2ea2a306db4d468a867b1ed76c754"
   },
   {
     "package": "polars0",
