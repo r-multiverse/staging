@@ -286,10 +286,9 @@
   },
   "geoarrow": {
     "success": [false],
-    "published": ["2026-09-16 11:46:17.790 UTC"],
+    "published": ["2026-09-16 12:04:31.431 UTC"],
     "version": ["0.4.3"],
     "remote_hash": ["9c305a06f6bd68f6f0d3565cb8971bcedb04a579"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/35092084647"],
     "dependencies": {
       "wk": []
     }
@@ -909,7 +908,6 @@
     "version": ["0.4.1"],
     "remote_hash": ["c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e"],
     "dependencies": {
-      "geoarrow": ["sedonadb"],
       "sedonadb": [],
       "wk": ["sedonadb"]
     }
@@ -934,7 +932,6 @@
       }
     ],
     "dependencies": {
-      "geoarrow": [],
       "wk": ["geoarrow"]
     }
   },
