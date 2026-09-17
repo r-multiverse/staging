@@ -55,7 +55,7 @@
   },
   "asylum": {
     "success": [false],
-    "published": ["2026-08-18 04:49:14.908 UTC"],
+    "published": ["2026-09-17 08:30:17.801 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
     "cran": ["1.1.2"]
@@ -103,7 +103,7 @@
   },
   "autometric": {
     "success": [true],
-    "published": ["2026-09-03 09:43:41.309 UTC"],
+    "published": ["2026-09-17 11:56:51.976 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
@@ -274,7 +274,7 @@
   },
   "ecoXCorr": {
     "success": [true],
-    "published": ["2026-08-20 02:39:05.816 UTC"],
+    "published": ["2026-09-17 11:36:03.490 UTC"],
     "version": ["0.2.2"],
     "remote_hash": ["0936697d8620330696c4e99310e4018be970f244"]
   },
