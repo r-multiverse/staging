@@ -313,7 +313,7 @@
   },
   "geotargets": {
     "success": [true],
-    "published": ["2026-09-14 08:18:59.525 UTC"],
+    "published": ["2026-09-22 11:51:17.790 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"]
   },
@@ -501,7 +501,7 @@
   },
   "loo": {
     "success": [true],
-    "published": ["2026-08-23 05:26:21.023 UTC"],
+    "published": ["2026-09-22 09:00:02.303 UTC"],
     "version": ["2.10.1"],
     "remote_hash": ["df27ade95093db66cebf19d55530439386ac1a97"]
   },
@@ -668,24 +668,10 @@
     ]
   },
   "projpred": {
-    "success": [false],
-    "published": ["2026-08-25 16:03:15.072 UTC"],
+    "success": [true],
+    "published": ["2026-09-22 10:08:45.589 UTC"],
     "version": ["2.10.0"],
-    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "macos-release-arm64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/32618637104/job/97865470240"
-      },
-      {
-        "check": "ERROR",
-        "config": "macos-release-x86_64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/32618637104/job/97865470274"
-      }
-    ]
+    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
   },
   "prophet": {
     "success": [false],
