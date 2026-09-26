@@ -14,18 +14,10 @@
     ]
   },
   "adbcflightsql": {
-    "success": [false],
-    "published": ["2026-08-27 11:58:20.755 UTC"],
+    "success": [true],
+    "published": ["2026-09-26 06:47:18.101 UTC"],
     "version": ["0.24.0"],
-    "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "windows-release-arm64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33068706397/job/98506160389"
-      }
-    ]
+    "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"]
   },
   "ahocorasick": {
     "success": [true],
@@ -115,7 +107,7 @@
   },
   "bedrockbio": {
     "success": [true],
-    "published": ["2026-08-27 12:04:59.463 UTC"],
+    "published": ["2026-09-26 06:45:26.793 UTC"],
     "version": ["2.0.0"],
     "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"]
   },
