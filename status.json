@@ -667,9 +667,9 @@
   },
   "projpred": {
     "success": [true],
-    "published": ["2026-09-22 10:08:45.589 UTC"],
-    "version": ["2.10.0"],
-    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
+    "published": ["2026-10-01 01:10:24.976 UTC"],
+    "version": ["2.11.0"],
+    "remote_hash": ["545b4668eb1e815971a2fb1da5932e9042f5a98d"]
   },
   "prophet": {
     "success": [false],
