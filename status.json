@@ -1,17 +1,9 @@
 {
   "adbcdrivermanager": {
-    "success": [false],
-    "published": ["2026-09-03 12:51:50.515 UTC"],
+    "success": [true],
+    "published": ["2026-10-03 11:02:19.568 UTC"],
     "version": ["0.24.0"],
-    "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "windows-release-arm64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33747041776/job/100631805421"
-      }
-    ]
+    "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"]
   },
   "adbcflightsql": {
     "success": [true],
