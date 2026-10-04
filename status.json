@@ -66,7 +66,7 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2026-09-08 06:30:19.878 UTC"],
+    "published": ["2026-10-04 14:53:09.539 UTC"],
     "version": ["0.5.0"],
     "remote_hash": ["03904914c7dd3b35b15719a6b4901635dedcdbb9"],
     "r_cmd_check": [
@@ -74,22 +74,23 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/34023322176/job/101957024292"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37209901220/job/111459526787"
       },
       {
         "check": "ERROR",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/34023322176/job/101957023439"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37209901220/job/111459526783"
       },
       {
         "check": "WARNING",
         "config": "windows-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/34023322176/job/101957024564"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37209901220/job/111459526809"
       }
     ],
-    "remotes": ["bnosac/audio.vadwebrtc"]
+    "remotes": ["bnosac/audio.vadwebrtc"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/37209901220"]
   },
   "autometric": {
     "success": [true],
@@ -124,7 +125,7 @@
   },
   "bridgestan": {
     "success": [false],
-    "published": ["2026-09-04 08:56:14.375 UTC"],
+    "published": ["2026-10-04 09:39:38.434 UTC"],
     "version": ["2.9.0"],
     "remote_hash": ["49e248f351d4dac18d7fd154dbc3a0ab39c5de10"],
     "r_cmd_check": [
@@ -132,19 +133,19 @@
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33855060772/job/100967388754"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37192523090/job/111408081221"
       },
       {
         "check": "ERROR",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33855060772/job/100967388812"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37192523090/job/111408081245"
       },
       {
         "check": "ERROR",
         "config": "windows-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33855060772/job/100967388947"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37192523090/job/111408081222"
       }
     ]
   },
@@ -277,7 +278,7 @@
   },
   "geographr": {
     "success": [false],
-    "published": ["2026-09-14 08:35:57.970 UTC"],
+    "published": ["2026-10-04 14:49:37.203 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"],
     "r_cmd_check": [
@@ -285,19 +286,19 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/34818606831/job/103896238847"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37209896186/job/111459806120"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/34818606831/job/103896238791"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37209896186/job/111459806271"
       },
       {
         "check": "WARNING",
         "config": "windows-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/34818606831/job/103896238730"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37209896186/job/111459806179"
       }
     ]
   },
@@ -372,7 +373,7 @@
   },
   "healthyr": {
     "success": [false],
-    "published": ["2026-09-04 08:43:54.723 UTC"],
+    "published": ["2026-10-04 09:28:37.621 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["37a8c7844582bf6dbbc80bf960aa176e2c3e9435"],
     "r_cmd_check": [
@@ -380,19 +381,19 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33854337667/job/100964765086"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37191987396/job/111406407506"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33854337667/job/100964764968"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37191987396/job/111406407439"
       },
       {
         "check": "WARNING",
         "config": "windows-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33854337667/job/100964765074"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37191987396/job/111406407420"
       }
     ]
   },
@@ -677,7 +678,7 @@
   },
   "prqlr": {
     "success": [false],
-    "published": ["2026-09-06 06:31:51.746 UTC"],
+    "published": ["2026-10-04 12:44:00.438 UTC"],
     "version": ["0.10.1"],
     "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
     "r_cmd_check": [
@@ -685,13 +686,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33858593636/job/101439787891"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37202659506/job/111437845884"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33858593636/job/101439788198"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37202659506/job/111437845826"
       }
     ]
   },
@@ -1101,7 +1102,7 @@
   },
   "wk": {
     "success": [false],
-    "published": ["2026-09-04 17:38:31.253 UTC"],
+    "published": ["2026-10-04 11:33:00.204 UTC"],
     "version": ["0.9.4"],
     "remote_hash": ["03d0d38b68a67166faa1cbd774698c3e033b514c"],
     "r_cmd_check": [
@@ -1109,37 +1110,37 @@
         "check": "ERROR",
         "config": "linux-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33899916774/job/101112540929"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37198635702/job/111426121284"
       },
       {
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33899916774/job/101112541014"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37198635702/job/111426121263"
       },
       {
         "check": "ERROR",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33899916774/job/101112541109"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37198635702/job/111426121281"
       },
       {
         "check": "ERROR",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33899916774/job/101112541152"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37198635702/job/111426121255"
       },
       {
         "check": "ERROR",
         "config": "windows-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33899916774/job/101112540931"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37198635702/job/111426121298"
       },
       {
         "check": "ERROR",
         "config": "windows-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/33899916774/job/101112541052"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37198635702/job/111426121291"
       }
     ],
     "cran": ["0.9.5"]
