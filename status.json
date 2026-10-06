@@ -415,10 +415,18 @@
     "remote_hash": ["e96e5bd71301d74f628ffdffc2a06e5b180b2276"]
   },
   "igraph": {
-    "success": [true],
-    "published": ["2026-09-08 06:17:52.538 UTC"],
+    "success": [false],
+    "published": ["2026-10-06 14:02:46.578 UTC"],
     "version": ["2.3.3"],
-    "remote_hash": ["a1b77d04e27b676e88c306db883f71ecd625b912"]
+    "remote_hash": ["a1b77d04e27b676e88c306db883f71ecd625b912"],
+    "r_cmd_check": [
+      {
+        "check": "WARNING",
+        "config": "windows-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37472970070/job/112304530299"
+      }
+    ]
   },
   "IMD": {
     "success": [false],
@@ -873,7 +881,7 @@
   },
   "string2path": {
     "success": [true],
-    "published": ["2026-09-08 06:20:20.118 UTC"],
+    "published": ["2026-10-06 13:56:37.345 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["9f56fe2469b30a4dcf58c3a9c9b031bd38e80726"]
   },
