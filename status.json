@@ -19,18 +19,23 @@
   },
   "arrow": {
     "success": [false],
-    "published": ["2026-10-09 09:29:27.122 UTC"],
-    "version": ["25.0.1"],
-    "remote_hash": ["beccec0d0c451b7aa3e4530416ac431b3c035c69"],
+    "published": ["2026-10-09 11:31:19.099 UTC"],
+    "version": ["26.0.0"],
+    "remote_hash": ["446167169a0dc547e00e1bc29f417a40c0ca267a"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/34339457666/job/102767306873"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37920806342/job/113790401477"
+      },
+      {
+        "check": "WARNING",
+        "config": "windows-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/37920806342/job/113790401377"
       }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/37911549776"]
+    ]
   },
   "ascribe": {
     "success": [true],
