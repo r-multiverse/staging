@@ -105,6 +105,13 @@
     "hash_highest": "34529f9aa4641e3dae7acc1e27281526e5b0907a"
   },
   {
+    "package": "cidian",
+    "version_current": "0.1.0",
+    "hash_current": "97e2bd39dbb62fa2921b2cf56a1e7a4ff56f476a",
+    "version_highest": "0.1.0",
+    "hash_highest": "97e2bd39dbb62fa2921b2cf56a1e7a4ff56f476a"
+  },
+  {
     "package": "cli",
     "version_current": "3.6.6",
     "hash_current": "928dad1c230a1da745bfdcc9b59726081a3a5b6e",
@@ -441,6 +448,13 @@
     "hash_highest": "e36294db9b20ec964487b251fd76306c890d3891"
   },
   {
+    "package": "permittimelines",
+    "version_current": "0.1.1",
+    "hash_current": "569fe0c4bdcc230c45f97360ce136bb0d877772f",
+    "version_highest": "0.1.1",
+    "hash_highest": "569fe0c4bdcc230c45f97360ce136bb0d877772f"
+  },
+  {
     "package": "polars",
     "version_current": "1.16.0",
     "hash_current": "3c8a18829fa2ea2a306db4d468a867b1ed76c754",
@@ -509,6 +523,13 @@
     "hash_current": "12527ceae89b6a348a1c42b01f91afe456ae25f4",
     "version_highest": "4.6.1.0",
     "hash_highest": "12527ceae89b6a348a1c42b01f91afe456ae25f4"
+  },
+  {
+    "package": "retroglyph",
+    "version_current": "0.0.9",
+    "hash_current": "aa3cf134c14dd7d9d7cd0c570881ed0c610904ff",
+    "version_highest": "0.0.9",
+    "hash_highest": "aa3cf134c14dd7d9d7cd0c570881ed0c610904ff"
   },
   {
     "package": "riem",
