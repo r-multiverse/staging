@@ -284,7 +284,7 @@
   },
   "geoarrow": {
     "success": [false],
-    "published": ["2026-09-16 12:04:31.431 UTC"],
+    "published": ["2026-10-16 11:04:30.079 UTC"],
     "version": ["0.4.3"],
     "remote_hash": ["9c305a06f6bd68f6f0d3565cb8971bcedb04a579"],
     "cran": ["0.4.4"],
@@ -528,7 +528,7 @@
   },
   "mfclim": {
     "success": [true],
-    "published": ["2026-10-10 08:18:57.427 UTC"],
+    "published": ["2026-10-16 11:18:12.117 UTC"],
     "version": ["0.1.1"],
     "remote_hash": ["9fcdfcedf357040c95125ab9865693ba6ff35e2e"]
   },
@@ -775,11 +775,10 @@
     "remote_hash": ["ce8a147b712c425fa4eb1d351e621d07ce6e423b"]
   },
   "Rmlx": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-10-16 07:22:23.266 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"],
-    "synchronization": ["recent"]
+    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
   },
   "RmlxStats": {
     "success": [false],
@@ -800,10 +799,7 @@
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/38557733328/job/116837834401"
       }
     ],
-    "remotes": ["hughjonesd/Rmlx"],
-    "dependencies": {
-      "Rmlx": []
-    }
+    "remotes": ["hughjonesd/Rmlx"]
   },
   "rredlist": {
     "success": [true],
