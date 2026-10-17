@@ -49,7 +49,7 @@
   },
   "asylum": {
     "success": [false],
-    "published": ["2026-09-17 08:30:17.801 UTC"],
+    "published": ["2026-10-17 07:30:37.780 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
     "cran": ["1.1.2"]
@@ -103,7 +103,7 @@
   },
   "autometric": {
     "success": [true],
-    "published": ["2026-09-17 11:56:51.976 UTC"],
+    "published": ["2026-10-17 10:22:38.326 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
@@ -272,7 +272,7 @@
   },
   "ecoXCorr": {
     "success": [true],
-    "published": ["2026-09-19 06:20:49.400 UTC"],
+    "published": ["2026-10-17 11:29:34.507 UTC"],
     "version": ["0.2.2"],
     "remote_hash": ["0936697d8620330696c4e99310e4018be970f244"]
   },
@@ -463,7 +463,7 @@
   },
   "jagstargets": {
     "success": [false],
-    "published": ["2026-10-16 06:10:39.680 UTC"],
+    "published": ["2026-10-17 05:54:33.736 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
     "dependencies": {
@@ -962,7 +962,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-10-16 06:10:56.489 UTC"],
+    "published": ["2026-10-17 05:54:00.443 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["1a1e0feedeae5437fe45f34d26b3d180576f3f18"],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
