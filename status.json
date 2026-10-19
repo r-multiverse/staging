@@ -127,7 +127,7 @@
   },
   "bootstrapper": {
     "success": [false],
-    "published": ["2026-10-10 23:02:05.493 UTC"],
+    "published": ["2026-10-19 11:59:41.131 UTC"],
     "version": ["1.1.2"],
     "remote_hash": ["6a2e58001854ec4514e575929497ce9e4fb5dedb"],
     "remotes": ["lorenzwalthert/touchstone"]
@@ -348,7 +348,7 @@
   },
   "ggseg.meshes": {
     "success": [true],
-    "published": ["2026-09-19 11:36:18.586 UTC"],
+    "published": ["2026-10-19 11:32:59.525 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["964f1f59d9b224c31b7a67994007ac3024263962"]
   },
@@ -457,7 +457,7 @@
   },
   "InsectLabelR": {
     "success": [true],
-    "published": ["2026-10-10 17:01:52.585 UTC"],
+    "published": ["2026-10-19 12:07:51.311 UTC"],
     "version": ["1.0.4"],
     "remote_hash": ["86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0"]
   },
