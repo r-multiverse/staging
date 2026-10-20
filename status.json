@@ -763,10 +763,18 @@
     "remote_hash": ["5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33"]
   },
   "rJavaEnv": {
-    "success": [true],
-    "published": ["2026-10-13 10:26:17.877 UTC"],
-    "version": ["0.3.0"],
-    "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
+    "success": [false],
+    "published": ["2026-10-20 19:52:27.644 UTC"],
+    "version": ["0.4.0"],
+    "remote_hash": ["c2c19b1138605e70e7f2bb007b3e0c01897ef466"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "windows-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/39485163678/job/118845372250"
+      }
+    ]
   },
   "rlang": {
     "success": [true],
