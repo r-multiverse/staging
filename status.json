@@ -320,7 +320,7 @@
   },
   "geotargets": {
     "success": [false],
-    "published": ["2026-09-22 11:51:17.790 UTC"],
+    "published": ["2026-10-22 11:33:48.260 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"],
     "dependencies": {
