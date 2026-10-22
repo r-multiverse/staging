@@ -522,7 +522,7 @@
   },
   "loo": {
     "success": [true],
-    "published": ["2026-09-22 09:00:02.303 UTC"],
+    "published": ["2026-10-22 09:09:42.030 UTC"],
     "version": ["2.10.1"],
     "remote_hash": ["df27ade95093db66cebf19d55530439386ac1a97"]
   },
@@ -1229,7 +1229,7 @@
   },
   "zstdlite": {
     "success": [false],
-    "published": ["2026-10-21 06:25:57.084 UTC"],
+    "published": ["2026-10-22 06:23:35.025 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
     "r_cmd_check": [
@@ -1237,7 +1237,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/39554964434/job/119072590791"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/39554964434/job/119673326312"
       }
     ]
   }
