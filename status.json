@@ -114,13 +114,10 @@
     "remote_hash": ["ba7344cb7f0b91bd8300ff019f42be61590503c1"]
   },
   "bedrockbio": {
-    "success": [false],
-    "published": ["2026-10-15 09:06:25.375 UTC"],
+    "success": [true],
+    "published": ["2026-10-25 08:41:25.766 UTC"],
     "version": ["2.0.0"],
-    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"],
-    "dependencies": {
-      "duckdb": []
-    }
+    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"]
   },
   "biorecap": {
     "success": [true],
@@ -268,11 +265,10 @@
     "remote_hash": ["7c66bdbe6352d8339cf977f3a3d40d7c0af9a475"]
   },
   "duckdb": {
-    "success": [false],
-    "published": ["2026-10-25 06:29:19.512 UTC"],
-    "version": ["1.5.6"],
-    "remote_hash": ["f1f818b29aa8292f1623dae09b25264f93ad71c0"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/40169233072"]
+    "success": [true],
+    "published": ["2026-10-25 08:26:14.605 UTC"],
+    "version": ["2.0.0"],
+    "remote_hash": ["0f355370617dc3669fa1ca170753fd8b8ace5a41"]
   },
   "ecoXCorr": {
     "success": [true],
@@ -494,7 +490,7 @@
   },
   "litedown": {
     "success": [true],
-    "published": ["2026-09-25 12:03:46.016 UTC"],
+    "published": ["2026-10-25 11:41:26.339 UTC"],
     "version": ["0.11"],
     "remote_hash": ["2728086ff2a412a86eda6ecd31b26185e53af540"]
   },
