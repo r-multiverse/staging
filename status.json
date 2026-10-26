@@ -1,19 +1,15 @@
 {
   "adbcdrivermanager": {
-    "success": [false],
-    "published": ["2026-10-03 11:02:19.568 UTC"],
-    "version": ["0.24.0"],
-    "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"],
-    "cran": ["0.24.0-3"]
+    "success": [true],
+    "published": ["2026-10-26 06:54:12.414 UTC"],
+    "version": ["0.25.0"],
+    "remote_hash": ["1f9f5540dbcb695c540dfcdafeea421c7d94adb1"]
   },
   "adbcflightsql": {
-    "success": [false],
-    "published": ["2026-09-26 06:47:18.101 UTC"],
-    "version": ["0.24.0"],
-    "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"],
-    "dependencies": {
-      "adbcdrivermanager": []
-    }
+    "success": [true],
+    "published": ["2026-10-26 07:37:23.823 UTC"],
+    "version": ["0.25.0"],
+    "remote_hash": ["1f9f5540dbcb695c540dfcdafeea421c7d94adb1"]
   },
   "ahocorasick": {
     "success": [true],
@@ -56,7 +52,7 @@
   },
   "audio.vadwebrtc": {
     "success": [false],
-    "published": ["2026-09-28 07:24:56.903 UTC"],
+    "published": ["2026-10-26 12:02:21.480 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
     "r_cmd_check": [
@@ -64,13 +60,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/36236482316/job/108825484356"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/40318084523/job/121557411010"
       },
       {
         "check": "WARNING",
         "config": "windows-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/36236482316/job/108825484886"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/40318084523/job/121557410897"
       }
     ]
   },
