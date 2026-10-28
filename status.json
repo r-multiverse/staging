@@ -52,7 +52,7 @@
   },
   "audio.vadwebrtc": {
     "success": [false],
-    "published": ["2026-10-27 06:38:27.746 UTC"],
+    "published": ["2026-10-28 07:11:14.309 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
     "r_cmd_check": [
@@ -60,13 +60,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/40318084523/job/122048283379"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/40318084523/job/122680227285"
       },
       {
         "check": "WARNING",
         "config": "windows-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/40318084523/job/122048282980"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/40318084523/job/122680227594"
       }
     ]
   },
