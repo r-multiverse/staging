@@ -316,9 +316,10 @@
   },
   "geotargets": {
     "success": [false],
-    "published": ["2026-10-22 11:33:48.260 UTC"],
+    "published": ["2026-10-29 13:02:02.150 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/40878224595"],
     "dependencies": {
       "igraph": ["targets"]
     }
