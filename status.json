@@ -224,7 +224,7 @@
   },
   "deeptimedata": {
     "success": [true],
-    "published": ["2026-10-04 08:26:18.437 UTC"],
+    "published": ["2026-11-03 09:26:15.543 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["7f1d9e301bac0d580f93c168328ef2aaad490aca"]
   },
@@ -486,7 +486,7 @@
   },
   "litedown": {
     "success": [true],
-    "published": ["2026-11-02 18:48:22.062 UTC"],
+    "published": ["2026-11-03 08:18:09.657 UTC"],
     "version": ["0.11"],
     "remote_hash": ["2728086ff2a412a86eda6ecd31b26185e53af540"]
   },
