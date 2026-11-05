@@ -978,7 +978,7 @@
   },
   "string2path": {
     "success": [true],
-    "published": ["2026-10-08 07:50:56.427 UTC"],
+    "published": ["2026-11-05 13:39:56.569 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["9f56fe2469b30a4dcf58c3a9c9b031bd38e80726"]
   },
@@ -1086,7 +1086,7 @@
   },
   "vctrs": {
     "success": [true],
-    "published": ["2026-10-10 17:51:01.128 UTC"],
+    "published": ["2026-11-05 13:56:34.697 UTC"],
     "version": ["0.7.3"],
     "remote_hash": ["d452a02c9f4752f3268431a3ac8aa221dbe4040f"]
   },
