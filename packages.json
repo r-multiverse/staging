@@ -369,7 +369,7 @@
   {
     "package": "prqlr",
     "url": "https://github.com/PRQL/prqlc-r",
-    "branch": "*release"
+    "branch": "d9f266e33c8c5833e8224c6436a18e95fb811654"
   },
   {
     "package": "qqman",
