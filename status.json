@@ -492,7 +492,7 @@
   },
   "litedown": {
     "success": [true],
-    "published": ["2026-11-05 08:12:25.654 UTC"],
+    "published": ["2026-11-15 05:39:26.519 UTC"],
     "version": ["0.11"],
     "remote_hash": ["2728086ff2a412a86eda6ecd31b26185e53af540"]
   },
@@ -732,24 +732,10 @@
     }
   },
   "prqlr": {
-    "success": [false],
-    "published": ["2026-11-03 13:57:58.433 UTC"],
-    "version": ["0.10.1"],
-    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
-    "r_cmd_check": [
-      {
-        "check": "WARNING",
-        "config": "macos-release-arm64",
-        "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/41645317317/job/125950876985"
-      },
-      {
-        "check": "WARNING",
-        "config": "macos-release-x86_64",
-        "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/41645317317/job/125950877220"
-      }
-    ]
+    "success": [true],
+    "published": ["2026-11-15 07:28:06.331 UTC"],
+    "version": ["0.10.2"],
+    "remote_hash": ["d9f266e33c8c5833e8224c6436a18e95fb811654"]
   },
   "qqman": {
     "success": [true],
