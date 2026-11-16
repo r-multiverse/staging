@@ -39,9 +39,10 @@
   },
   "asylum": {
     "success": [false],
-    "published": ["2026-10-17 07:30:37.780 UTC"],
+    "published": ["2026-11-16 09:47:52.374 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/43842934159"],
     "cran": ["1.1.2"]
   },
   "audio.vadwebrtc": {
@@ -474,7 +475,7 @@
   },
   "jiebaRS": {
     "success": [true],
-    "published": ["2026-11-14 09:19:32.440 UTC"],
+    "published": ["2026-11-16 08:41:15.632 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["49a9cc41844af070d2cf187f9c884b5394ea21e2"]
   },
@@ -733,7 +734,7 @@
   },
   "prqlr": {
     "success": [true],
-    "published": ["2026-11-15 07:28:06.331 UTC"],
+    "published": ["2026-11-16 08:42:33.062 UTC"],
     "version": ["0.10.2"],
     "remote_hash": ["d9f266e33c8c5833e8224c6436a18e95fb811654"]
   },
