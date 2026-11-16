@@ -39,10 +39,9 @@
   },
   "asylum": {
     "success": [false],
-    "published": ["2026-11-16 09:47:52.374 UTC"],
+    "published": ["2026-11-16 10:20:26.677 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/43842934159"],
     "cran": ["1.1.2"]
   },
   "audio.vadwebrtc": {
@@ -94,7 +93,7 @@
   },
   "autometric": {
     "success": [true],
-    "published": ["2026-10-17 10:22:38.326 UTC"],
+    "published": ["2026-11-16 12:55:23.447 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
@@ -275,7 +274,7 @@
   },
   "ecoXCorr": {
     "success": [true],
-    "published": ["2026-10-17 11:29:34.507 UTC"],
+    "published": ["2026-11-16 13:45:30.382 UTC"],
     "version": ["0.2.2"],
     "remote_hash": ["0936697d8620330696c4e99310e4018be970f244"]
   },
@@ -287,7 +286,7 @@
   },
   "geoarrow": {
     "success": [false],
-    "published": ["2026-10-16 11:04:30.079 UTC"],
+    "published": ["2026-11-16 19:29:38.190 UTC"],
     "version": ["0.4.3"],
     "remote_hash": ["9c305a06f6bd68f6f0d3565cb8971bcedb04a579"],
     "cran": ["0.4.4"],
@@ -327,7 +326,8 @@
     "version": ["0.3.1"],
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"],
     "dependencies": {
-      "igraph": ["targets"]
+      "igraph": ["targets"],
+      "targets": []
     }
   },
   "ggmagnify": {
@@ -439,7 +439,7 @@
   },
   "igraph": {
     "success": [false],
-    "published": ["2026-10-16 02:09:17.403 UTC"],
+    "published": ["2026-11-16 17:38:28.279 UTC"],
     "version": ["2.3.4"],
     "remote_hash": ["fe3538b925b9898953b717e6de819be518bcf8ea"],
     "r_cmd_check": [
@@ -449,7 +449,8 @@
         "r": "4.6.1",
         "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/38836274322/job/116768287651"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/43918207437"]
   },
   "IMD": {
     "success": [false],
@@ -470,7 +471,8 @@
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
     "dependencies": {
-      "igraph": ["targets", "tarchetypes"]
+      "igraph": ["targets", "tarchetypes"],
+      "targets": ["tarchetypes"]
     }
   },
   "jiebaRS": {
@@ -531,7 +533,7 @@
   },
   "mfclim": {
     "success": [true],
-    "published": ["2026-10-16 11:18:12.117 UTC"],
+    "published": ["2026-11-16 18:03:10.030 UTC"],
     "version": ["0.1.1"],
     "remote_hash": ["9fcdfcedf357040c95125ab9865693ba6ff35e2e"]
   },
@@ -752,9 +754,10 @@
   },
   "retroglyph": {
     "success": [false],
-    "published": ["2026-10-16 02:31:27.125 UTC"],
+    "published": ["2026-11-16 17:23:34.789 UTC"],
     "version": ["0.0.9"],
     "remote_hash": ["aa3cf134c14dd7d9d7cd0c570881ed0c610904ff"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/43916762871"],
     "dependencies": {
       "igraph": []
     }
@@ -972,7 +975,8 @@
     "remote_hash": ["1a1e0feedeae5437fe45f34d26b3d180576f3f18"],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
     "dependencies": {
-      "igraph": ["targets", "tarchetypes"]
+      "igraph": ["targets", "tarchetypes"],
+      "targets": ["tarchetypes"]
     }
   },
   "string2path": {
@@ -987,14 +991,16 @@
     "version": ["0.14.1"],
     "remote_hash": ["020909b152e81f5891242672a3c2ef42312cfc2b"],
     "dependencies": {
-      "igraph": ["targets"]
+      "igraph": ["targets"],
+      "targets": []
     }
   },
   "targets": {
     "success": [false],
-    "published": ["2026-10-16 02:52:50.377 UTC"],
+    "published": ["2026-11-16 17:57:29.032 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/43922234951"],
     "dependencies": {
       "igraph": []
     }
@@ -1005,7 +1011,8 @@
     "version": ["0.0.1"],
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
     "dependencies": {
-      "igraph": ["targets", "tarchetypes"]
+      "igraph": ["targets", "tarchetypes"],
+      "targets": ["tarchetypes"]
     }
   },
   "taxizedb": {
