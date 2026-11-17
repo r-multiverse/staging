@@ -161,10 +161,11 @@
     "remote_hash": ["97e2bd39dbb62fa2921b2cf56a1e7a4ff56f476a"]
   },
   "cli": {
-    "success": [true],
-    "published": ["2026-10-18 10:21:59.585 UTC"],
+    "success": [false],
+    "published": ["2026-11-17 13:40:04.519 UTC"],
     "version": ["3.6.6"],
-    "remote_hash": ["928dad1c230a1da745bfdcc9b59726081a3a5b6e"]
+    "remote_hash": ["928dad1c230a1da745bfdcc9b59726081a3a5b6e"],
+    "synchronization": ["recent"]
   },
   "cmdstanr": {
     "success": [true],
@@ -716,7 +717,7 @@
   },
   "prqlr": {
     "success": [true],
-    "published": ["2026-11-16 08:42:33.062 UTC"],
+    "published": ["2026-11-17 09:55:14.230 UTC"],
     "version": ["0.10.2"],
     "remote_hash": ["d9f266e33c8c5833e8224c6436a18e95fb811654"]
   },
