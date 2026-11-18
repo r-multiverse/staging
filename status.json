@@ -92,11 +92,10 @@
     "remotes": ["bnosac/audio.vadwebrtc"]
   },
   "autometric": {
-    "success": [false],
-    "published": ["2026-11-18 14:24:06.378 UTC"],
+    "success": [true],
+    "published": ["2026-11-18 15:24:37.778 UTC"],
     "version": ["0.1.2"],
-    "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/44323786253"]
+    "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
   "bayesplot": {
     "success": [true],
@@ -448,11 +447,10 @@
     "cran": ["1.2.2"]
   },
   "InsectLabelR": {
-    "success": [false],
-    "published": ["2026-11-18 13:42:56.292 UTC"],
+    "success": [true],
+    "published": ["2026-11-18 14:32:21.372 UTC"],
     "version": ["1.0.4"],
-    "remote_hash": ["86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/44316465373"]
+    "remote_hash": ["86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0"]
   },
   "jagstargets": {
     "success": [true],
