@@ -150,7 +150,7 @@
   },
   "californiaalw": {
     "success": [true],
-    "published": ["2026-10-20 09:22:39.749 UTC"],
+    "published": ["2026-11-19 11:59:03.624 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["34529f9aa4641e3dae7acc1e27281526e5b0907a"]
   },
@@ -371,7 +371,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2026-11-18 09:11:50.875 UTC"],
+    "published": ["2026-11-19 09:23:07.003 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "r_cmd_check": [
@@ -379,13 +379,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/44110634057/job/134687843648"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/44110634057/job/135454688782"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/44110634057/job/134687843755"
+        "url": "https://github.com/r-universe/r-multiverse-staging/actions/runs/44110634057/job/135454688864"
       }
     ]
   },
