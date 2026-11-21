@@ -509,11 +509,10 @@
     ]
   },
   "loo": {
-    "success": [false],
-    "published": ["2026-11-21 11:00:22.868 UTC"],
+    "success": [true],
+    "published": ["2026-11-21 11:38:21.947 UTC"],
     "version": ["2.10.1"],
-    "remote_hash": ["df27ade95093db66cebf19d55530439386ac1a97"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse-staging/actions/runs/44896950882"]
+    "remote_hash": ["df27ade95093db66cebf19d55530439386ac1a97"]
   },
   "mfclim": {
     "success": [true],
